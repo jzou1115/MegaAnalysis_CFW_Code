@@ -1,0 +1,8 @@
+	Unloading the conflicting module 'intel/18.0.4'
+
+Traceback (most recent call last):
+  File "compute_pval_corrected_perm.py", line 22, in <module>
+    p_adj = computePermPval(pval, null_dist)
+  File "compute_pval_corrected_perm.py", line 18, in computePermPval
+    count = sum(pval>null)
+MemoryError: Unable to allocate 208. MiB for an array with shape (218403702,) and data type bool

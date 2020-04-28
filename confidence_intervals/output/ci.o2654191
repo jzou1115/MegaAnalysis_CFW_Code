@@ -1,0 +1,31 @@
+[1] "genome scans..."
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/emma.fc.cue.corr/emma.fc.cue.corr.RData 
+[1] 1
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.1.permute.RData 
+[1] 2
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.2.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr2.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.2.permute.RData 
+[1] 3
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.3.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr3.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.3.permute.RData 
+[1] 4
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.4.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr4.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.4.permute.RData 
+[1] 5
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.5.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr5.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.5.permute.RData 
+[1] 6
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.6.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr6.oxinfo90.Rdata 
+Using per.chromosome

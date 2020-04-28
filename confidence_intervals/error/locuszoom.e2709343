@@ -1,0 +1,18 @@
+	Unloading the conflicting module 'intel/18.0.4'
+
+Traceback (most recent call last):
+  File "locuszoom_input.py", line 60, in <module>
+    temp = dosages.loc[[ref_snp, snp], :]
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1761, in __getitem__
+    return self._getitem_tuple(key)
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1288, in _getitem_tuple
+    retval = getattr(retval, self.name)._getitem_axis(key, axis=i)
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1953, in _getitem_axis
+    return self._getitem_iterable(key, axis=axis)
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1594, in _getitem_iterable
+    keyarr, indexer = self._get_listlike_indexer(key, axis, raise_missing=False)
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1552, in _get_listlike_indexer
+    keyarr, indexer, o._get_axis_number(axis), raise_missing=raise_missing
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1654, in _validate_read_indexer
+    "Passing list-likes to .loc or [] with any missing labels "
+KeyError: 'Passing list-likes to .loc or [] with any missing labels is no longer supported, see https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike'

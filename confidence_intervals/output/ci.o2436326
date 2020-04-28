@@ -1,0 +1,628 @@
+[1] "genome scans..."
+2 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity30.RData 
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity5.RData 
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.begin.RData 
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.total.RData 
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.middle.RData 
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.end.RData 
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.bmd.n.RData 
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.basal.activity.RData 
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.bmd.RData 
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.bmd.a.RData 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.end.RData 
+ATTEMPTING activity.end 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.bmd.a.RData 
+ATTEMPTING bmd.a 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.end.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.bmd.n.RData 
+ATTEMPTING bmd.n 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.n.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.total.RData 
+ATTEMPTING activity.total 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity30.RData 
+ATTEMPTING activity30 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.3.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr3.oxinfo90.Rdata 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.basal.activity.RData 
+ATTEMPTING basal.activity 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.middle.RData 
+ATTEMPTING activity.middle 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.bmd.RData 
+ATTEMPTING bmd 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.begin.RData 
+ATTEMPTING activity.begin 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity5.RData 
+ATTEMPTING activity5 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity5.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.3.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.4.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr4.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.n.1.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.1.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.1.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.2.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr2.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.2.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr2.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.1.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.1.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.1.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.1.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.2.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr2.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.2.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr2.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.2.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr2.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.2.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr2.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.4.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.5.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr5.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.5.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.6.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr6.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.2.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.2.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.3.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr3.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.3.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr3.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.2.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.2.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.2.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.2.permute.RData 
+Using per.chromosome
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.3.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr3.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.3.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr3.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.3.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr3.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.3.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr3.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.6.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.7.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr7.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.3.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.3.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.4.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr4.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.4.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr4.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.3.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.3.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.3.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.3.permute.RData 
+Using per.chromosome
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.4.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr4.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.4.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr4.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.4.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr4.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.4.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr4.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.7.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.8.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr8.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.4.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.4.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.5.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr5.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.5.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr5.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.4.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.4.permute.RData 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.4.permute.RData 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.4.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.5.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr5.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.5.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr5.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.5.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr5.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.8.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.5.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr5.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.9.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr9.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.5.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.5.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.6.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr6.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.6.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr6.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.5.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.5.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.5.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.5.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.6.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr6.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.6.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr6.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.6.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr6.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.6.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr6.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.9.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.10.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr10.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.6.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.6.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.7.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr7.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.7.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr7.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.7.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.7.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.8.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr8.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.8.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr8.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.6.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.6.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.6.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.6.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.7.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr7.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.7.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr7.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.7.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr7.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.7.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr7.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.8.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.8.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.7.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.7.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.9.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr9.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.8.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr8.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.9.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr9.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.8.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr8.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.7.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.7.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.8.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr8.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.8.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr8.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.8.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.8.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.9.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr9.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.9.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr9.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.9.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.9.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.10.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr10.oxinfo90.Rdata 
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.10.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr10.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.8.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.8.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.9.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr9.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.9.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr9.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.10.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.10.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.11.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr11.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.11.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr11.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.9.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.9.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.10.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr10.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.10.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr10.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.9.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.9.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.10.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr10.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.10.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr10.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.10.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.10.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.11.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr11.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.11.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr11.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.10.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.10.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.11.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr11.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.11.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr11.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.11.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.11.permute.RData 
+Using per.chromosome
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.total.12.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr12.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.12.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr12.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.11.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.11.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.11.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.12.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.12.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr12.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.11.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.12.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr12.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.12.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr12.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.13.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr13.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.12.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr12.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.12.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.13.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr13.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.12.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.12.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.12.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.13.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr13.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.13.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.13.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr13.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.13.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr13.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.14.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr14.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.13.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.14.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr14.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.13.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.13.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.13.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/basal.activity.14.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr14.oxinfo90.Rdata 
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.14.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr14.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.14.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr14.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.14.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.15.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr15.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.15.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.16.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr16.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.14.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.15.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr15.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.16.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.17.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr17.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.14.permute.RData 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.14.permute.RData 
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.15.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr15.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.15.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr15.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.15.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.16.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr16.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.16.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.17.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr17.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.17.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.15.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.15.permute.RData 
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.18.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr18.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.16.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr16.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.16.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr16.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.16.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.16.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.17.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr17.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.17.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr17.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.18.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.19.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr19.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.19.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.a.X.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chrX.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.17.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.18.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr18.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.17.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.17.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.18.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr18.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.18.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr18.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.18.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.19.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr19.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.19.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/bmd.X.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chrX.oxinfo90.Rdata 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.18.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.18.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.19.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr19.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.19.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr19.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.19.permute.RData 
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.19.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.begin.X.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chrX.oxinfo90.Rdata 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity.middle.X.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chrX.oxinfo90.Rdata 
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[[3]]
+[1] "Error in readChar(con, 5L, useBytes = TRUE) : cannot open the connection\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError in readChar(con, 5L, useBytes = TRUE): cannot open the connection>
+
+[[4]]
+NULL
+
+[[5]]
+[1] "Error in readChar(con, 5L, useBytes = TRUE) : cannot open the connection\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError in readChar(con, 5L, useBytes = TRUE): cannot open the connection>
+
+[[6]]
+NULL
+
+[[7]]
+[1] "Error : cannot allocate vector of size 5.9 Gb\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError: cannot allocate vector of size 5.9 Gb>
+
+[[8]]
+[1] "Error in readChar(con, 5L, useBytes = TRUE) : cannot open the connection\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError in readChar(con, 5L, useBytes = TRUE): cannot open the connection>
+
+[[9]]
+NULL
+
+[[10]]
+[1] "Error in readChar(con, 5L, useBytes = TRUE) : cannot open the connection\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError in readChar(con, 5L, useBytes = TRUE): cannot open the connection>
+
+[[11]]
+NULL
+
+[[12]]
+NULL
+
+[[13]]
+[1] "Error in readChar(con, 5L, useBytes = TRUE) : cannot open the connection\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError in readChar(con, 5L, useBytes = TRUE): cannot open the connection>
+
+[[14]]
+NULL
+
+[[15]]
+NULL
+
+[[16]]
+[1] "Error : cannot allocate vector of size 5.9 Gb\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError: cannot allocate vector of size 5.9 Gb>
+
+[[17]]
+[1] "Error in readChar(con, 5L, useBytes = TRUE) : cannot open the connection\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError in readChar(con, 5L, useBytes = TRUE): cannot open the connection>
+
+[[18]]
+NULL
+
+[[19]]
+NULL
+
+[[20]]
+[1] "Error in readChar(con, 5L, useBytes = TRUE) : cannot open the connection\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError in readChar(con, 5L, useBytes = TRUE): cannot open the connection>
+
+[[21]]
+[1] "Error in readChar(con, 5L, useBytes = TRUE) : cannot open the connection\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError in readChar(con, 5L, useBytes = TRUE): cannot open the connection>
+
+[[22]]
+NULL
+
+[[23]]
+NULL
+
+[[24]]
+NULL
+
+[[25]]
+[1] "Error : cannot allocate vector of size 5.9 Gb\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError: cannot allocate vector of size 5.9 Gb>
+
+[[26]]
+[1] "Error in readChar(con, 5L, useBytes = TRUE) : cannot open the connection\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError in readChar(con, 5L, useBytes = TRUE): cannot open the connection>
+
+[[27]]
+NULL
+
+[[28]]
+NULL
+
+[[29]]
+NULL
+
+[[30]]
+[1] "Error in readChar(con, 5L, useBytes = TRUE) : cannot open the connection\n"
+attr(,"class")
+[1] "try-error"
+attr(,"condition")
+<simpleError in readChar(con, 5L, useBytes = TRUE): cannot open the connection>
+

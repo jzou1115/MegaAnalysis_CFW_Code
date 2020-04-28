@@ -1,0 +1,29 @@
+[1] "making ixed model objects..."
+[1] "genome scans..."
+1 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2//emma.activity30.RData 
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2//emma.activity5.RData 
+13 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2//emma.activity.begin.RData 
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2//emma.activity.middle.RData 
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2//emma.activity.end.RData 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2//emma.activity30.RData 
+ATTEMPTING activity30 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.2.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr2.oxinfo90.Rdata 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2//emma.activity5.RData 
+ATTEMPTING activity5 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2//emma.activity.end.RData 
+ATTEMPTING activity.end 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2//emma.activity.begin.RData 
+ATTEMPTING activity.begin 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.14.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr14.oxinfo90.Rdata 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2//emma.activity.middle.RData 
+ATTEMPTING activity.middle 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+Using per.chromosome
+Using per.chromosome

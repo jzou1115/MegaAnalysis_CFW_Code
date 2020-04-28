@@ -1,0 +1,15 @@
+[1] "genome scans..."
+0 20 loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity30.RData 
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity30.RData 
+ATTEMPTING activity30 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.1.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.2.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr2.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.2.permute.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/scans/activity30.3.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr3.oxinfo90.Rdata 
+Using per.chromosome

@@ -1,0 +1,897 @@
+                phenotype chr        bp      logP      fdr.adj threshold
+1                     EDL  13 113025220  6.119717 1.739897e-07      0.01
+2                     EDL  13 114188942  5.948010 2.106191e-07      0.01
+3                      TA  13   5585648  3.807108 1.097188e-04      0.01
+4                      TA  13   6634574  3.350488 3.312490e-04      0.01
+5          activity.begin  13   8796438  9.594757 0.000000e+00      0.01
+6            activity.end  13  10746304  6.054185 1.785684e-07      0.01
+7         activity.middle  13   8211029 11.530120 0.000000e+00      0.01
+8         activity.middle  13   8758183  8.822715 0.000000e+00      0.01
+9          activity.total  11  97633238  3.594092 1.779137e-04      0.01
+10             activity30  11  96835302  5.500308 2.701419e-06      0.01
+11             activity30  13   8139647  8.494170 0.000000e+00      0.01
+12             activity30  13   8929827  5.845788 3.113500e-07      0.01
+13              activity5  11  95894536  3.028193 8.055770e-04      0.01
+14              activity5  12 114672184  3.014014 8.327835e-04      0.01
+15         basal.activity  11  95577822  6.093424 1.785684e-07      0.01
+16         basal.activity  12  77898622  3.544335 2.026843e-04      0.01
+17         basal.activity  13   6384076  7.206446 1.831471e-08      0.01
+18         basal.activity  13   7060535 11.006630 0.000000e+00      0.01
+19                  bmd.a  11  94882898 10.258302 0.000000e+00      0.01
+20                    bmd  11 100043023  5.905009 2.197765e-07      0.01
+21                    bmd  11  95730458 39.464805 0.000000e+00      0.01
+22                  bmd.n  11  47440133  3.719744 1.316507e-04      0.01
+23                  bmd.n  11  96242108 12.730934 0.000000e+00      0.01
+24         decay.activity  12   4924155  3.050816 7.655365e-04      0.01
+25         decay.activity  13 104186809  3.559857 1.935224e-04      0.01
+26         decay.activity  13 116201855  3.842894 1.015596e-04      0.01
+27            fc.baseline  11  44871324  3.175144 5.481684e-04      0.01
+28             fc.context  11  38943123  4.261409 5.449541e-05      0.01
+29             fc.context   5  43941345  3.279601 4.087843e-04      0.01
+30        fc.context.corr  11  18579255  3.490569 2.292956e-04      0.01
+31        fc.context.corr  11  39727763  5.016966 1.284777e-05      0.01
+32        fc.cue.baseline  11  94156895  3.324976 3.575901e-04      0.01
+33        fc.cue.baseline  13  77521276  3.699177 1.382028e-04      0.01
+34                 fc.cue  11  37899895  4.022652 7.505825e-05      0.01
+35                 fc.cue  11  71743394  3.857124 9.733809e-05      0.01
+36                 fc.cue  13 113487586  3.183732 5.326970e-04      0.01
+37            fc.cue.corr  11  23952180  3.039641 7.853850e-04      0.01
+38       fc.uncond.freeze  12  95546152  3.352298 3.291428e-04      0.01
+39  fc.uncond.freeze.corr  11 103991236  3.289930 3.930611e-04      0.01
+40  fc.uncond.freeze.corr   5 148611108  3.291966 3.913349e-04      0.01
+41                gastroc  11  32185264  3.184284 5.322254e-04      0.01
+42                gastroc  11  72819207  3.046422 7.719466e-04      0.01
+43                gastroc  11  90654002  5.201259 9.784633e-06      0.01
+44                gastroc  11  99696564  3.866333 9.565314e-05      0.01
+45                gastroc  12  89242219  3.929478 8.678424e-05      0.01
+46                glucose  11  29836453  3.157568 5.780122e-04      0.01
+47                glucose  14  76842283  3.663935 1.540725e-04      0.01
+48                glucose   5  49834354  3.179013 5.397482e-04      0.01
+49             habit.diff  11 112604043  3.156897 5.790424e-04      0.01
+50             habit.diff  17  75089866  3.026821 8.076008e-04      0.01
+51            habit.ratio  11  69552545  3.352084 3.293076e-04      0.01
+52              plantaris  11  61037331  3.251560 4.457342e-04      0.01
+53              plantaris  12 115977910  3.284202 4.032120e-04      0.01
+54              plantaris  13 105169815  4.477709 3.735285e-05      0.01
+55              plantaris  13 113080347  4.459966 3.775119e-05      0.01
+56              plantaris  13   6655910  3.880134 9.396819e-05      0.01
+57              plantaris  13   8924722  4.616754 3.205532e-05      0.01
+58              plantaris  13  90431981  4.408560 4.118520e-05      0.01
+59              plantaris  14 101994898  3.269136 4.239351e-04      0.01
+60               pp12.ppi  11  15404745  3.073020 7.290078e-04      0.01
+61               pp12.ppi  13 100351990  3.442924 2.618912e-04      0.01
+62               pp12.ppi  14 103116605  4.572042 3.384100e-05      0.01
+63               pp12.ppi   5  22957435  3.232964 4.679820e-04      0.01
+64                pp6.ppi  11   8741025  3.257882 4.378726e-04      0.01
+65                pp6.ppi  14 103039758  3.023308 8.140521e-04      0.01
+66                pp6.ppi  17  36089730  3.514870 2.168507e-04      0.01
+67                 soleus  11  32597107  4.365312 4.382252e-05      0.01
+68                 soleus  11  90642600  3.448906 2.581504e-04      0.01
+69                 soleus  12  95135926  3.455314 2.530955e-04      0.01
+70                 soleus  13  10443175  5.486528 2.843358e-06      0.01
+71                 soleus  13  11419515  4.323120 4.763656e-05      0.01
+72                 soleus  13 115462642  4.322813 4.765945e-05      0.01
+73                 soleus  13 119732788  4.739055 2.555360e-05      0.01
+74                 soleus  13  19566323  3.372674 3.134654e-04      0.01
+75                 soleus  13  97191850  3.260619 4.343333e-04      0.01
+76                 soleus  14  25450066  3.705847 1.362935e-04      0.01
+77                startle  11  82989641  3.326610 3.561341e-04      0.01
+78                startle  12 105059703  3.393009 2.953842e-04      0.01
+79                startle  14  89807442  3.351173 3.303744e-04      0.01
+80                startle   5 111559078  3.115503 6.451081e-04      0.01
+81            tail.length  11  23952164  4.325522 4.751751e-05      0.01
+82            tail.length  14  24885229  3.391398 2.967669e-04      0.01
+83            tail.length  15  36227057  4.694184 2.811766e-05      0.01
+84            tail.length  17  12613651  3.456312 2.526239e-04      0.01
+85                  tibia  11  13126545  4.950397 1.434042e-05      0.01
+86                  tibia  11  58159883  3.780714 1.153186e-04      0.01
+87                  tibia  11  82874723  3.467242 2.430133e-04      0.01
+88                  tibia  11  94822456  5.468989 3.296647e-06      0.01
+89                  tibia  12 103716762  3.133071 6.172057e-04      0.01
+90                  tibia  12   4797347  3.312634 3.679425e-04      0.01
+91                  tibia  12   7507126  3.213446 4.911455e-04      0.01
+92                  tibia  12  83514944 17.052713 0.000000e+00      0.01
+93                  tibia  12  92632773  4.068530 7.131289e-05      0.01
+94                  tibia  12  93725414  3.848293 1.000945e-04      0.01
+95                  tibia  13 110062836  5.041827 1.266462e-05      0.01
+96                  tibia  13  17121072  3.205603 5.014338e-04      0.01
+97                  tibia  13  98716863  3.038359 7.882879e-04      0.01
+98                  tibia  14 110952538  3.100571 6.726672e-04      0.01
+99                  tibia  14  75701258  3.038305 7.883795e-04      0.01
+100                 tibia  14  95066422  3.203434 5.040024e-04      0.01
+101                 tibia  15  31366056  3.864800 9.585918e-05      0.01
+102                 tibia  17  73796919  4.032463 7.428903e-05      0.01
+103                 tibia   5 118662007  4.154280 6.132222e-05      0.01
+104      weight.bmi.tibia  11 108135781  3.296225 3.842380e-04      0.01
+105      weight.bmi.tibia  11  60382643  3.105806 6.627955e-04      0.01
+106      weight.bmi.tibia  11  84402828  4.462934 3.767335e-05      0.01
+107      weight.bmi.tibia  12  28152428  3.829983 1.045861e-04      0.01
+108      weight.bmi.tibia  12  89579310  4.796156 2.168919e-05      0.01
+109      weight.bmi.tibia  12  91113666  3.631823 1.637289e-04      0.01
+110      weight.bmi.tibia  13 105169815  4.968366 1.381845e-05      0.01
+111      weight.bmi.tibia  13  11480380  3.488978 2.301060e-04      0.01
+112      weight.bmi.tibia  13  15726955  3.868734 9.530058e-05      0.01
+113      weight.bmi.tibia  13  77454558  3.870894 9.503502e-05      0.01
+114      weight.bmi.tibia  13   8213976  6.355918 1.327816e-07      0.01
+115      weight.bmi.tibia  14  40816843  3.095848 6.805562e-04      0.01
+116      weight.bmi.tibia  17  34014439 11.296939 0.000000e+00      0.01
+117      weight.bmi.tibia  17  88975877  3.310505 3.694534e-04      0.01
+118      weight.bmi.tibia   5  27182264  4.011105 7.622124e-05      0.01
+119                weight  11  35575621  4.113856 6.461887e-05      0.01
+120                weight  12  11934665  3.598868 1.752946e-04      0.01
+121                weight  13  10639613  4.080158 7.027811e-05      0.01
+122                weight  13  11481782  3.112681 6.510558e-04      0.01
+123                weight  13   9217096  6.427701 1.282030e-07      0.01
+124                weight  15  83766066  3.068047 7.354683e-04      0.01
+125                weight  17  34821960  8.671215 0.000000e+00      0.01
+126                weight  17   9055722  4.057246 7.250335e-05      0.01
+        start       end    dist
+1   112025220 114025220 2000000
+2   113188942 115188942 2000000
+3     4585648   6585648 2000000
+4     5634574   7634574 2000000
+5     7796438   9796438 2000000
+6     9746304  11746304 2000000
+7     7211029   9211029 2000000
+8     7758183   9758183 2000000
+9    96633238  98633238 2000000
+10   95835302  97835302 2000000
+11    7139647   9139647 2000000
+12    7929827   9929827 2000000
+13   94894536  96894536 2000000
+14  113672184 115672184 2000000
+15   94577822  96577822 2000000
+16   76898622  78898622 2000000
+17    5384076   7384076 2000000
+18    6060535   8060535 2000000
+19   93882898  95882898 2000000
+20   99043023 101043023 2000000
+21   94730458  96730458 2000000
+22   46440133  48440133 2000000
+23   95242108  97242108 2000000
+24    3924155   5924155 2000000
+25  103186809 105186809 2000000
+26  115201855 117201855 2000000
+27   43871324  45871324 2000000
+28   37943123  39943123 2000000
+29   42941345  44941345 2000000
+30   17579255  19579255 2000000
+31   38727763  40727763 2000000
+32   93156895  95156895 2000000
+33   76521276  78521276 2000000
+34   36899895  38899895 2000000
+35   70743394  72743394 2000000
+36  112487586 114487586 2000000
+37   22952180  24952180 2000000
+38   94546152  96546152 2000000
+39  102991236 104991236 2000000
+40  147611108 149611108 2000000
+41   31185264  33185264 2000000
+42   71819207  73819207 2000000
+43   89654002  91654002 2000000
+44   98696564 100696564 2000000
+45   88242219  90242219 2000000
+46   28836453  30836453 2000000
+47   75842283  77842283 2000000
+48   48834354  50834354 2000000
+49  111604043 113604043 2000000
+50   74089866  76089866 2000000
+51   68552545  70552545 2000000
+52   60037331  62037331 2000000
+53  114977910 116977910 2000000
+54  104169815 106169815 2000000
+55  112080347 114080347 2000000
+56    5655910   7655910 2000000
+57    7924722   9924722 2000000
+58   89431981  91431981 2000000
+59  100994898 102994898 2000000
+60   14404745  16404745 2000000
+61   99351990 101351990 2000000
+62  102116605 104116605 2000000
+63   21957435  23957435 2000000
+64    7741025   9741025 2000000
+65  102039758 104039758 2000000
+66   35089730  37089730 2000000
+67   31597107  33597107 2000000
+68   89642600  91642600 2000000
+69   94135926  96135926 2000000
+70    9443175  11443175 2000000
+71   10419515  12419515 2000000
+72  114462642 116462642 2000000
+73  118732788 120732788 2000000
+74   18566323  20566323 2000000
+75   96191850  98191850 2000000
+76   24450066  26450066 2000000
+77   81989641  83989641 2000000
+78  104059703 106059703 2000000
+79   88807442  90807442 2000000
+80  110559078 112559078 2000000
+81   22952164  24952164 2000000
+82   23885229  25885229 2000000
+83   35227057  37227057 2000000
+84   11613651  13613651 2000000
+85   12126545  14126545 2000000
+86   57159883  59159883 2000000
+87   81874723  83874723 2000000
+88   93822456  95822456 2000000
+89  102716762 104716762 2000000
+90    3797347   5797347 2000000
+91    6507126   8507126 2000000
+92   82514944  84514944 2000000
+93   91632773  93632773 2000000
+94   92725414  94725414 2000000
+95  109062836 111062836 2000000
+96   16121072  18121072 2000000
+97   97716863  99716863 2000000
+98  109952538 111952538 2000000
+99   74701258  76701258 2000000
+100  94066422  96066422 2000000
+101  30366056  32366056 2000000
+102  72796919  74796919 2000000
+103 117662007 119662007 2000000
+104 107135781 109135781 2000000
+105  59382643  61382643 2000000
+106  83402828  85402828 2000000
+107  27152428  29152428 2000000
+108  88579310  90579310 2000000
+109  90113666  92113666 2000000
+110 104169815 106169815 2000000
+111  10480380  12480380 2000000
+112  14726955  16726955 2000000
+113  76454558  78454558 2000000
+114   7213976   9213976 2000000
+115  39816843  41816843 2000000
+116  33014439  35014439 2000000
+117  87975877  89975877 2000000
+118  26182264  28182264 2000000
+119  34575621  36575621 2000000
+120  10934665  12934665 2000000
+121   9639613  11639613 2000000
+122  10481782  12481782 2000000
+123   8217096  10217096 2000000
+124  82766066  84766066 2000000
+125  33821960  35821960 2000000
+126   8055722  10055722 2000000
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr5.oxinfo90.Rdata 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.context.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.uncond.freeze.corr.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.glucose.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.pp12.ppi.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.startle.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/startle.5.111559078.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/glucose.5.49834354.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.context.5.43941345.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/pp12.ppi.5.22957435.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.5.27182264.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.uncond.freeze.corr.5.148611108.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.5.118662007.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr11.oxinfo90.Rdata 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.total.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity30.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity5.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.basal.activity.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.bmd.a.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.bmd.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.bmd.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.bmd.n.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.bmd.n.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.baseline.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/basal.activity.11.95577822.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/activity30.11.96835302.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.cue.baseline.RData 
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/bmd.n.11.96242108.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/bmd.n.11.47440133.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.uncond.freeze.corr.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.gastroc.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.uncond.freeze.corr.11.103991236.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.pp6.ppi.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/activity.total.11.97633238.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/bmd.11.95730458.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/bmd.11.100043023.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.cue.corr.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/bmd.a.11.94882898.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.cue.RData 
+NULL
+[1] "Selecting 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/activity5.11.95894536.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.baseline.11.44871324.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.gastroc.RData 
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.cue.baseline.11.94156895.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.habit.diff.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/pp6.ppi.11.8741025.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/gastroc.11.72819207.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/gastroc.11.32185264.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.soleus.RData 
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.cue.corr.11.23952180.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.cue.11.71743394.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/habit.diff.11.112604043.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/soleus.11.32597107.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.11.84402828.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.11.60382643.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.soleus.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/soleus.11.90642600.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.11.35575621.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.11.58159883.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.plantaris.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/plantaris.11.61037331.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.11.94822456.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.pp12.ppi.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/pp12.ppi.11.15404745.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.11.108135781.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.context.corr.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.context.corr.11.18579255.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.cue.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.cue.11.37899895.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.context.corr.RData 
+[1] "concat results..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.context.corr.11.39727763.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.context.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.context.11.38943123.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.gastroc.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/gastroc.11.90654002.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.startle.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/startle.11.82989641.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.gastroc.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/gastroc.11.99696564.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tail.length.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tail.length.11.23952164.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.glucose.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/glucose.11.29836453.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.11.13126545.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.habit.ratio.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/habit.ratio.11.69552545.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.11.82874723.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr12.oxinfo90.Rdata 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity5.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.basal.activity.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.decay.activity.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.uncond.freeze.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.gastroc.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.plantaris.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.soleus.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.startle.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/startle.12.105059703.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/activity5.12.114672184.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/gastroc.12.89242219.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/soleus.12.95135926.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.12.103716762.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.12.4797347.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+NULL
+[1] "Selecting 1000 snps..."
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+attempting attempting   /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.12.91113666.CI.RData /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.12.28152428.CI.RData
+ 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/basal.activity.12.77898622.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.uncond.freeze.12.95546152.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/plantaris.12.115977910.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.12.83514944.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+NULL
+[1] "Selecting 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/decay.activity.12.4924155.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+[1] "Apply simulation to 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.12.89579310.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.12.93725414.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.12.92632773.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.12.11934665.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.12.7507126.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr13.oxinfo90.Rdata 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.EDL.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.EDL.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.TA.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.TA.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.begin.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.end.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.middle.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity.middle.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity30.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.activity30.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/EDL.13.113025220.CI.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/EDL.13.114188942.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+[1]Using per.chromosome
+ "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/activity30.13.8929827.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/activity30.13.8139647.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.plantaris.RData 
+NULL
+[1] "Selecting 1000 snps..."
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+attempting attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/activity.middle.13.8758183.CI.RData  
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/activity.middle.13.8211029.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/activity.begin.13.8796438.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.plantaris.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.cue.baseline.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.plantaris.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/activity.end.13.10746304.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/TA.13.6634574.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/TA.13.5585648.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.decay.activity.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.decay.activity.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/plantaris.13.8924722.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/plantaris.13.113080347.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/plantaris.13.105169815.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.soleus.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.soleus.RData 
+attempting  attempting /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/decay.activity.13.116201855.CI.RData  
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/decay.activity.13.104186809.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.soleus.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.soleus.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.cue.baseline.13.77521276.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.soleus.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/soleus.13.10443175.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/soleus.13.115462642.CI.RData 
+Using per.chromosome
+[1]attempting attempting  "simulate.qtl.confidence.interval"  
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/soleus.13.11419515.CI.RData/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/soleus.13.97191850.CI.RData  
+
+Using per.chromosome
+[1][1] "simulate.qtl.confidence.interval" "simulate.qtl.confidence.interval"
+
+Using per.chromosome
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/soleus.13.19566323.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.13.15726955.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.13.11480380.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.13.77454558.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.13.11481782.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.13.10639613.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.fc.cue.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/fc.cue.13.113487586.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.soleus.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/soleus.13.119732788.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.13.8213976.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.plantaris.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/plantaris.13.6655910.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.13.17121072.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.basal.activity.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/basal.activity.13.6384076.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.plantaris.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/plantaris.13.90431981.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.13.98716863.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.basal.activity.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/basal.activity.13.7060535.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.pp12.ppi.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/pp12.ppi.13.100351990.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.13.105169815.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.13.110062836.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.13.9217096.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr14.oxinfo90.Rdata 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.glucose.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.plantaris.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.pp12.ppi.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.pp6.ppi.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.soleus.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.startle.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tail.length.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/pp12.ppi.14.103116605.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/soleus.14.25450066.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.14.110952538.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.14.75701258.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/plantaris.14.101994898.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.14.95066422.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/glucose.14.76842283.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/startle.14.89807442.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "Apply simulation to 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tail.length.14.24885229.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/pp6.ppi.14.103039758.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "concat results..."
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.14.40816843.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr15.oxinfo90.Rdata 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tail.length.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tail.length.15.36227057.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.15.31366056.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.15.83766066.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr17.oxinfo90.Rdata 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.habit.diff.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.pp6.ppi.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tail.length.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.tibia.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.bmi.tibia.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.RData 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output//emma.weight.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tail.length.17.12613651.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/pp6.ppi.17.36089730.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.17.34014439.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.bmi.tibia.17.88975877.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/tibia.17.73796919.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.17.34821960.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/weight.17.9055722.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output/confidence_intervals/habit.diff.17.75089866.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+[1] "concat results..."

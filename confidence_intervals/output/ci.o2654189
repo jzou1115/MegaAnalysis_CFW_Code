@@ -1,0 +1,10 @@
+[1] "genome scans..."
+loaded OK  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/emma.fc.context/emma.fc.context.RData 
+[1] 1
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.1.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr1.oxinfo90.Rdata 
+Using per.chromosome
+writing /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.1.permute.RData 
+[1] 2
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.2.permute.RData 
+loading /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90//chr2.oxinfo90.Rdata 

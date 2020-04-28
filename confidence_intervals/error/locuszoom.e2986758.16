@@ -1,0 +1,19 @@
+	Unloading the conflicting module 'intel/18.0.4'
+
+Traceback (most recent call last):
+  File "locuszoom_input_NA.py", line 58, in <module>
+    dosages = pd.DataFrame(dosages)
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py", line 474, in __init__
+    arrays, columns = to_arrays(data, columns, dtype=dtype)
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/site-packages/pandas/core/internals/construction.py", line 461, in to_arrays
+    return _list_to_arrays(data, columns, coerce_float=coerce_float, dtype=dtype)
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/site-packages/pandas/core/internals/construction.py", line 497, in _list_to_arrays
+    content, columns, dtype=dtype, coerce_float=coerce_float
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/site-packages/pandas/core/internals/construction.py", line 592, in _convert_object_array
+    arrays = [convert(arr) for arr in content]
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/site-packages/pandas/core/internals/construction.py", line 592, in <listcomp>
+    arrays = [convert(arr) for arr in content]
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/site-packages/pandas/core/internals/construction.py", line 588, in convert
+    arr = lib.maybe_convert_objects(arr, try_float=coerce_float)
+  File "pandas/_libs/lib.pyx", line 2040, in pandas._libs.lib.maybe_convert_objects
+MemoryError: Unable to allocate 422. KiB for an array with shape (53960,) and data type uint64
