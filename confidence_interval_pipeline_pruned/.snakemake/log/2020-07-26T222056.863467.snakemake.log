@@ -1,0 +1,187 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cluster nodes: 100
+Job counts:
+	count	jobs
+	1	all
+	1	evaluateConfidenceIntervals
+	46	simulateConfidenceIntervals
+	19	subsetPrunedSNPs
+	67
+
+[Sun Jul 26 22:21:07 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr15.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr15.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr15.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr15.oxinfo90.Rdata
+    jobid: 34
+    wildcards: chr=15
+
+Submitted job 34 with external jobid 'Your job 3869014 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:09 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr3.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr3.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr3.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr3.oxinfo90.Rdata
+    jobid: 22
+    wildcards: chr=3
+
+Submitted job 22 with external jobid 'Your job 3869015 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:12 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr16.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr16.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr16.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr16.oxinfo90.Rdata
+    jobid: 35
+    wildcards: chr=16
+
+Submitted job 35 with external jobid 'Your job 3869016 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:14 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr4.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr4.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr4.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr4.oxinfo90.Rdata
+    jobid: 23
+    wildcards: chr=4
+
+Submitted job 23 with external jobid 'Your job 3869017 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:17 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr8.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr8.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr8.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr8.oxinfo90.Rdata
+    jobid: 27
+    wildcards: chr=8
+
+Submitted job 27 with external jobid 'Your job 3869018 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:19 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr7.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr7.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr7.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr7.oxinfo90.Rdata
+    jobid: 26
+    wildcards: chr=7
+
+Submitted job 26 with external jobid 'Your job 3869019 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:21 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr1.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr1.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr1.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr1.oxinfo90.Rdata
+    jobid: 20
+    wildcards: chr=1
+
+Submitted job 20 with external jobid 'Your job 3869020 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:23 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr5.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr5.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr5.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr5.oxinfo90.Rdata
+    jobid: 24
+    wildcards: chr=5
+
+Submitted job 24 with external jobid 'Your job 3869022 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:26 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr13.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr13.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr13.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr13.oxinfo90.Rdata
+    jobid: 32
+    wildcards: chr=13
+
+Submitted job 32 with external jobid 'Your job 3869025 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:28 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr6.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr6.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr6.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr6.oxinfo90.Rdata
+    jobid: 25
+    wildcards: chr=6
+
+Submitted job 25 with external jobid 'Your job 3869026 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:30 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr10.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr10.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr10.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr10.oxinfo90.Rdata
+    jobid: 29
+    wildcards: chr=10
+
+Submitted job 29 with external jobid 'Your job 3869027 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:32 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr14.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr14.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr14.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr14.oxinfo90.Rdata
+    jobid: 33
+    wildcards: chr=14
+
+Submitted job 33 with external jobid 'Your job 3869028 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:34 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr11.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr11.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr11.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr11.oxinfo90.Rdata
+    jobid: 30
+    wildcards: chr=11
+
+Submitted job 30 with external jobid 'Your job 3869029 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:36 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr19.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr19.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr19.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr19.oxinfo90.Rdata
+    jobid: 38
+    wildcards: chr=19
+
+Submitted job 38 with external jobid 'Your job 3869030 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:39 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr9.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr9.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr9.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr9.oxinfo90.Rdata
+    jobid: 28
+    wildcards: chr=9
+
+Submitted job 28 with external jobid 'Your job 3869031 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:41 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr18.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr18.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr18.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr18.oxinfo90.Rdata
+    jobid: 37
+    wildcards: chr=18
+
+Submitted job 37 with external jobid 'Your job 3869032 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:43 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr12.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr12.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr12.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr12.oxinfo90.Rdata
+    jobid: 31
+    wildcards: chr=12
+
+Submitted job 31 with external jobid 'Your job 3869033 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:45 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr2.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr2.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr2.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr2.oxinfo90.Rdata
+    jobid: 21
+    wildcards: chr=2
+
+Submitted job 21 with external jobid 'Your job 3869034 ("subsetPrunedSNPs") has been submitted'.
+
+[Sun Jul 26 22:21:47 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr17.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr17.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr17.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr17.oxinfo90.Rdata
+    jobid: 36
+    wildcards: chr=17
+
+Submitted job 36 with external jobid 'Your job 3869035 ("subsetPrunedSNPs") has been submitted'.
+[Sun Jul 26 22:22:43 2020]
+Finished job 35.
+1 of 67 steps (1%) done
+Terminating processes on user request, this might take some time.
+Will exit after finishing currently running jobs.
+Cancelling snakemake on user request.

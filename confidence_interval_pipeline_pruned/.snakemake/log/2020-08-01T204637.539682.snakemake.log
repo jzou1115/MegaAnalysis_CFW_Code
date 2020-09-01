@@ -1,0 +1,2 @@
+SyntaxError in line 68 of /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/Snakefile:
+EOF in multi-line statement (Snakefile, line 68)

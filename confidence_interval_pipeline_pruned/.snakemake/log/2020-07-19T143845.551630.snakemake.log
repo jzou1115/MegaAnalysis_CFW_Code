@@ -1,0 +1,30 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	2	run_susier
+	3
+
+[Sun Jul 19 14:38:48 2020]
+rule run_susier:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/EDL.12.83885241_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/EDL.12.83885241_pruned_sorted.ld
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/output/EDL.12.83885241.RData
+    jobid: 147
+    wildcards: q=EDL.12.83885241
+
+[Sun Jul 19 14:38:49 2020]
+Error in rule run_susier:
+    jobid: 147
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/output/EDL.12.83885241.RData
+
+RuleException:
+CalledProcessError in line 142 of /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/Snakefile:
+Command 'set -euo pipefail;  Rscript --vanilla /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/.snakemake/scripts/tmp2rq2k2xo.run_susier.R' returned non-zero exit status 1.
+  File "/u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/Snakefile", line 142, in __rule_run_susier
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/concurrent/futures/thread.py", line 57, in run
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/.snakemake/log/2020-07-19T143845.551630.snakemake.log

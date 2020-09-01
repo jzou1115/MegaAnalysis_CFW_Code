@@ -1,0 +1,222 @@
+import pandas as pd
+import os 
+
+##### load config and sample list #####
+
+configfile: "config/config_ox.yaml"
+
+
+chromosomes = pd.read_table(config["chromosomes"], header=None)[0]
+phenotypes = pd.read_table(config["phenotypes"], header=None)[0]
+qtlF = config["qtls"]
+qtlids = pd.read_table(config["qtl_ids"], header=None)[0]
+
+dosages = config["dosages"]
+annot = config["annot"]
+prune = config["prune"]
+
+
+outdir = config["outdir"] #base directory for output
+mmdir = os.path.join(outdir, "mm")
+gdir = os.path.join(outdir, "genotypes")
+cidir = os.path.join(outdir, "confidence_intervals")
+scandir = os.path.join(outdir, "scans")
+fine_dir = os.path.join(outdir, "finemapping")
+
+
+
+##### target rule #####
+rule all:
+	input: 
+		os.path.join(gdir, "kinship_matrices.RData"),
+#		expand(os.path.join(gdir, "combined.chr{chr}.oxinfo90.txt"), chr=chromosomes),
+#		expand(os.path.join(gdir, "combined.chr{chr}.oxinfo90.Rdata"), chr=chromosomes),
+#		expand(mmdir+"/emma.{pheno}.RData", pheno = phenotypes),
+#		expand(os.path.join(scandir, "{pheno}.{chr}.permute.RData"), chr=chromosomes, pheno=phenotypes),
+#		expand(os.path.join(cidir, "{q}.CI.RData"), q=qtlids),
+#		os.path.join(cidir, "CI_pruned.txt"),
+		expand(os.path.join(cidir, "plots", "{q}.png"), q=qtlids),
+
+#		expand(os.path.join(fine_dir, "input", "{q}_pruned_sorted.z"), q=qtlids),
+#		expand(os.path.join(fine_dir, "output", "{q}_snps.txt"), q=qtlids)
+#		expand(os.path.join(outdir, "locuszoom", "{q}_r2.txt"), q=qtlids)
+#
+
+
+		expand(os.path.join(fine_dir, "output", "{q}_annovar_input.txt"), q = qtlids)
+
+
+##### preprocessing rules #####
+rule combineQtlsPrunedSNPs:
+	input:
+		"/u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr{chr}.prune.in",
+		qtlF
+	output:
+		os.path.join(gdir, "combined.chr{chr}.oxinfo90.txt") #combined.chr3.oxinfo90.txt
+	params:
+		"{chr}"
+	script:
+		"scripts/combineQtlsPrunedSNPs.py"		
+
+rule subsetPrunedSNPs:
+	input:
+		dosage="/u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr{chr}.oxinfo90.dosages.gz",
+		annot="/u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr{chr}.oxinfo90.annot",
+		prune=os.path.join(gdir, "combined.chr{chr}.oxinfo90.txt"),
+		pheno="/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt"
+	params:
+		outdir=gdir
+	output:
+		out=os.path.join(gdir, "chr{chr}.oxinfo90.Rdata")
+	script:
+		"scripts/subset_pruned_snps.R"
+rule makeKinship:
+	input:
+		genotypes = expand(os.path.join(gdir, "chr{chr}.oxinfo90.Rdata"), chr=chromosomes)
+	output:
+		output = os.path.join(gdir, "kinship_matrices.RData")
+	script:
+		"scripts/makeKinshipRData.R"
+##### preprocessing rules #####
+#rule getSNPs:
+#	input:
+#		dosage="/u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr{chr}.oxinfo90.dosages.gz",
+#		annot="/u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr{chr}.oxinfo90.annot",
+#		pheno="/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt"
+#	params:
+#		outdir=gdir
+#	output:
+#		out=os.path.join(gdir, "chr{chr}.oxinfo90.Rdata"),
+#	script:
+#		"scripts/get_snps.R"
+#nship.matrices
+#TODO: make this script more general
+#temporarily copied script and output file from previous analysis
+#rule makeKinshipRDataFiles:
+#	output:
+#		os.path.join(gdir, "kinship_matrices.Rdata")
+#	script:
+#		"scripts/makeKinshipRDataFiles.R"
+
+##### target rule #####
+rule mixedModelHeritabilities:
+	input:
+		kinship=os.path.join(gdir, "kinship_matrices.RData"),
+		pheno="/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt"
+	params:
+		outdir=os.path.join(outdir, "mm")
+	output:
+		expand(mmdir+"/emma.{pheno}.RData", pheno = phenotypes)
+	script:
+		"scripts/confidence_intervals_mega_0.R"
+
+rule genomeScans:
+	input:
+		mmF=os.path.join(mmdir, "emma.{pheno}.RData")
+	params:
+		scan_dir=scandir,
+		g_dir=gdir
+	output:
+		expand(os.path.join(scandir, "{pheno}.{chr}.permute.RData"), chr=chromosomes, allow_missing=True)
+	script:
+		"scripts/confidence_intervals_mega_1.R"
+
+
+rule simulateConfidenceIntervals:
+	input:
+		qtls = qtlF,
+		genoFiles = expand(os.path.join(gdir, "chr{chr}.oxinfo90.Rdata"), chr=chromosomes),
+		mmFiles = expand(mmdir+"/emma.{pheno}.RData", pheno = phenotypes)	
+	params:
+		qtl = "{q}",
+		g_dir=gdir,
+		mm_dir = mmdir,
+		ci_out = cidir
+	output:
+		os.path.join(cidir, "{q}.CI.RData")
+	script:
+		"scripts/confidence_intervals_mega_2.R"
+
+rule evaluateConfidenceIntervals:
+	input:
+		expand(os.path.join(scandir, "{pheno}.{chr}.permute.RData"), chr=chromosomes, pheno=phenotypes),
+		expand(os.path.join(cidir, "{q}.CI.RData"), q=qtlids)
+	params:
+		scan_dir=scandir,
+		ci_out=cidir
+	output:
+		os.path.join(cidir, "CI_pruned.txt")
+	script:
+		"scripts/confidence_intervals_mega_3.R"
+
+rule susier_input:
+	input:
+		os.path.join(cidir, "CI_pruned.txt")
+	params:
+		qtl="{q}",
+		outdir=os.path.join(fine_dir, "input"),
+		quantile=0.95
+	output:
+		os.path.join(fine_dir, "input", "{q}_pruned_sorted.z"),
+		os.path.join(fine_dir, "input", "{q}_pruned_sorted.ld")
+	script:
+		"scripts/susier_input.py"
+
+rule run_susier:
+	input:
+		z=os.path.join(fine_dir, "input", "{q}_pruned_sorted.z"),
+		ld=os.path.join(fine_dir, "input", "{q}_pruned_sorted.ld")
+	params:
+		prefix=os.path.join(fine_dir, "output", "{q}")
+	output:
+		os.path.join(fine_dir, "output", "{q}.RData"),
+		os.path.join(fine_dir, "output", "{q}.png"),
+		os.path.join(fine_dir, "output", "{q}_snps.txt")
+	script:
+		"scripts/run_susier.R"
+
+rule locus_zoom_input:
+	input:
+		ci=os.path.join(cidir, "CI_pruned.txt"),
+#		g_dir=gdir
+		d_dir="/u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/"
+	params:
+		outdir=os.path.join(outdir, "locuszoom"),
+		qtl="{q}",
+		quantile=0.95
+	output:
+		os.path.join(outdir, "locuszoom", "{q}_r2.txt")
+	script:
+		"scripts/locuszoom_input.py"	
+
+rule annovar_input:
+	input:
+		snps=os.path.join(fine_dir, "output", "{q}_snps.txt"),
+		r2=os.path.join(outdir, "locuszoom", "{q}_r2.txt"),
+	output:
+		outfile=os.path.join(fine_dir, "output", "{q}_annovar_input.txt")
+	script:
+		"scripts/annovar_input.py"	
+
+#does not work... not sure why.  Need to run separately
+rule annovar:
+	input:
+		snps=os.path.join(fine_dir, "output", "annovar_input_snps.txt")
+	output:
+		outfile=os.path.join(fine_dir, "output", "annovar_input_snps.txt.exonic_variant_function")	
+	run:
+		shell("pwd=$PWD")
+		shell("cd /u/home/j/jzou1115/project-ernst/software/annovar/")
+		shell("/u/home/j/jzou1115/project-ernst/software/annovar/annotate_variation.pl -geneanno -dbtype refGene -buildver mm10 input.snps /u/home/j/jzou1115/project-ernst/software/annovar/mm10db")
+		shell("cd $pwd")
+
+
+rule plot_ci:
+	input:
+		z_dir = "/u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED",
+		ld = os.path.join(outdir, "locuszoom", "{q}_r2.txt"), 
+		ci = os.path.join(cidir, "CI_pruned.txt")
+	output:
+		outfile = os.path.join(cidir, "plots", "{q}.png")
+	script:
+		"scripts/plot_ci.py"

@@ -1,0 +1,1591 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cluster nodes: 200
+Job counts:
+	count	jobs
+	1	all
+	131	plot_ci
+	132
+
+[Sun Aug 23 10:21:26 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/basal.activity.11.96816215_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/basal.activity.11.96816215.png
+    jobid: 62
+    wildcards: q=basal.activity.11.96816215
+
+Submitted job 62 with external jobid 'Your job 4171553 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:21:29 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.83000091_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.83000091.png
+    jobid: 9
+    wildcards: q=EDL.2.83000091
+
+Submitted job 9 with external jobid 'Your job 4171554 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:21:33 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/gastroc.12.83517483_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/gastroc.12.83517483.png
+    jobid: 88
+    wildcards: q=gastroc.12.83517483
+
+Submitted job 88 with external jobid 'Your job 4171555 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:21:36 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/soleus.13.9242435_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.13.9242435.png
+    jobid: 98
+    wildcards: q=soleus.13.9242435
+
+Submitted job 98 with external jobid 'Your job 4171556 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:21:39 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.a.11.95761488_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.a.11.95761488.png
+    jobid: 68
+    wildcards: q=bmd.a.11.95761488
+
+Submitted job 68 with external jobid 'Your job 4171557 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:21:42 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.n.18.38930957_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.n.18.38930957.png
+    jobid: 83
+    wildcards: q=bmd.n.18.38930957
+
+Submitted job 83 with external jobid 'Your job 4171558 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:21:45 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.11.32268598_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.11.32268598.png
+    jobid: 106
+    wildcards: q=tibia.11.32268598
+
+Submitted job 106 with external jobid 'Your job 4171559 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:21:48 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.80039850_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.80039850.png
+    jobid: 8
+    wildcards: q=EDL.2.80039850
+
+Submitted job 8 with external jobid 'Your job 4171560 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:21:51 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/gastroc.11.79954876_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/gastroc.11.79954876.png
+    jobid: 86
+    wildcards: q=gastroc.11.79954876
+
+Submitted job 86 with external jobid 'Your job 4171561 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:21:54 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.13.9217096_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.13.9217096.png
+    jobid: 131
+    wildcards: q=weight.13.9217096
+
+Submitted job 131 with external jobid 'Your job 4171562 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:21:57 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.n.11.95582360_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.n.11.95582360.png
+    jobid: 81
+    wildcards: q=bmd.n.11.95582360
+
+Submitted job 81 with external jobid 'Your job 4171563 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:00 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.13.10150339_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.13.10150339.png
+    jobid: 38
+    wildcards: q=activity.middle.13.10150339
+
+Submitted job 38 with external jobid 'Your job 4171564 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:03 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.9.81879809_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.9.81879809.png
+    jobid: 45
+    wildcards: q=activity.middle.9.81879809
+
+Submitted job 45 with external jobid 'Your job 4171565 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:05 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.15.11500538_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.15.11500538.png
+    jobid: 113
+    wildcards: q=tibia.15.11500538
+
+Submitted job 113 with external jobid 'Your job 4171566 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:08 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.n.11.96918212_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.n.11.96918212.png
+    jobid: 82
+    wildcards: q=bmd.n.11.96918212
+
+Submitted job 82 with external jobid 'Your job 4171567 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:11 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.11.96952835_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.11.96952835.png
+    jobid: 109
+    wildcards: q=tibia.11.96952835
+
+Submitted job 109 with external jobid 'Your job 4171568 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:14 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/gastroc.11.88973192_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/gastroc.11.88973192.png
+    jobid: 87
+    wildcards: q=gastroc.11.88973192
+
+Submitted job 87 with external jobid 'Your job 4171569 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:17 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/plantaris.9.87855594_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/plantaris.9.87855594.png
+    jobid: 95
+    wildcards: q=plantaris.9.87855594
+
+Waiting at most 600 seconds for missing files.
+Submitted job 95 with external jobid 'Your job 4171570 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:20 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.begin.11.94772022_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.11.94772022.png
+    jobid: 21
+    wildcards: q=activity.begin.11.94772022
+
+Submitted job 21 with external jobid 'Your job 4171571 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:23 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/gastroc.2.155856984_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/gastroc.2.155856984.png
+    jobid: 89
+    wildcards: q=gastroc.2.155856984
+
+Submitted job 89 with external jobid 'Your job 4171572 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:26 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.6.148328439_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.6.148328439.png
+    jobid: 120
+    wildcards: q=tibia.6.148328439
+
+Submitted job 120 with external jobid 'Your job 4171573 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:29 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.13.8800578_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.13.8800578.png
+    jobid: 53
+    wildcards: q=activity.total.13.8800578
+
+Submitted job 53 with external jobid 'Your job 4171574 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:32 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.11.95761488_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.11.95761488.png
+    jobid: 108
+    wildcards: q=tibia.11.95761488
+
+Submitted job 108 with external jobid 'Your job 4171575 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:35 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.11.100053320_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.11.100053320.png
+    jobid: 70
+    wildcards: q=bmd.11.100053320
+
+[Sun Aug 23 10:22:37 2020]
+Finished job 62.
+1 of 132 steps (0.76%) done
+[Sun Aug 23 10:22:37 2020]
+Finished job 9.
+2 of 132 steps (2%) done
+[Sun Aug 23 10:22:37 2020]
+Finished job 88.
+3 of 132 steps (2%) done
+[Sun Aug 23 10:22:37 2020]
+Finished job 98.
+4 of 132 steps (3%) done
+[Sun Aug 23 10:22:37 2020]
+Finished job 83.
+5 of 132 steps (4%) done
+[Sun Aug 23 10:22:37 2020]
+Finished job 8.
+6 of 132 steps (5%) done
+Submitted job 70 with external jobid 'Your job 4171576 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:38 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.9.83150389_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.9.83150389.png
+    jobid: 123
+    wildcards: q=tibia.9.83150389
+
+Submitted job 123 with external jobid 'Your job 4171577 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:41 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.end.13.8209788_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.end.13.8209788.png
+    jobid: 33
+    wildcards: q=activity.end.13.8209788
+
+Submitted job 33 with external jobid 'Your job 4171578 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:44 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.85453160_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.85453160.png
+    jobid: 11
+    wildcards: q=EDL.2.85453160
+
+Submitted job 11 with external jobid 'Your job 4171579 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:47 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.2.153760436_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.2.153760436.png
+    jobid: 43
+    wildcards: q=activity.middle.2.153760436
+
+[Sun Aug 23 10:22:48 2020]
+Finished job 68.
+7 of 132 steps (5%) done
+[Sun Aug 23 10:22:48 2020]
+Finished job 106.
+8 of 132 steps (6%) done
+[Sun Aug 23 10:22:48 2020]
+Finished job 86.
+9 of 132 steps (7%) done
+[Sun Aug 23 10:22:49 2020]
+Finished job 38.
+10 of 132 steps (8%) done
+[Sun Aug 23 10:22:49 2020]
+Finished job 45.
+11 of 132 steps (8%) done
+Submitted job 43 with external jobid 'Your job 4171580 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:50 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.5.39698535_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.5.39698535.png
+    jobid: 115
+    wildcards: q=tibia.5.39698535
+
+Submitted job 115 with external jobid 'Your job 4171581 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:53 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.bmi.tibia.12.83323871_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.bmi.tibia.12.83323871.png
+    jobid: 125
+    wildcards: q=weight.bmi.tibia.12.83323871
+
+Submitted job 125 with external jobid 'Your job 4171582 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:56 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.2.89917236_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.2.89917236.png
+    jobid: 44
+    wildcards: q=activity.middle.2.89917236
+
+Submitted job 44 with external jobid 'Your job 4171583 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:22:59 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.78722881_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.78722881.png
+    jobid: 7
+    wildcards: q=EDL.2.78722881
+
+[Sun Aug 23 10:23:01 2020]
+Finished job 131.
+12 of 132 steps (9%) done
+[Sun Aug 23 10:23:01 2020]
+Finished job 113.
+13 of 132 steps (10%) done
+[Sun Aug 23 10:23:01 2020]
+Finished job 82.
+14 of 132 steps (11%) done
+[Sun Aug 23 10:23:01 2020]
+Finished job 109.
+15 of 132 steps (11%) done
+[Sun Aug 23 10:23:01 2020]
+Finished job 87.
+16 of 132 steps (12%) done
+Submitted job 7 with external jobid 'Your job 4171584 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:02 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.86662262_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.86662262.png
+    jobid: 12
+    wildcards: q=EDL.2.86662262
+
+Submitted job 12 with external jobid 'Your job 4171585 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:05 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/basal.activity.13.8209788_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/basal.activity.13.8209788.png
+    jobid: 66
+    wildcards: q=basal.activity.13.8209788
+
+Submitted job 66 with external jobid 'Your job 4171586 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:08 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity30.13.7101524_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity30.13.7101524.png
+    jobid: 58
+    wildcards: q=activity30.13.7101524
+
+Submitted job 58 with external jobid 'Your job 4171587 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:11 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.12.91175287_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.12.91175287.png
+    jobid: 111
+    wildcards: q=tibia.12.91175287
+
+[Sun Aug 23 10:23:12 2020]
+Finished job 95.
+17 of 132 steps (13%) done
+[Sun Aug 23 10:23:12 2020]
+Finished job 21.
+18 of 132 steps (14%) done
+[Sun Aug 23 10:23:12 2020]
+Finished job 89.
+19 of 132 steps (14%) done
+[Sun Aug 23 10:23:12 2020]
+Finished job 120.
+20 of 132 steps (15%) done
+[Sun Aug 23 10:23:12 2020]
+Finished job 81.
+21 of 132 steps (16%) done
+Submitted job 111 with external jobid 'Your job 4171588 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:14 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.begin.13.9154368_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.13.9154368.png
+    jobid: 25
+    wildcards: q=activity.begin.13.9154368
+
+Submitted job 25 with external jobid 'Your job 4171589 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:17 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.11.94772022_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.11.94772022.png
+    jobid: 72
+    wildcards: q=bmd.11.94772022
+
+Submitted job 72 with external jobid 'Your job 4171590 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:20 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/TA.2.155819633_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.2.155819633.png
+    jobid: 19
+    wildcards: q=TA.2.155819633
+
+Submitted job 19 with external jobid 'Your job 4171591 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:23 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.11.95651415_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.11.95651415.png
+    jobid: 36
+    wildcards: q=activity.middle.11.95651415
+
+[Sun Aug 23 10:23:23 2020]
+Finished job 53.
+22 of 132 steps (17%) done
+[Sun Aug 23 10:23:23 2020]
+Finished job 123.
+23 of 132 steps (17%) done
+Submitted job 36 with external jobid 'Your job 4171592 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:26 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.end.13.7101524_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.end.13.7101524.png
+    jobid: 32
+    wildcards: q=activity.end.13.7101524
+
+Submitted job 32 with external jobid 'Your job 4171593 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:29 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/soleus.2.155505679_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.2.155505679.png
+    jobid: 99
+    wildcards: q=soleus.2.155505679
+
+Submitted job 99 with external jobid 'Your job 4171594 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:31 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/plantaris.4.85394581_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/plantaris.4.85394581.png
+    jobid: 94
+    wildcards: q=plantaris.4.85394581
+
+Submitted job 94 with external jobid 'Your job 4171595 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:34 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.5.21721308_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.5.21721308.png
+    jobid: 77
+    wildcards: q=bmd.5.21721308
+
+[Sun Aug 23 10:23:34 2020]
+Finished job 43.
+24 of 132 steps (18%) done
+[Sun Aug 23 10:23:34 2020]
+Finished job 108.
+25 of 132 steps (19%) done
+[Sun Aug 23 10:23:34 2020]
+Finished job 70.
+26 of 132 steps (20%) done
+[Sun Aug 23 10:23:35 2020]
+Finished job 33.
+27 of 132 steps (20%) done
+[Sun Aug 23 10:23:35 2020]
+Finished job 11.
+28 of 132 steps (21%) done
+[Sun Aug 23 10:23:35 2020]
+Finished job 115.
+29 of 132 steps (22%) done
+Submitted job 77 with external jobid 'Your job 4171596 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:37 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.11.94054029_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.11.94054029.png
+    jobid: 35
+    wildcards: q=activity.middle.11.94054029
+
+Submitted job 35 with external jobid 'Your job 4171597 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:40 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.n.5.23815043_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.n.5.23815043.png
+    jobid: 84
+    wildcards: q=bmd.n.5.23815043
+
+Submitted job 84 with external jobid 'Your job 4171598 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:43 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.13.7101524_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.13.7101524.png
+    jobid: 39
+    wildcards: q=activity.middle.13.7101524
+
+Submitted job 39 with external jobid 'Your job 4171599 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:46 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.9.85054834_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.9.85054834.png
+    jobid: 124
+    wildcards: q=tibia.9.85054834
+
+[Sun Aug 23 10:23:46 2020]
+Finished job 125.
+30 of 132 steps (23%) done
+[Sun Aug 23 10:23:47 2020]
+Finished job 44.
+31 of 132 steps (23%) done
+[Sun Aug 23 10:23:47 2020]
+Finished job 12.
+32 of 132 steps (24%) done
+Submitted job 124 with external jobid 'Your job 4171600 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:49 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.84134413_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.84134413.png
+    jobid: 10
+    wildcards: q=EDL.2.84134413
+
+Submitted job 10 with external jobid 'Your job 4171601 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:52 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.11.95761488_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.11.95761488.png
+    jobid: 73
+    wildcards: q=bmd.11.95761488
+
+Submitted job 73 with external jobid 'Your job 4171602 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:55 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tail.length.8.79338858_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tail.length.8.79338858.png
+    jobid: 103
+    wildcards: q=tail.length.8.79338858
+
+[Sun Aug 23 10:23:58 2020]
+Finished job 7.
+33 of 132 steps (25%) done
+[Sun Aug 23 10:23:58 2020]
+Finished job 66.
+34 of 132 steps (26%) done
+[Sun Aug 23 10:23:58 2020]
+Finished job 58.
+35 of 132 steps (27%) done
+[Sun Aug 23 10:23:58 2020]
+Finished job 111.
+36 of 132 steps (27%) done
+Submitted job 103 with external jobid 'Your job 4171603 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:23:58 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.end.13.10150339_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.end.13.10150339.png
+    jobid: 30
+    wildcards: q=activity.end.13.10150339
+
+Submitted job 30 with external jobid 'Your job 4171604 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:01 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/glucose.1.152192170_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/glucose.1.152192170.png
+    jobid: 90
+    wildcards: q=glucose.1.152192170
+
+Submitted job 90 with external jobid 'Your job 4171605 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:04 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.5.27366822_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.5.27366822.png
+    jobid: 80
+    wildcards: q=bmd.5.27366822
+
+Submitted job 80 with external jobid 'Your job 4171606 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:07 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.n.5.24920012_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.n.5.24920012.png
+    jobid: 85
+    wildcards: q=bmd.n.5.24920012
+
+[Sun Aug 23 10:24:09 2020]
+Finished job 25.
+37 of 132 steps (28%) done
+[Sun Aug 23 10:24:09 2020]
+Finished job 19.
+38 of 132 steps (29%) done
+[Sun Aug 23 10:24:09 2020]
+Finished job 36.
+39 of 132 steps (30%) done
+[Sun Aug 23 10:24:09 2020]
+Finished job 32.
+40 of 132 steps (30%) done
+Submitted job 85 with external jobid 'Your job 4171607 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:10 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.13.7101524_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.13.7101524.png
+    jobid: 51
+    wildcards: q=activity.total.13.7101524
+
+Submitted job 51 with external jobid 'Your job 4171608 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:13 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.13.10144490_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.13.10144490.png
+    jobid: 49
+    wildcards: q=activity.total.13.10144490
+
+Submitted job 49 with external jobid 'Your job 4171609 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:15 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.begin.13.8153523_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.13.8153523.png
+    jobid: 24
+    wildcards: q=activity.begin.13.8153523
+
+Submitted job 24 with external jobid 'Your job 4171610 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:18 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/basal.activity.13.10150339_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/basal.activity.13.10150339.png
+    jobid: 63
+    wildcards: q=basal.activity.13.10150339
+
+[Sun Aug 23 10:24:20 2020]
+Finished job 72.
+41 of 132 steps (31%) done
+[Sun Aug 23 10:24:20 2020]
+Finished job 99.
+42 of 132 steps (32%) done
+[Sun Aug 23 10:24:20 2020]
+Finished job 94.
+43 of 132 steps (33%) done
+[Sun Aug 23 10:24:20 2020]
+Finished job 77.
+44 of 132 steps (33%) done
+Submitted job 63 with external jobid 'Your job 4171611 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:21 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/habit.ratio.18.25412656_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/habit.ratio.18.25412656.png
+    jobid: 91
+    wildcards: q=habit.ratio.18.25412656
+
+Submitted job 91 with external jobid 'Your job 4171612 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:24 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/soleus.13.113404971_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.13.113404971.png
+    jobid: 96
+    wildcards: q=soleus.13.113404971
+
+Submitted job 96 with external jobid 'Your job 4171613 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:27 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.11.96912238_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.11.96912238.png
+    jobid: 74
+    wildcards: q=bmd.11.96912238
+
+Submitted job 74 with external jobid 'Your job 4171614 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:30 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.11.93469819_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.11.93469819.png
+    jobid: 71
+    wildcards: q=bmd.11.93469819
+
+[Sun Aug 23 10:24:32 2020]
+Finished job 39.
+45 of 132 steps (34%) done
+[Sun Aug 23 10:24:32 2020]
+Finished job 35.
+46 of 132 steps (35%) done
+[Sun Aug 23 10:24:32 2020]
+Finished job 84.
+47 of 132 steps (36%) done
+[Sun Aug 23 10:24:32 2020]
+Finished job 10.
+48 of 132 steps (36%) done
+Submitted job 71 with external jobid 'Your job 4171615 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:33 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/TA.13.9090078_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.13.9090078.png
+    jobid: 17
+    wildcards: q=TA.13.9090078
+
+Submitted job 17 with external jobid 'Your job 4171616 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:36 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.13.8209788_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.13.8209788.png
+    jobid: 40
+    wildcards: q=activity.middle.13.8209788
+
+Submitted job 40 with external jobid 'Your job 4171617 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:39 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.6.147027848_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.6.147027848.png
+    jobid: 118
+    wildcards: q=tibia.6.147027848
+
+Submitted job 118 with external jobid 'Your job 4171618 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:42 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity30.13.6038915_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity30.13.6038915.png
+    jobid: 57
+    wildcards: q=activity30.13.6038915
+
+[Sun Aug 23 10:24:43 2020]
+Finished job 103.
+49 of 132 steps (37%) done
+[Sun Aug 23 10:24:43 2020]
+Finished job 124.
+50 of 132 steps (38%) done
+[Sun Aug 23 10:24:43 2020]
+Finished job 73.
+51 of 132 steps (39%) done
+[Sun Aug 23 10:24:43 2020]
+Finished job 30.
+52 of 132 steps (39%) done
+Submitted job 57 with external jobid 'Your job 4171619 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:45 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.155780222_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.155780222.png
+    jobid: 5
+    wildcards: q=EDL.2.155780222
+
+Submitted job 5 with external jobid 'Your job 4171620 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:48 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/soleus.13.114802392_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.13.114802392.png
+    jobid: 97
+    wildcards: q=soleus.13.114802392
+
+Submitted job 97 with external jobid 'Your job 4171621 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:51 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/plantaris.13.116222549_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/plantaris.13.116222549.png
+    jobid: 92
+    wildcards: q=plantaris.13.116222549
+
+Submitted job 92 with external jobid 'Your job 4171622 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:54 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/soleus.6.18123198_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.6.18123198.png
+    jobid: 102
+    wildcards: q=soleus.6.18123198
+
+[Sun Aug 23 10:24:54 2020]
+Finished job 85.
+53 of 132 steps (40%) done
+[Sun Aug 23 10:24:54 2020]
+Finished job 90.
+54 of 132 steps (41%) done
+[Sun Aug 23 10:24:54 2020]
+Finished job 80.
+55 of 132 steps (42%) done
+[Sun Aug 23 10:24:54 2020]
+Finished job 51.
+56 of 132 steps (42%) done
+Submitted job 102 with external jobid 'Your job 4171623 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:57 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.13.114188942_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.13.114188942.png
+    jobid: 4
+    wildcards: q=EDL.13.114188942
+
+Submitted job 4 with external jobid 'Your job 4171624 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:24:59 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.17.34900243_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.17.34900243.png
+    jobid: 133
+    wildcards: q=weight.17.34900243
+
+Submitted job 133 with external jobid 'Your job 4171625 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:02 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.end.13.6323352_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.end.13.6323352.png
+    jobid: 31
+    wildcards: q=activity.end.13.6323352
+
+Submitted job 31 with external jobid 'Your job 4171626 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:05 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/plantaris.2.155812908_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/plantaris.2.155812908.png
+    jobid: 93
+    wildcards: q=plantaris.2.155812908
+
+Submitted job 93 with external jobid 'Your job 4171627 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:08 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.2.89914086_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.2.89914086.png
+    jobid: 54
+    wildcards: q=activity.total.2.89914086
+
+Submitted job 54 with external jobid 'Your job 4171628 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:11 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.bmi.tibia.13.8924722_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.bmi.tibia.13.8924722.png
+    jobid: 127
+    wildcards: q=weight.bmi.tibia.13.8924722
+
+Submitted job 127 with external jobid 'Your job 4171629 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:14 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.13.5954638_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.13.5954638.png
+    jobid: 50
+    wildcards: q=activity.total.13.5954638
+
+[Sun Aug 23 10:25:16 2020]
+Finished job 49.
+57 of 132 steps (43%) done
+[Sun Aug 23 10:25:17 2020]
+Finished job 24.
+58 of 132 steps (44%) done
+[Sun Aug 23 10:25:17 2020]
+Finished job 63.
+59 of 132 steps (45%) done
+[Sun Aug 23 10:25:17 2020]
+Finished job 91.
+60 of 132 steps (45%) done
+Submitted job 50 with external jobid 'Your job 4171630 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:17 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity5.13.8155366_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity5.13.8155366.png
+    jobid: 60
+    wildcards: q=activity5.13.8155366
+
+[Sun Aug 23 10:25:18 2020]
+Finished job 74.
+61 of 132 steps (46%) done
+Submitted job 60 with external jobid 'Your job 4171631 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:20 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tail.length.8.80905518_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tail.length.8.80905518.png
+    jobid: 104
+    wildcards: q=tail.length.8.80905518
+
+Submitted job 104 with external jobid 'Your job 4171632 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:23 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.9.81882866_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.9.81882866.png
+    jobid: 55
+    wildcards: q=activity.total.9.81882866
+
+Submitted job 55 with external jobid 'Your job 4171633 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:26 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity30.13.10150339_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity30.13.10150339.png
+    jobid: 56
+    wildcards: q=activity30.13.10150339
+
+[Sun Aug 23 10:25:29 2020]
+Finished job 96.
+62 of 132 steps (47%) done
+[Sun Aug 23 10:25:29 2020]
+Finished job 71.
+63 of 132 steps (48%) done
+[Sun Aug 23 10:25:29 2020]
+Finished job 17.
+64 of 132 steps (48%) done
+[Sun Aug 23 10:25:29 2020]
+Finished job 40.
+65 of 132 steps (49%) done
+[Sun Aug 23 10:25:29 2020]
+Finished job 118.
+66 of 132 steps (50%) done
+[Sun Aug 23 10:25:29 2020]
+Finished job 57.
+67 of 132 steps (51%) done
+[Sun Aug 23 10:25:29 2020]
+Finished job 5.
+68 of 132 steps (52%) done
+Submitted job 56 with external jobid 'Your job 4171634 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:29 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.6.145481081_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.6.145481081.png
+    jobid: 117
+    wildcards: q=tibia.6.145481081
+
+Submitted job 117 with external jobid 'Your job 4171635 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:32 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.bmi.tibia.13.5655594_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.bmi.tibia.13.5655594.png
+    jobid: 126
+    wildcards: q=weight.bmi.tibia.13.5655594
+
+Submitted job 126 with external jobid 'Your job 4171636 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:35 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/TA.12.83514944_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.12.83514944.png
+    jobid: 16
+    wildcards: q=TA.12.83514944
+
+Submitted job 16 with external jobid 'Your job 4171637 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:38 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.77669072_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.77669072.png
+    jobid: 6
+    wildcards: q=EDL.2.77669072
+
+Submitted job 6 with external jobid 'Your job 4171638 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:40 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.9.80408302_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.9.80408302.png
+    jobid: 121
+    wildcards: q=tibia.9.80408302
+
+[Sun Aug 23 10:25:41 2020]
+Finished job 97.
+69 of 132 steps (52%) done
+[Sun Aug 23 10:25:41 2020]
+Finished job 92.
+70 of 132 steps (53%) done
+[Sun Aug 23 10:25:41 2020]
+Finished job 4.
+71 of 132 steps (54%) done
+Submitted job 121 with external jobid 'Your job 4171639 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:43 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.bmi.tibia.2.153707637_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.bmi.tibia.2.153707637.png
+    jobid: 130
+    wildcards: q=weight.bmi.tibia.2.153707637
+
+Submitted job 130 with external jobid 'Your job 4171640 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:46 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.6.147721449_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.6.147721449.png
+    jobid: 119
+    wildcards: q=tibia.6.147721449
+
+Submitted job 119 with external jobid 'Your job 4171641 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:50 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.11.95651415_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.11.95651415.png
+    jobid: 47
+    wildcards: q=activity.total.11.95651415
+
+[Sun Aug 23 10:25:52 2020]
+Finished job 31.
+72 of 132 steps (55%) done
+[Sun Aug 23 10:25:52 2020]
+Finished job 102.
+73 of 132 steps (55%) done
+[Sun Aug 23 10:25:52 2020]
+Finished job 133.
+74 of 132 steps (56%) done
+[Sun Aug 23 10:25:52 2020]
+Finished job 54.
+75 of 132 steps (57%) done
+Submitted job 47 with external jobid 'Your job 4171643 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:53 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.11.93418604_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.11.93418604.png
+    jobid: 34
+    wildcards: q=activity.middle.11.93418604
+
+Submitted job 34 with external jobid 'Your job 4171644 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:56 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity30.13.8139647_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity30.13.8139647.png
+    jobid: 59
+    wildcards: q=activity30.13.8139647
+
+Submitted job 59 with external jobid 'Your job 4171645 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:25:59 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.a.11.94758993_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.a.11.94758993.png
+    jobid: 67
+    wildcards: q=bmd.a.11.94758993
+
+Submitted job 67 with external jobid 'Your job 4171646 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:01 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.5.23814155_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.5.23814155.png
+    jobid: 78
+    wildcards: q=bmd.5.23814155
+
+[Sun Aug 23 10:26:03 2020]
+Finished job 50.
+76 of 132 steps (58%) done
+[Sun Aug 23 10:26:03 2020]
+Finished job 93.
+77 of 132 steps (58%) done
+[Sun Aug 23 10:26:03 2020]
+Finished job 127.
+78 of 132 steps (59%) done
+Submitted job 78 with external jobid 'Your job 4171647 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:04 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.13.8144012_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.13.8144012.png
+    jobid: 52
+    wildcards: q=activity.total.13.8144012
+
+Submitted job 52 with external jobid 'Your job 4171648 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:07 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/basal.activity.11.95673447_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/basal.activity.11.95673447.png
+    jobid: 61
+    wildcards: q=basal.activity.11.95673447
+
+Submitted job 61 with external jobid 'Your job 4171649 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:10 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.begin.2.153696216_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.2.153696216.png
+    jobid: 26
+    wildcards: q=activity.begin.2.153696216
+
+Submitted job 26 with external jobid 'Your job 4171650 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:13 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.11.33440009_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.11.33440009.png
+    jobid: 107
+    wildcards: q=tibia.11.33440009
+
+[Sun Aug 23 10:26:14 2020]
+Finished job 56.
+79 of 132 steps (60%) done
+[Sun Aug 23 10:26:14 2020]
+Finished job 60.
+80 of 132 steps (61%) done
+[Sun Aug 23 10:26:14 2020]
+Finished job 55.
+81 of 132 steps (61%) done
+Submitted job 107 with external jobid 'Your job 4171651 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:16 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.bmi.tibia.17.34013675_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.bmi.tibia.17.34013675.png
+    jobid: 128
+    wildcards: q=weight.bmi.tibia.17.34013675
+
+Submitted job 128 with external jobid 'Your job 4171652 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:19 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.9.81411377_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.9.81411377.png
+    jobid: 122
+    wildcards: q=tibia.9.81411377
+
+Submitted job 122 with external jobid 'Your job 4171653 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:22 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.5.40708978_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.5.40708978.png
+    jobid: 116
+    wildcards: q=tibia.5.40708978
+
+[Sun Aug 23 10:26:25 2020]
+Finished job 6.
+82 of 132 steps (62%) done
+[Sun Aug 23 10:26:25 2020]
+Finished job 104.
+83 of 132 steps (63%) done
+[Sun Aug 23 10:26:25 2020]
+Finished job 117.
+84 of 132 steps (64%) done
+[Sun Aug 23 10:26:25 2020]
+Finished job 126.
+85 of 132 steps (64%) done
+[Sun Aug 23 10:26:25 2020]
+Finished job 16.
+86 of 132 steps (65%) done
+Submitted job 116 with external jobid 'Your job 4171654 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:26 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/basal.activity.13.7101524_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/basal.activity.13.7101524.png
+    jobid: 65
+    wildcards: q=basal.activity.13.7101524
+
+Submitted job 65 with external jobid 'Your job 4171655 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:29 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/basal.activity.13.6154389_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/basal.activity.13.6154389.png
+    jobid: 64
+    wildcards: q=basal.activity.13.6154389
+
+Submitted job 64 with external jobid 'Your job 4171656 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:32 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.17.34013000_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.17.34013000.png
+    jobid: 132
+    wildcards: q=weight.17.34013000
+
+Submitted job 132 with external jobid 'Your job 4171657 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:35 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.12.91722613_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.12.91722613.png
+    jobid: 112
+    wildcards: q=tibia.12.91722613
+
+[Sun Aug 23 10:26:36 2020]
+Finished job 121.
+87 of 132 steps (66%) done
+[Sun Aug 23 10:26:36 2020]
+Finished job 130.
+88 of 132 steps (67%) done
+Submitted job 112 with external jobid 'Your job 4171658 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:38 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/TA.11.18398304_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.11.18398304.png
+    jobid: 13
+    wildcards: q=TA.11.18398304
+
+Submitted job 13 with external jobid 'Your job 4171659 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:41 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.end.11.96653605_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.end.11.96653605.png
+    jobid: 29
+    wildcards: q=activity.end.11.96653605
+
+Submitted job 29 with external jobid 'Your job 4171660 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:44 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.5.24922475_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.5.24922475.png
+    jobid: 79
+    wildcards: q=bmd.5.24922475
+
+Submitted job 79 with external jobid 'Your job 4171661 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:47 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/TA.11.79522084_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.11.79522084.png
+    jobid: 14
+    wildcards: q=TA.11.79522084
+
+[Sun Aug 23 10:26:47 2020]
+Finished job 47.
+89 of 132 steps (67%) done
+[Sun Aug 23 10:26:48 2020]
+Finished job 119.
+90 of 132 steps (68%) done
+[Sun Aug 23 10:26:48 2020]
+Finished job 34.
+91 of 132 steps (69%) done
+[Sun Aug 23 10:26:48 2020]
+Finished job 59.
+92 of 132 steps (70%) done
+[Sun Aug 23 10:26:48 2020]
+Finished job 78.
+93 of 132 steps (70%) done
+Submitted job 14 with external jobid 'Your job 4171662 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:50 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/TA.11.88973232_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.11.88973232.png
+    jobid: 15
+    wildcards: q=TA.11.88973232
+
+Submitted job 15 with external jobid 'Your job 4171663 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:53 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.15.86382123_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.15.86382123.png
+    jobid: 75
+    wildcards: q=bmd.15.86382123
+
+Submitted job 75 with external jobid 'Your job 4171664 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:56 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.11.96852500_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.11.96852500.png
+    jobid: 37
+    wildcards: q=activity.middle.11.96852500
+
+Submitted job 37 with external jobid 'Your job 4171665 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:26:58 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tail.length.8.81878779_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tail.length.8.81878779.png
+    jobid: 105
+    wildcards: q=tail.length.8.81878779
+
+[Sun Aug 23 10:26:59 2020]
+Finished job 67.
+94 of 132 steps (71%) done
+[Sun Aug 23 10:26:59 2020]
+Finished job 52.
+95 of 132 steps (72%) done
+[Sun Aug 23 10:26:59 2020]
+Finished job 61.
+96 of 132 steps (73%) done
+[Sun Aug 23 10:27:00 2020]
+Finished job 26.
+97 of 132 steps (73%) done
+Submitted job 105 with external jobid 'Your job 4171666 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:01 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.end.11.95636638_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.end.11.95636638.png
+    jobid: 28
+    wildcards: q=activity.end.11.95636638
+
+Submitted job 28 with external jobid 'Your job 4171667 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:04 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.begin.11.96964818_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.11.96964818.png
+    jobid: 22
+    wildcards: q=activity.begin.11.96964818
+
+Submitted job 22 with external jobid 'Your job 4171668 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:07 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.bmi.tibia.17.34822977_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.bmi.tibia.17.34822977.png
+    jobid: 129
+    wildcards: q=weight.bmi.tibia.17.34822977
+
+Submitted job 129 with external jobid 'Your job 4171669 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:10 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.begin.13.7632884_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.13.7632884.png
+    jobid: 23
+    wildcards: q=activity.begin.13.7632884
+
+[Sun Aug 23 10:27:11 2020]
+Finished job 128.
+98 of 132 steps (74%) done
+[Sun Aug 23 10:27:11 2020]
+Finished job 122.
+99 of 132 steps (75%) done
+[Sun Aug 23 10:27:11 2020]
+Finished job 65.
+100 of 132 steps (76%) done
+Submitted job 23 with external jobid 'Your job 4171670 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:13 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.11.96653605_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.11.96653605.png
+    jobid: 48
+    wildcards: q=activity.total.11.96653605
+
+Submitted job 48 with external jobid 'Your job 4171671 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:16 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.15.12517342_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.15.12517342.png
+    jobid: 114
+    wildcards: q=tibia.15.12517342
+
+Submitted job 114 with external jobid 'Your job 4171672 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:19 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.18.38659321_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.18.38659321.png
+    jobid: 76
+    wildcards: q=bmd.18.38659321
+
+[Sun Aug 23 10:27:22 2020]
+Finished job 116.
+101 of 132 steps (77%) done
+[Sun Aug 23 10:27:22 2020]
+Finished job 107.
+102 of 132 steps (77%) done
+[Sun Aug 23 10:27:22 2020]
+Finished job 64.
+103 of 132 steps (78%) done
+[Sun Aug 23 10:27:22 2020]
+Finished job 132.
+104 of 132 steps (79%) done
+Submitted job 76 with external jobid 'Your job 4171673 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:22 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.11.93418612_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.11.93418612.png
+    jobid: 46
+    wildcards: q=activity.total.11.93418612
+
+Submitted job 46 with external jobid 'Your job 4171674 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:25 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.13.8800578_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.13.8800578.png
+    jobid: 41
+    wildcards: q=activity.middle.13.8800578
+
+Submitted job 41 with external jobid 'Your job 4171675 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:28 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.a.11.96913720_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.a.11.96913720.png
+    jobid: 69
+    wildcards: q=bmd.a.11.96913720
+
+Submitted job 69 with external jobid 'Your job 4171676 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:31 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/soleus.3.15783853_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.3.15783853.png
+    jobid: 100
+    wildcards: q=soleus.3.15783853
+
+[Sun Aug 23 10:27:33 2020]
+Finished job 112.
+105 of 132 steps (80%) done
+[Sun Aug 23 10:27:33 2020]
+Finished job 13.
+106 of 132 steps (80%) done
+[Sun Aug 23 10:27:33 2020]
+Finished job 29.
+107 of 132 steps (81%) done
+[Sun Aug 23 10:27:33 2020]
+Finished job 14.
+108 of 132 steps (82%) done
+Submitted job 100 with external jobid 'Your job 4171677 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:34 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/soleus.6.15600158_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.6.15600158.png
+    jobid: 101
+    wildcards: q=soleus.6.15600158
+
+Submitted job 101 with external jobid 'Your job 4171678 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:37 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.begin.11.93418612_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.11.93418612.png
+    jobid: 20
+    wildcards: q=activity.begin.11.93418612
+
+Submitted job 20 with external jobid 'Your job 4171679 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:40 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/TA.2.154645131_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.2.154645131.png
+    jobid: 18
+    wildcards: q=TA.2.154645131
+
+Submitted job 18 with external jobid 'Your job 4171680 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:43 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.17.37094289_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.17.37094289.png
+    jobid: 134
+    wildcards: q=weight.17.37094289
+
+[Sun Aug 23 10:27:44 2020]
+Finished job 79.
+109 of 132 steps (83%) done
+[Sun Aug 23 10:27:45 2020]
+Finished job 15.
+110 of 132 steps (83%) done
+[Sun Aug 23 10:27:45 2020]
+Finished job 37.
+111 of 132 steps (84%) done
+Submitted job 134 with external jobid 'Your job 4171681 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:46 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.12.83514944_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.12.83514944.png
+    jobid: 110
+    wildcards: q=tibia.12.83514944
+
+Submitted job 110 with external jobid 'Your job 4171682 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:49 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.begin.2.89917236_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.2.89917236.png
+    jobid: 27
+    wildcards: q=activity.begin.2.89917236
+
+Submitted job 27 with external jobid 'Your job 4171683 ("plot_ci") has been submitted'.
+
+[Sun Aug 23 10:27:52 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.2.152116228_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.2.152116228.png
+    jobid: 42
+    wildcards: q=activity.middle.2.152116228
+
+Submitted job 42 with external jobid 'Your job 4171684 ("plot_ci") has been submitted'.
+[Sun Aug 23 10:27:56 2020]
+Finished job 75.
+112 of 132 steps (85%) done
+[Sun Aug 23 10:27:56 2020]
+Finished job 105.
+113 of 132 steps (86%) done
+[Sun Aug 23 10:27:56 2020]
+Finished job 28.
+114 of 132 steps (86%) done
+[Sun Aug 23 10:27:56 2020]
+Finished job 22.
+115 of 132 steps (87%) done
+[Sun Aug 23 10:27:56 2020]
+Finished job 129.
+116 of 132 steps (88%) done
+[Sun Aug 23 10:27:56 2020]
+Finished job 23.
+117 of 132 steps (89%) done
+[Sun Aug 23 10:27:56 2020]
+Finished job 48.
+118 of 132 steps (89%) done
+[Sun Aug 23 10:27:56 2020]
+Finished job 114.
+119 of 132 steps (90%) done
+[Sun Aug 23 10:28:30 2020]
+Finished job 100.
+120 of 132 steps (91%) done
+[Sun Aug 23 10:28:30 2020]
+Finished job 76.
+121 of 132 steps (92%) done
+[Sun Aug 23 10:28:30 2020]
+Finished job 46.
+122 of 132 steps (92%) done
+[Sun Aug 23 10:28:30 2020]
+Finished job 41.
+123 of 132 steps (93%) done
+[Sun Aug 23 10:28:30 2020]
+Finished job 69.
+124 of 132 steps (94%) done
+[Sun Aug 23 10:28:30 2020]
+Finished job 101.
+125 of 132 steps (95%) done
+[Sun Aug 23 10:28:30 2020]
+Finished job 18.
+126 of 132 steps (95%) done
+[Sun Aug 23 10:28:31 2020]
+Finished job 134.
+127 of 132 steps (96%) done
+[Sun Aug 23 10:28:31 2020]
+Finished job 110.
+128 of 132 steps (97%) done
+[Sun Aug 23 10:28:31 2020]
+Finished job 27.
+129 of 132 steps (98%) done
+[Sun Aug 23 10:28:41 2020]
+Finished job 20.
+130 of 132 steps (98%) done
+[Sun Aug 23 10:28:41 2020]
+Finished job 42.
+131 of 132 steps (99%) done
+
+[Sun Aug 23 10:28:41 2020]
+localrule all:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/kinship_matrices.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.12.83885241.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.13.113025220.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.13.114188942.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.155780222.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.77669072.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.78722881.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.80039850.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.83000091.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.84134413.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.85453160.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.2.86662262.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.11.18398304.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.11.79522084.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.11.88973232.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.12.83514944.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.13.9090078.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.2.154645131.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/TA.2.155819633.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.11.93418612.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.11.94772022.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.11.96964818.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.13.7632884.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.13.8153523.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.13.9154368.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.2.153696216.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.begin.2.89917236.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.end.11.95636638.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.end.11.96653605.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.end.13.10150339.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.end.13.6323352.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.end.13.7101524.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.end.13.8209788.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.11.93418604.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.11.94054029.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.11.95651415.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.11.96852500.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.13.10150339.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.13.7101524.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.13.8209788.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.13.8800578.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.2.152116228.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.2.153760436.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.2.89917236.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.middle.9.81879809.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.11.93418612.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.11.95651415.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.11.96653605.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.13.10144490.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.13.5954638.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.13.7101524.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.13.8144012.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.13.8800578.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.2.89914086.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity.total.9.81882866.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity30.13.10150339.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity30.13.6038915.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity30.13.7101524.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity30.13.8139647.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/activity5.13.8155366.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/basal.activity.11.95673447.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/basal.activity.11.96816215.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/basal.activity.13.10150339.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/basal.activity.13.6154389.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/basal.activity.13.7101524.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/basal.activity.13.8209788.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.a.11.94758993.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.a.11.95761488.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.a.11.96913720.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.11.100053320.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.11.93469819.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.11.94772022.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.11.95761488.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.11.96912238.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.15.86382123.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.18.38659321.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.5.21721308.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.5.23814155.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.5.24922475.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.5.27366822.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.n.11.95582360.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.n.11.96918212.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.n.18.38930957.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.n.5.23815043.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/bmd.n.5.24920012.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/gastroc.11.79954876.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/gastroc.11.88973192.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/gastroc.12.83517483.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/gastroc.2.155856984.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/glucose.1.152192170.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/habit.ratio.18.25412656.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/plantaris.13.116222549.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/plantaris.2.155812908.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/plantaris.4.85394581.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/plantaris.9.87855594.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.13.113404971.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.13.114802392.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.13.9242435.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.2.155505679.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.3.15783853.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.6.15600158.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/soleus.6.18123198.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tail.length.8.79338858.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tail.length.8.80905518.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tail.length.8.81878779.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.11.32268598.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.11.33440009.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.11.95761488.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.11.96952835.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.12.83514944.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.12.91175287.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.12.91722613.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.15.11500538.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.15.12517342.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.5.39698535.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.5.40708978.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.6.145481081.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.6.147027848.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.6.147721449.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.6.148328439.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.9.80408302.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.9.81411377.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.9.83150389.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.9.85054834.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.bmi.tibia.12.83323871.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.bmi.tibia.13.5655594.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.bmi.tibia.13.8924722.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.bmi.tibia.17.34013675.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.bmi.tibia.17.34822977.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.bmi.tibia.2.153707637.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.13.9217096.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.17.34013000.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.17.34900243.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/weight.17.37094289.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/annovar_input_snps.txt
+    jobid: 0
+
+[Sun Aug 23 10:28:41 2020]
+Finished job 0.
+132 of 132 steps (100%) done
+Complete log: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/log/2020-08-23T102118.740609.snakemake.log

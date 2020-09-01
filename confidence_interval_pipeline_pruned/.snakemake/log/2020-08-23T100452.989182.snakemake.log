@@ -1,0 +1,30 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	plot_ci
+	2
+
+[Sun Aug 23 10:05:02 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.12.83885241_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.12.83885241.png
+    jobid: 2
+    wildcards: q=EDL.12.83885241
+
+[Sun Aug 23 10:05:39 2020]
+Finished job 2.
+1 of 2 steps (50%) done
+
+[Sun Aug 23 10:05:39 2020]
+localrule all:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/kinship_matrices.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.12.83885241.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/annovar_input_snps.txt
+    jobid: 0
+
+[Sun Aug 23 10:05:39 2020]
+Finished job 0.
+2 of 2 steps (100%) done
+Complete log: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/log/2020-08-23T100452.989182.snakemake.log

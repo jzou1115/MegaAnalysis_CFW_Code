@@ -1,0 +1,4 @@
+TypeError in line 29 of /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/Snakefile:
+expected str, bytes or os.PathLike object, not NoneType
+  File "/u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/Snakefile", line 29, in <module>
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/posixpath.py", line 80, in join

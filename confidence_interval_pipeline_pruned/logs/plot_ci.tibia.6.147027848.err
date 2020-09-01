@@ -1,0 +1,19 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	plot_ci
+	1
+
+[Sun Aug 23 10:24:58 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.6.147027848_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/tibia.6.147027848.png
+    jobid: 0
+    wildcards: q=tibia.6.147027848
+
+[Sun Aug 23 10:25:18 2020]
+Finished job 0.
+1 of 1 steps (100%) done

@@ -1,0 +1,18 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cluster nodes: 100
+Job counts:
+	count	jobs
+	1	all
+	45	locus_zoom_input
+	46
+
+[Sun Jul 26 14:44:09 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/activity.end.13.7101524_r2.txt
+    jobid: 107
+    wildcards: q=activity.end.13.7101524
+
+RuleException in line 145 of /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/Snakefile:
+NameError: The name 'q' is unknown in this context. Please make sure that you defined that variable. Also note that braces not used for variable access have to be escaped by repeating them, i.e. {{print $1}}

@@ -1,0 +1,27 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	annovar
+	2
+
+[Wed Aug 19 15:48:01 2020]
+rule annovar:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/annovar_input_snps.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/annovar_input_snps.txt.exonic_variant_function
+    jobid: 3
+
+[Wed Aug 19 15:48:03 2020]
+Error in rule annovar:
+    jobid: 3
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/annovar_input_snps.txt.exonic_variant_function
+    shell:
+        /u/home/j/jzou1115/project-ernst/software/annovar/annotate_variation.pl -geneanno -dbtype refGene -buildver mm10 input.snps mm10db
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/log/2020-08-19T154754.515895.snakemake.log

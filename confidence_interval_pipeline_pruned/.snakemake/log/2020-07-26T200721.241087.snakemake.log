@@ -1,0 +1,228 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	19	combineQtlsPrunedSNPs
+	20
+
+[Sun Jul 26 20:07:21 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr14.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr14.oxinfo90.txt
+    jobid: 14
+    wildcards: chr=14
+
+[Sun Jul 26 20:07:24 2020]
+Finished job 14.
+1 of 20 steps (5%) done
+
+[Sun Jul 26 20:07:24 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr2.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr2.oxinfo90.txt
+    jobid: 2
+    wildcards: chr=2
+
+[Sun Jul 26 20:07:25 2020]
+Finished job 2.
+2 of 20 steps (10%) done
+
+[Sun Jul 26 20:07:25 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr11.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr11.oxinfo90.txt
+    jobid: 11
+    wildcards: chr=11
+
+[Sun Jul 26 20:07:26 2020]
+Finished job 11.
+3 of 20 steps (15%) done
+
+[Sun Jul 26 20:07:26 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr1.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr1.oxinfo90.txt
+    jobid: 1
+    wildcards: chr=1
+
+[Sun Jul 26 20:07:27 2020]
+Finished job 1.
+4 of 20 steps (20%) done
+
+[Sun Jul 26 20:07:27 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr13.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr13.oxinfo90.txt
+    jobid: 13
+    wildcards: chr=13
+
+[Sun Jul 26 20:07:28 2020]
+Finished job 13.
+5 of 20 steps (25%) done
+
+[Sun Jul 26 20:07:28 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr12.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr12.oxinfo90.txt
+    jobid: 12
+    wildcards: chr=12
+
+[Sun Jul 26 20:07:29 2020]
+Finished job 12.
+6 of 20 steps (30%) done
+
+[Sun Jul 26 20:07:29 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr6.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr6.oxinfo90.txt
+    jobid: 6
+    wildcards: chr=6
+
+[Sun Jul 26 20:07:30 2020]
+Finished job 6.
+7 of 20 steps (35%) done
+
+[Sun Jul 26 20:07:30 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr17.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr17.oxinfo90.txt
+    jobid: 17
+    wildcards: chr=17
+
+[Sun Jul 26 20:07:31 2020]
+Finished job 17.
+8 of 20 steps (40%) done
+
+[Sun Jul 26 20:07:31 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr4.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr4.oxinfo90.txt
+    jobid: 4
+    wildcards: chr=4
+
+[Sun Jul 26 20:07:31 2020]
+Finished job 4.
+9 of 20 steps (45%) done
+
+[Sun Jul 26 20:07:31 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr9.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr9.oxinfo90.txt
+    jobid: 9
+    wildcards: chr=9
+
+[Sun Jul 26 20:07:32 2020]
+Finished job 9.
+10 of 20 steps (50%) done
+
+[Sun Jul 26 20:07:32 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr5.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr5.oxinfo90.txt
+    jobid: 5
+    wildcards: chr=5
+
+[Sun Jul 26 20:07:33 2020]
+Finished job 5.
+11 of 20 steps (55%) done
+
+[Sun Jul 26 20:07:33 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr15.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr15.oxinfo90.txt
+    jobid: 15
+    wildcards: chr=15
+
+[Sun Jul 26 20:07:34 2020]
+Finished job 15.
+12 of 20 steps (60%) done
+
+[Sun Jul 26 20:07:34 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr3.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr3.oxinfo90.txt
+    jobid: 3
+    wildcards: chr=3
+
+[Sun Jul 26 20:07:35 2020]
+Finished job 3.
+13 of 20 steps (65%) done
+
+[Sun Jul 26 20:07:35 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr8.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr8.oxinfo90.txt
+    jobid: 8
+    wildcards: chr=8
+
+[Sun Jul 26 20:07:36 2020]
+Finished job 8.
+14 of 20 steps (70%) done
+
+[Sun Jul 26 20:07:36 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr10.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr10.oxinfo90.txt
+    jobid: 10
+    wildcards: chr=10
+
+[Sun Jul 26 20:07:37 2020]
+Finished job 10.
+15 of 20 steps (75%) done
+
+[Sun Jul 26 20:07:37 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr18.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr18.oxinfo90.txt
+    jobid: 18
+    wildcards: chr=18
+
+[Sun Jul 26 20:07:37 2020]
+Finished job 18.
+16 of 20 steps (80%) done
+
+[Sun Jul 26 20:07:37 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr7.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr7.oxinfo90.txt
+    jobid: 7
+    wildcards: chr=7
+
+[Sun Jul 26 20:07:38 2020]
+Finished job 7.
+17 of 20 steps (85%) done
+
+[Sun Jul 26 20:07:38 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr19.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr19.oxinfo90.txt
+    jobid: 19
+    wildcards: chr=19
+
+[Sun Jul 26 20:07:39 2020]
+Finished job 19.
+18 of 20 steps (90%) done
+
+[Sun Jul 26 20:07:39 2020]
+rule combineQtlsPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/oxinfo90/LDprunedSNPs/combined.chr16.prune.in, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/qtls/qtls_decorrelated_threshold2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr16.oxinfo90.txt
+    jobid: 16
+    wildcards: chr=16
+
+[Sun Jul 26 20:07:40 2020]
+Finished job 16.
+19 of 20 steps (95%) done
+
+[Sun Jul 26 20:07:40 2020]
+localrule all:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr1.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr2.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr3.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr4.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr5.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr6.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr7.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr8.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr9.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr10.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr11.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr12.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr13.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr14.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr15.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr16.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr17.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr18.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr19.oxinfo90.txt
+    jobid: 0
+
+[Sun Jul 26 20:07:40 2020]
+Finished job 0.
+20 of 20 steps (100%) done
+Complete log: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/log/2020-07-26T200721.241087.snakemake.log

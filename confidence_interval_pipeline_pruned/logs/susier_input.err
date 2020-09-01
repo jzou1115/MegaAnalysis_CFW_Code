@@ -1,0 +1,1664 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:22:38 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/EDL.13.114188942_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/EDL.13.114188942_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=EDL.13.114188942
+
+[Wed Aug 19 14:26:22 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:28:19 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.a.11.94758993_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.a.11.94758993_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=bmd.a.11.94758993
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:28:23 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.total.13.8144012_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.total.13.8144012_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.total.13.8144012
+
+8604
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:28:32 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/gastroc.11.88973192_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/gastroc.11.88973192_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=gastroc.11.88973192
+
+8.25412656
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:28:34 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.begin.11.94772022_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.begin.11.94772022_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.begin.1Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:28:35 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/gastroc.11.79954876_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/gastroc.11.79954876_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=gastroc.11.79954876
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:28:45 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/gastroc.2.155856984_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/gastroc.2.155856984_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=gastroc.2.155856984
+
+9338858
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:28:47 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.12.91175287_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.12.91175287_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=tibia.12.91175287
+
+ctivity.begin.2.153696216
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:28:46 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.5.27366822_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.5.27366822_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=bmd.5.27366822
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:28:47 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity30.13.6038915_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity30.13.6038915_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity30.13.6038915
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:29:01 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.9.83150389_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.9.83150389_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=tibia.9.83150389
+
+q=activity.total.11.95651415
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:29:13 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.5.24922475_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.5.24922475_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=bmd.5.24922475
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:29:13 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/soleus.13.113404971_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/soleus.13.113404971_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=soleus.13.113404971
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:29:24 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.end.13.7101524_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.end.13.7101524_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.end.13.7101524
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:29:26 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.17.34013000_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.17.34013000_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=weight.17.34013000
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:29:28 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.n.11.95582360_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.n.11.95582360_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=bmd.n.11.95582360
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 20
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:29:35 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/plantaris.2.155812908_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/plantaris.2.155812908_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=plantaris.2.155812908
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:29:41 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.bmi.tibia.17.34013675_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.bmi.tibia.17.34013675_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=weight.bmi.tibia.17.34013675
+
+Building DAG of jobs...
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:29:48 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.begin.13.8153523_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.begin.13.8153523_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.begin.13.8153523
+
+/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/basal.activity.11.95673447_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=basal.activity.11.95673447
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity30.13.8139647_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity30.13.8139647_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity30.13.8139647
+
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:29:52 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.9.81879809_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.9.81879809_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.middle.9.81879809
+
+[Wed Aug 19 14:29:55 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:30:05 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:30:16 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.11.94054029_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.11.94054029_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.middle.11.94054029
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:30:22 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.total.9.81882866_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.total.9.81882866_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.total.9.81882866
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:30:31 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.total.13.10144490_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.total.13.10144490_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.total.13.10144490
+
+Building DAG of jobs...
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+Using shell: /bin/bash
+
+Provided cores: 36
+[Wed Aug 19 14:30:33 2020]
+Rules claiming more threads will be scaled down.
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.total.11.96653605_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.total.11.96653605_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.total.11.96653605
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+
+[Wed Aug 19 14:30:33 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.11.96952835_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.11.96952835_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=tibia.11.96952835
+
+[Wed Aug 19 14:30:37 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:30:42 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:31:02 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/TA.2.155819633_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/TA.2.155819633_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=TA.2.155819633
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:31:05 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.bmi.tibia.17.34822977_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.bmi.tibia.17.34822977_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=weight.bmi.tibia.17.34822977
+
+[Wed Aug 19 14:31:11 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:31:13 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:31:14 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:31:27 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.15.11500538_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.15.11500538_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=tibia.15.11500538
+
+[Wed Aug 19 14:31:28 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:31:32 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.13.8800578_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.13.8800578_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.middle.13.8800578
+
+4
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:31:34 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/plantaris.4.85394581_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/plantaris.4.85394581_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=plantaris.4.85394581
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:31:41 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/EDL.2.155780222_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/EDL.2.155780222_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=EDL.2.155780222
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:31:55 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/TA.11.88973232_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/TA.11.88973232_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=TA.11.88973232
+
+[Wed Aug 19 14:32:06 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:32:13 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:32:23 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.a.11.95761488_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.a.11.95761488_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=bmd.a.11.95761488
+
+[Wed Aug 19 14:32:25 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:32:26 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:32:30 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.begin.13.7632884_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.begin.13.7632884_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.begin.13.7632884
+
+[Wed Aug 19 14:32:31 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:32:32 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:32:34 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:32:37 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/TA.12.83514944_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/TA.12.83514944_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=TA.12.83514944
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+RuBuilding DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:32:40 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.begin.11.96964818_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.begin.11.96964818_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.begin.11.96964818
+
+[Wed Aug 19 14:32:41 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:32:42 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+RuBuilding DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:32:51 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tail.length.8.80905518_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tail.lengthBuilding DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:32:52 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/soleus.6.18123198_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/soleus.6.18123198_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=soleus.6.18123198
+
+ed_sorted.ld
+    jobid: 0
+    wildcards: q=EDL.2.86662262
+
+steps (100%) done
+[Wed Aug 19 14:32:54 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:32:54 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:33:01 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/EDL.2.85453160_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/EDL.2.85453160_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=EDL.2.85453160
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:33:06 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/EDL.2.83000091_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/EDL.2.83000091_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=EDL.2.83000091
+
+e.1.152192170
+
+Building DAG of jobs...
+Building DAG of jobs...
+Using shell: /bin/bash
+Using shell: /bin/bash
+Provided cores: 12
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+
+[Wed Aug 19 14:33:08 2020]
+[Wed Aug 19 14:33:08 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.total.13.8800578_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.total.13.8800578_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.total.13.8800578
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.11.95651415_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.11.95651415_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.middle.11.95651415
+
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:33:14 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.2.89917236_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.2.89917236_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.middle.2.89917236
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:33:17 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.9.81411377_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.9.81411377_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=tibia.9.81411377
+
+basal.activity.13.7101524
+
+[Wed Aug 19 14:33:19 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:33:19 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:33:24 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:33:31 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:33:39 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.end.11.96653605_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.end.11.96653605_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.end.11.96653605
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 20
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:33:42 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/soleus.13.9242435_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/soleus.13.9242435_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=soleus.13.9242435
+
+ctivity.total.11.93418612
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:33:45 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/basal.activity.11.96816215_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/basal.activity.11.96816215_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=basal.activity.11.96816215
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:33:51 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.11.94772022_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.11.94772022_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=bmd.11.94772022
+
+[Wed Aug 19 14:33:52 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:33:53 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:33:58 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:34:01 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:34:03 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:34:04 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.end.13.6323352_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.end.13.6323352_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.end.13.6323352
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:34:06 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.15.12517342_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.15.12517342_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=tibia.15.12517342
+
+[Wed Aug 19 14:34:07 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:34:12 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:34:14 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:34:20 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity30.13.7101524_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity30.13.7101524_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity30.13.7101524
+
+5636638
+
+2.83323871
+
+[Wed Aug 19 14:34:23 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:34:30 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.n.5.24920012_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.n.5.24920012_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=bmd.n.5.24920012
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:34:34 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.begin.2.89917236_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.begin.2.89917236_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.begin.2.89917236
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 20
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:34:42 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.5.21721308_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.5.21721308_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=bmd.5.21721308
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:34:45 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/soleus.2.155505679_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/soleus.2.155505679_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=soleus.2.155505679
+
+[Wed Aug 19 14:34:54 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:34:57 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.12.91722613_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.12.91722613_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=tibia.12.91722613
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:34:58 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tail.length.8.81878779_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tail.length.8.81878779_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=tail.length.8.81878779
+
+[Wed Aug 19 14:35:00 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:35:03 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:35:05 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:35:08 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/basal.activity.13.8209788_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/basal.activity.13.8209788_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=basal.activity.13.8209788
+
+[Wed Aug 19 14:35:16 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:35:21 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.end.13.10150339_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.end.13.10150339_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.end.13.10150339
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:35:21 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.begin.11.93418612_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.begin.11.93418612_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.begin.11.93418612
+
+[Wed Aug 19 14:35:24 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:35:26 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:35:31 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+les claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:35:31 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.n.5.23815043_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.n.5.23815043_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=bmd.n.5.23815043
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:35:46 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/soleus.13.114802392_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/soleus.13.114802392_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=soleus.13.114802392
+
+ jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:35:46 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.13.10150339_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.13.10150339_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.middle.13.10150339
+
+[Wed Aug 19 14:35:52 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:35:55 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:36:02 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:36:08 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.end.13.8209788_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.end.13.8209788_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.end.13.8209788
+
+[Wed Aug 19 14:36:16 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:36:19 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/EDL.2.84134413_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/EDL.2.84134413_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=EDL.2.84134413
+
+[Wed Aug 19 14:36:20 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:36:34 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.total.13.7101524_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.total.13.7101524_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.total.13.7101524
+
+[Wed Aug 19 14:36:37 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:36:38 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:36:42 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:36:44 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.a.11.96913720_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.a.11.96913720_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=bmd.a.11.96913720
+
+[Wed Aug 19 14:36:54 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:36:56 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.15.86382123_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/bmd.15.86382123_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=bmd.15.86382123
+
+[Wed Aug 19 14:36:58 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:37:00 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity30.13.10150339_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity30.13.10150339_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity30.13.10150339
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:37:03 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.13.7101524_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.13.7101524_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.middle.13.7101524
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:37:08 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.2.152116228_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.2.152116228_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.middle.2.152116228
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:37:10 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.bmi.tibia.2.153707637_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.bmi.tibia.2.153707637_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=weight.bmi.tibia.2.153707637
+
+[Wed Aug 19 14:37:15 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:37:21 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/EDL.2.77669072_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/EDL.2.77669072_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=EDL.2.77669072
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:37:24 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.17.37094289_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.17.37094289_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=weight.17.37094289
+
+[Wed Aug 19 14:37:26 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:37:27 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:37:29 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:37:31 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:37:33 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.11.32268598_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.11.32268598_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=tibia.11.32268598
+
+[Wed Aug 19 14:37:35 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:37:35 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:37:39 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:37:41 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:37:45 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.bmi.tibia.13.8924722_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.bmi.tibia.13.8924722_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=weight.bmi.tibia.13.8924722
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:37:48 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/basal.activity.13.10150339_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/basal.activity.13.10150339_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=basal.activity.13.10150339
+
+[Wed Aug 19 14:37:49 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:37:57 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:38:01 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.6.147721449_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/tibia.6.147721449_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=tibia.6.147721449
+
+ivity.total.13.5954638
+
+[Wed Aug 19 14:38:03 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:38:04 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:38:06 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+RuBuilding DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:38:12 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.17.34900243_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/weight.17.34900243_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=weight.17.34900243
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 36
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:38:22 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.11.96852500_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.11.96852500_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity.middle.11.96852500
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	susier_input
+	1
+
+[Wed Aug 19 14:38:26 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity5.13.8155366_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity5.13.8155366_pruned_sorted.ld
+    jobid: 0
+    wildcards: q=activity5.13.8155366
+
+al.2.89914086
+
+0436
+
+[Wed Aug 19 14:38:28 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:38:31 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:38:36 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:38:37 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:38:39 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:38:46 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:38:46 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:39:02 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:39:04 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:39:19 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:39:24 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:39:48 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:39:53 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:39:58 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:40:02 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:40:33 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:40:34 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:40:48 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:40:58 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:41:07 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:41:14 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:41:18 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:41:40 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:41:44 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:41:45 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:41:51 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:41:57 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:42:00 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:42:07 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:42:19 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:42:22 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+/bin/bash: line 1: 17604 Killed                  /u/home/j/jzou1115/project-ernst/software/anaconda3/bin/python3.7 /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/scripts/tmp5ykzmdow.susier_input.py
+[Wed Aug 19 14:42:32 2020]
+Error in rule susier_input:
+    jobid: 0
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.2.152116228_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.2.152116228_pruned_sorted.ld
+
+RuleException:
+CalledProcessError in line 156 of /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/Snakefile:
+Command 'set -euo pipefail;  /u/home/j/jzou1115/project-ernst/software/anaconda3/bin/python3.7 /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/scripts/tmp5ykzmdow.susier_input.py' returned non-zero exit status 137.
+  File "/u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/Snakefile", line 156, in __rule_susier_input
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/concurrent/futures/thread.py", line 57, in run
+Removing output files of failed job susier_input since they might be corrupted:
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/input/activity.middle.2.152116228_pruned_sorted.z
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+[Wed Aug 19 14:42:43 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:42:45 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:42:50 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:42:50 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:43:11 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:43:20 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+[Wed Aug 19 14:43:42 2020]
+Finished job 0.
+1 of 1 steps (100%) done

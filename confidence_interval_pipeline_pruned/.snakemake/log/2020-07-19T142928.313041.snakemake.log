@@ -1,0 +1,31 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	46	run_susier
+	46	susier_input
+	93
+
+[Sun Jul 19 14:29:30 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/$tibia.9.85054834_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/$tibia.9.85054834_pruned_sorted.ld
+    jobid: 236
+    wildcards: q=$tibia.9.85054834
+
+[Sun Jul 19 14:29:31 2020]
+Error in rule susier_input:
+    jobid: 236
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/$tibia.9.85054834_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/$tibia.9.85054834_pruned_sorted.ld
+
+RuleException:
+CalledProcessError in line 130 of /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/Snakefile:
+Command 'set -euo pipefail;  /u/home/j/jzou1115/project-ernst/software/anaconda3/bin/python3.7 /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/.snakemake/scripts/tmpmq_puf91.susier_input.py' returned non-zero exit status 1.
+  File "/u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/Snakefile", line 130, in __rule_susier_input
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/concurrent/futures/thread.py", line 57, in run
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/.snakemake/log/2020-07-19T142928.313041.snakemake.log

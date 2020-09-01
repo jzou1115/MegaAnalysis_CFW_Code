@@ -1,0 +1,21 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cluster nodes: 1
+Job counts:
+	count	jobs
+	1	all
+	132	locus_zoom_input
+	133
+[Wed Aug 19 10:55:54 2020]
+
+group job locus_zoom_input (jobs in lexicogr. order):
+
+    [Wed Aug 19 10:55:54 2020]
+    rule locus_zoom_input:
+        input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/
+        output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.15.86382123_r2.txt
+        jobid: 263
+        wildcards: q=bmd.15.86382123
+
+WorkflowError:
+NameError with group job 43c39a32-995a-5e5b-a823-8758d11960e4: The name 'wildcards' is unknown in this context. Please make sure that you defined that variable. Also note that braces not used for variable access have to be escaped by repeating them, i.e. {{print $1}}

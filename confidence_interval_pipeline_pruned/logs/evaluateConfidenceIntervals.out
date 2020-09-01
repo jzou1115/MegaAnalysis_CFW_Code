@@ -1,0 +1,1016 @@
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/activity30.13.8139647.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/activity.begin.13.8153523.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/activity.end.13.7101524.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/activity.end.13.8209788.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/activity.middle.13.7101524.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/activity.middle.13.8209788.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/activity.middle.13.8800578.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/activity.total.13.7101524.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/activity.total.13.8144012.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/activity.total.13.8800578.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/basal.activity.13.7101524.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/basal.activity.13.8209788.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/bmd.11.94772022.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.11.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/bmd.11.95761488.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.11.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/bmd.11.96912238.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.11.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/bmd.5.21721308.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.5.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/bmd.5.23814155.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.5.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/bmd.5.24922475.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.5.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/bmd.a.11.94758993.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.11.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/bmd.a.11.95761488.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.11.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/bmd.a.11.96913720.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.11.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/bmd.n.11.95582360.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.11.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/bmd.n.11.96918212.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.11.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/EDL.12.83885241.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.12.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/EDL.2.155780222.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.2.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/EDL.2.77669072.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.2.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/soleus.13.113404971.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/soleus.13.114802392.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.13.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/TA.12.83514944.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.12.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/TA.2.155819633.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.2.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tail.length.8.80905518.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.8.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tail.length.8.81878779.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.8.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.11.96952835.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.11.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.12.83514944.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.12.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.12.91175287.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.12.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.12.91722613.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.12.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.15.11500538.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.15.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.15.12517342.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.15.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.6.147027848.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.6.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.6.147721449.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.6.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.6.148328439.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.6.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.9.81411377.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.9.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.9.83150389.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.9.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.9.85054834.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.9.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/weight.17.34013000.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.17.permute.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/weight.bmi.tibia.17.34013675.CI.RData 
+loading  /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.17.permute.RData 
+           phenotype      logP chr        bp quantile delta.logP   from.bp
+1         activity30  8.494170  13   8139647     0.25 0.15274624        NA
+2         activity30  8.494170  13   8139647     0.50 0.36992322   8139647
+3         activity30  8.494170  13   8139647     0.75 0.71301578   7935662
+4         activity30  8.494170  13   8139647     0.90 1.12023742   7101524
+5         activity30  8.494170  13   8139647     0.95 1.41939891   7101524
+6     activity.begin 10.094464  13   8153523     0.25 0.15082050        NA
+7     activity.begin 10.094464  13   8153523     0.50 0.36983555        NA
+8     activity.begin 10.094464  13   8153523     0.75 0.71664776        NA
+9     activity.begin 10.094464  13   8153523     0.90 1.14542349        NA
+10    activity.begin 10.094464  13   8153523     0.95 1.46274918   8149687
+11      activity.end 10.357265  13   7101524     0.25 0.13610666   8139647
+12      activity.end 10.357265  13   7101524     0.50 0.33771622   8139647
+13      activity.end 10.357265  13   7101524     0.75 0.67440343   7465248
+14      activity.end 10.357265  13   7101524     0.90 1.09364014   7101524
+15      activity.end 10.357265  13   7101524     0.95 1.39824904   7047417
+16      activity.end 11.155589  13   8209788     0.25 0.14589021        NA
+17      activity.end 11.155589  13   8209788     0.50 0.35865838        NA
+18      activity.end 11.155589  13   8209788     0.75 0.70908869        NA
+19      activity.end 11.155589  13   8209788     0.90 1.14100929   8139647
+20      activity.end 11.155589  13   8209788     0.95 1.44363277   7492516
+21   activity.middle  8.771592  13   7101524     0.25 0.14807682   8139647
+22   activity.middle  8.771592  13   7101524     0.50 0.36026367   8139647
+23   activity.middle  8.771592  13   7101524     0.75 0.68753346   7466983
+24   activity.middle  8.771592  13   7101524     0.90 1.11632198   7047417
+25   activity.middle  8.771592  13   7101524     0.95 1.43191941   7047417
+26   activity.middle 10.663744  13   8209788     0.25 0.14933877        NA
+27   activity.middle 10.663744  13   8209788     0.50 0.37224391        NA
+28   activity.middle 10.663744  13   8209788     0.75 0.71169405        NA
+29   activity.middle 10.663744  13   8209788     0.90 1.13259775   8144418
+30   activity.middle 10.663744  13   8209788     0.95 1.44825398   8139647
+31   activity.middle  8.712946  13   8800578     0.25 0.17363550   8139647
+32   activity.middle  8.712946  13   8800578     0.50 0.40752371   8139647
+33   activity.middle  8.712946  13   8800578     0.75 0.75693071   7047417
+34   activity.middle  8.712946  13   8800578     0.90 1.18145118   7047417
+35   activity.middle  8.712946  13   8800578     0.95 1.48441216   7047417
+36    activity.total 10.127980  13   7101524     0.25 0.14257353   8139647
+37    activity.total 10.127980  13   7101524     0.50 0.34213721   8139647
+38    activity.total 10.127980  13   7101524     0.75 0.66202129   7847065
+39    activity.total 10.127980  13   7101524     0.90 1.08480548   7047417
+40    activity.total 10.127980  13   7101524     0.95 1.39036149   7047417
+41    activity.total 11.986647  13   8144012     0.25 0.14318296        NA
+42    activity.total 11.986647  13   8144012     0.50 0.36280524        NA
+43    activity.total 11.986647  13   8144012     0.75 0.69419107        NA
+44    activity.total 11.986647  13   8144012     0.90 1.13010993        NA
+45    activity.total 11.986647  13   8144012     0.95 1.41675138   8141386
+46    activity.total  9.891826  13   8800578     0.25 0.15462788   8139647
+47    activity.total  9.891826  13   8800578     0.50 0.38010646   7859484
+48    activity.total  9.891826  13   8800578     0.75 0.73906149   7047417
+49    activity.total  9.891826  13   8800578     0.90 1.16714245   7047417
+50    activity.total  9.891826  13   8800578     0.95 1.47604176   7047417
+51    basal.activity 10.371205  13   7101524     0.25 0.14293333   8139647
+52    basal.activity 10.371205  13   7101524     0.50 0.34690355   8139647
+53    basal.activity 10.371205  13   7101524     0.75 0.67490974   7463800
+54    basal.activity 10.371205  13   7101524     0.90 1.09394699   7101524
+55    basal.activity 10.371205  13   7101524     0.95 1.40365387   7047417
+56    basal.activity 11.129065  13   8209788     0.25 0.13969289        NA
+57    basal.activity 11.129065  13   8209788     0.50 0.35839508        NA
+58    basal.activity 11.129065  13   8209788     0.75 0.69871061   8139647
+59    basal.activity 11.129065  13   8209788     0.90 1.12718129   8139647
+60    basal.activity 11.129065  13   8209788     0.95 1.44625298   7463800
+61               bmd 24.231105  11  94772022     0.25 0.04002518  95154119
+62               bmd 24.231105  11  94772022     0.50 0.21752918  95154119
+63               bmd 24.231105  11  94772022     0.75 0.54949157  95003089
+64               bmd 24.231105  11  94772022     0.90 0.99059156  95003042
+65               bmd 24.231105  11  94772022     0.95 1.31949577  94772022
+66               bmd 38.717667  11  95761488     0.25 0.03660909        NA
+67               bmd 38.717667  11  95761488     0.50 0.23362919        NA
+68               bmd 38.717667  11  95761488     0.75 0.56279599        NA
+69               bmd 38.717667  11  95761488     0.90 0.96147004        NA
+70               bmd 38.717667  11  95761488     0.95 1.25838778        NA
+71               bmd 39.396363  11  96912238     0.25 0.05114963        NA
+72               bmd 39.396363  11  96912238     0.50 0.23775485        NA
+73               bmd 39.396363  11  96912238     0.75 0.55764905        NA
+74               bmd 39.396363  11  96912238     0.90 0.97598154        NA
+75               bmd 39.396363  11  96912238     0.95 1.28005302        NA
+76               bmd 14.035443   5  21721308     0.25 0.03215123  24020306
+77               bmd 14.035443   5  21721308     0.50 0.18480512  24020306
+78               bmd 14.035443   5  21721308     0.75 0.47265481  24020306
+79               bmd 14.035443   5  21721308     0.90 0.88273744  24020306
+80               bmd 14.035443   5  21721308     0.95 1.18120755  21721308
+81               bmd 16.207357   5  23814155     0.25 0.04436542        NA
+82               bmd 16.207357   5  23814155     0.50 0.24421368        NA
+83               bmd 16.207357   5  23814155     0.75 0.60021404        NA
+84               bmd 16.207357   5  23814155     0.90 1.06580301        NA
+85               bmd 16.207357   5  23814155     0.95 1.40816859        NA
+86               bmd 15.379917   5  24922475     0.25 0.01544780        NA
+87               bmd 15.379917   5  24922475     0.50 0.18794761        NA
+88               bmd 15.379917   5  24922475     0.75 0.54277795        NA
+89               bmd 15.379917   5  24922475     0.90 1.01215170  24369452
+90               bmd 15.379917   5  24922475     0.95 1.31617118  24020306
+91             bmd.a  9.409683  11  94758993     0.25 0.08320518  94746225
+92             bmd.a  9.409683  11  94758993     0.50 0.29614197  94737183
+93             bmd.a  9.409683  11  94758993     0.75 0.66902484  94737183
+94             bmd.a  9.409683  11  94758993     0.90 1.13505759  94737183
+95             bmd.a  9.409683  11  94758993     0.95 1.44682416  94737183
+96             bmd.a 18.611212  11  95761488     0.25 0.08438155  95756199
+97             bmd.a 18.611212  11  95761488     0.50 0.28726701  95533862
+98             bmd.a 18.611212  11  95761488     0.75 0.63189687  95425208
+99             bmd.a 18.611212  11  95761488     0.90 1.05288572  95424078
+100            bmd.a 18.611212  11  95761488     0.95 1.40212549  95234889
+101            bmd.a 20.131400  11  96913720     0.25 0.08203555  96912238
+102            bmd.a 20.131400  11  96913720     0.50 0.28804939  96912238
+103            bmd.a 20.131400  11  96913720     0.75 0.62343625  96806105
+104            bmd.a 20.131400  11  96913720     0.90 1.04090433  96136949
+105            bmd.a 20.131400  11  96913720     0.95 1.34309997  96124190
+106            bmd.n 12.760313  11  95582360     0.25 0.10314555        NA
+107            bmd.n 12.760313  11  95582360     0.50 0.31712299        NA
+108            bmd.n 12.760313  11  95582360     0.75 0.67301741        NA
+109            bmd.n 12.760313  11  95582360     0.90 1.10269639        NA
+110            bmd.n 12.760313  11  95582360     0.95 1.42700933  95424078
+111            bmd.n 12.282535  11  96918212     0.25 0.10702101        NA
+112            bmd.n 12.282535  11  96918212     0.50 0.31791858        NA
+113            bmd.n 12.282535  11  96918212     0.75 0.66652773        NA
+114            bmd.n 12.282535  11  96918212     0.90 1.07148100  95424078
+115            bmd.n 12.282535  11  96918212     0.95 1.39365576  95424078
+116              EDL  9.277392  12  83885241     0.25 0.03846113        NA
+117              EDL  9.277392  12  83885241     0.50 0.18239752        NA
+118              EDL  9.277392  12  83885241     0.75 0.41842769  83885241
+119              EDL  9.277392  12  83885241     0.90 0.72077197  83885241
+120              EDL  9.277392  12  83885241     0.95 0.96470837  83885241
+121              EDL 10.558548   2 155780222     0.25 0.06888951        NA
+122              EDL 10.558548   2 155780222     0.50 0.24728582        NA
+123              EDL 10.558548   2 155780222     0.75 0.56255717        NA
+124              EDL 10.558548   2 155780222     0.90 1.00688138        NA
+125              EDL 10.558548   2 155780222     0.95 1.31848463 155800282
+126              EDL  8.537920   2  77669072     0.25 0.03766368        NA
+127              EDL  8.537920   2  77669072     0.50 0.20300650        NA
+128              EDL  8.537920   2  77669072     0.75 0.53514338        NA
+129              EDL  8.537920   2  77669072     0.90 0.97116099  77619327
+130              EDL  8.537920   2  77669072     0.95 1.28550329  77556846
+131           soleus 19.851608  13 113404971     0.25 0.06271590        NA
+132           soleus 19.851608  13 113404971     0.50 0.22533848        NA
+133           soleus 19.851608  13 113404971     0.75 0.52879511        NA
+134           soleus 19.851608  13 113404971     0.90 0.95791182        NA
+135           soleus 19.851608  13 113404971     0.95 1.29142737        NA
+136           soleus 19.204595  13 114802392     0.25 0.07131413        NA
+137           soleus 19.204595  13 114802392     0.50 0.23222196        NA
+138           soleus 19.204595  13 114802392     0.75 0.53248457        NA
+139           soleus 19.204595  13 114802392     0.90 0.95943670 113395597
+140           soleus 19.204595  13 114802392     0.95 1.26472492 113392014
+141               TA  8.156023  12  83514944     0.25 0.05059519        NA
+142               TA  8.156023  12  83514944     0.50 0.18985406        NA
+143               TA  8.156023  12  83514944     0.75 0.42432660  83885241
+144               TA  8.156023  12  83514944     0.90 0.75681935  83885241
+145               TA  8.156023  12  83514944     0.95 1.01968961  83885241
+146               TA 11.859071   2 155819633     0.25 0.06240194        NA
+147               TA 11.859071   2 155819633     0.50 0.23620744        NA
+148               TA 11.859071   2 155819633     0.75 0.55686241        NA
+149               TA 11.859071   2 155819633     0.90 0.96392897        NA
+150               TA 11.859071   2 155819633     0.95 1.29728002        NA
+151      tail.length  9.202939   8  80905518     0.25 0.03159149  80789091
+152      tail.length  9.202939   8  80905518     0.50 0.19718736  80789091
+153      tail.length  9.202939   8  80905518     0.75 0.49729286  80361274
+154      tail.length  9.202939   8  80905518     0.90 0.92421093  80290391
+155      tail.length  9.202939   8  80905518     0.95 1.22764987  79332071
+156      tail.length  8.323229   8  81878779     0.25 0.05418876  80290391
+157      tail.length  8.323229   8  81878779     0.50 0.23700957  79336900
+158      tail.length  8.323229   8  81878779     0.75 0.55581289  79332071
+159      tail.length  8.323229   8  81878779     0.90 0.99984694  79332071
+160      tail.length  8.323229   8  81878779     0.95 1.30615403  79332071
+161            tibia 10.188728  11  96952835     0.25 0.12877866        NA
+162            tibia 10.188728  11  96952835     0.50 0.34357936        NA
+163            tibia 10.188728  11  96952835     0.75 0.68571121        NA
+164            tibia 10.188728  11  96952835     0.90 1.11774117        NA
+165            tibia 10.188728  11  96952835     0.95 1.43855502        NA
+166            tibia 17.052713  12  83514944     0.25 0.03613456        NA
+167            tibia 17.052713  12  83514944     0.50 0.17563121        NA
+168            tibia 17.052713  12  83514944     0.75 0.41154662        NA
+169            tibia 17.052713  12  83514944     0.90 0.70758022        NA
+170            tibia 17.052713  12  83514944     0.95 0.94664833        NA
+171            tibia 11.398272  12  91175287     0.25 0.03939487        NA
+172            tibia 11.398272  12  91175287     0.50 0.16373179        NA
+173            tibia 11.398272  12  91175287     0.75 0.37510276        NA
+174            tibia 11.398272  12  91175287     0.90 0.66390015  91720985
+175            tibia 11.398272  12  91175287     0.95 0.90614188  91720985
+176            tibia 12.582629  12  91722613     0.25 0.03218465        NA
+177            tibia 12.582629  12  91722613     0.50 0.15870774        NA
+178            tibia 12.582629  12  91722613     0.75 0.36028616        NA
+179            tibia 12.582629  12  91722613     0.90 0.63563206        NA
+180            tibia 12.582629  12  91722613     0.95 0.84430334        NA
+181            tibia 14.403757  15  11500538     0.25 0.03762439        NA
+182            tibia 14.403757  15  11500538     0.50 0.17851829        NA
+183            tibia 14.403757  15  11500538     0.75 0.42315249        NA
+184            tibia 14.403757  15  11500538     0.90 0.76591135        NA
+185            tibia 14.403757  15  11500538     0.95 1.01967956        NA
+186            tibia 10.064433  15  12517342     0.25 0.04083137  11372257
+187            tibia 10.064433  15  12517342     0.50 0.18208106  11372257
+188            tibia 10.064433  15  12517342     0.75 0.42975174  11372257
+189            tibia 10.064433  15  12517342     0.90 0.76712635  11372257
+190            tibia 10.064433  15  12517342     0.95 1.03518940  11372257
+191            tibia 18.941899   6 147027848     0.25 0.04617024        NA
+192            tibia 18.941899   6 147027848     0.50 0.21195462        NA
+193            tibia 18.941899   6 147027848     0.75 0.49045534        NA
+194            tibia 18.941899   6 147027848     0.90 0.84924277        NA
+195            tibia 18.941899   6 147027848     0.95 1.15041418        NA
+196            tibia 15.013168   6 147721449     0.25 0.06470453 147025758
+197            tibia 15.013168   6 147721449     0.50 0.23124860 147025758
+198            tibia 15.013168   6 147721449     0.75 0.50198507 147025758
+199            tibia 15.013168   6 147721449     0.90 0.85871796 146989226
+200            tibia 15.013168   6 147721449     0.95 1.14770223 146892078
+201            tibia 12.890784   6 148328439     0.25 0.06681363 146892078
+202            tibia 12.890784   6 148328439     0.50 0.21772064 146892078
+203            tibia 12.890784   6 148328439     0.75 0.47178309 146888653
+204            tibia 12.890784   6 148328439     0.90 0.81660133 146884250
+205            tibia 12.890784   6 148328439     0.95 1.10606277 146800370
+206            tibia 10.424600   9  81411377     0.25 0.17937605  83092219
+207            tibia 10.424600   9  81411377     0.50 0.48821361  81411377
+208            tibia 10.424600   9  81411377     0.75 0.90569014  81411377
+209            tibia 10.424600   9  81411377     0.90 1.38801426  81041557
+210            tibia 10.424600   9  81411377     0.95 1.70685891  80796612
+211            tibia 10.784877   9  83150389     0.25 0.19384699  83144291
+212            tibia 10.784877   9  83150389     0.50 0.51502068  83092219
+213            tibia 10.784877   9  83150389     0.75 0.94095593  81411377
+214            tibia 10.784877   9  83150389     0.90 1.40773417  81044089
+215            tibia 10.784877   9  83150389     0.95 1.74200715  81041557
+216            tibia  9.172346   9  85054834     0.25 0.18006818  81041557
+217            tibia  9.172346   9  85054834     0.50 0.49131863  80796612
+218            tibia  9.172346   9  85054834     0.75 0.91333082  80459197
+219            tibia  9.172346   9  85054834     0.90 1.39223168  80458429
+220            tibia  9.172346   9  85054834     0.95 1.72053724  80456310
+221           weight 10.645807  17  34013000     0.25 0.10587397        NA
+222           weight 10.645807  17  34013000     0.50 0.34558184        NA
+223           weight 10.645807  17  34013000     0.75 0.72297139        NA
+224           weight 10.645807  17  34013000     0.90 1.16938772        NA
+225           weight 10.645807  17  34013000     0.95 1.52406925  34056290
+226 weight.bmi.tibia 10.741312  17  34013675     0.25 0.11203212        NA
+227 weight.bmi.tibia 10.741312  17  34013675     0.50 0.36677556        NA
+228 weight.bmi.tibia 10.741312  17  34013675     0.75 0.74592477        NA
+229 weight.bmi.tibia 10.741312  17  34013675     0.90 1.21919983        NA
+230 weight.bmi.tibia 10.741312  17  34013675     0.95 1.57165173        NA
+        to.bp width.bp n.snps fine.bp fine.logP fine.from.bp fine.to.bp
+1          NA       NA     NA      NA        NA           NA         NA
+2     8209788    70142     30      NA        NA           NA         NA
+3     8209788   274127    338      NA        NA           NA         NA
+4     8211378  1109855   1151      NA        NA           NA         NA
+5     8211378  1109855   4646      NA        NA           NA         NA
+6          NA       NA     NA      NA        NA           NA         NA
+7          NA       NA     NA      NA        NA           NA         NA
+8          NA       NA     NA      NA        NA           NA         NA
+9          NA       NA     NA      NA        NA           NA         NA
+10    8153523     3837     14      NA        NA           NA         NA
+11    8209788    70142    119      NA        NA           NA         NA
+12    8209788    70142    189      NA        NA           NA         NA
+13    8209788   744541    341      NA        NA           NA         NA
+14    8211378  1109855   1476      NA        NA           NA         NA
+15    8211378  1163962   4179      NA        NA           NA         NA
+16         NA       NA     NA      NA        NA           NA         NA
+17         NA       NA     NA      NA        NA           NA         NA
+18         NA       NA     NA      NA        NA           NA         NA
+19    8209788    70142    189      NA        NA           NA         NA
+20    8209788   717273    239      NA        NA           NA         NA
+21    8211378    71732    730      NA        NA           NA         NA
+22    8211378    71732    730      NA        NA           NA         NA
+23    8211378   744396   1171      NA        NA           NA         NA
+24    8416982  1369566   3484      NA        NA           NA         NA
+25    8833396  1785980   6700      NA        NA           NA         NA
+26         NA       NA     NA      NA        NA           NA         NA
+27         NA       NA     NA      NA        NA           NA         NA
+28         NA       NA     NA      NA        NA           NA         NA
+29    8209788    65371      5      NA        NA           NA         NA
+30    8209788    70142    190      NA        NA           NA         NA
+31    8211378    71732    730      NA        NA           NA         NA
+32    8211378    71732    730      NA        NA           NA         NA
+33    8211378  1163962   1567      NA        NA           NA         NA
+34    8800578  1753162   4678      NA        NA           NA         NA
+35    8833396  1785980   8182      NA        NA           NA         NA
+36    8211378    71732    535      NA        NA           NA         NA
+37    8211378    71732    730      NA        NA           NA         NA
+38    8211378   364314    832      NA        NA           NA         NA
+39    8211378  1163962   1682      NA        NA           NA         NA
+40    8211378  1163962   4158      NA        NA           NA         NA
+41         NA       NA     NA      NA        NA           NA         NA
+42         NA       NA     NA      NA        NA           NA         NA
+43         NA       NA     NA      NA        NA           NA         NA
+44         NA       NA     NA      NA        NA           NA         NA
+45    8209788    68403     22      NA        NA           NA         NA
+46    8211378    71732    730      NA        NA           NA         NA
+47    8211378   351895    799      NA        NA           NA         NA
+48    8211378  1163962   1404      NA        NA           NA         NA
+49    8211378  1163962   4382      NA        NA           NA         NA
+50    8833396  1785980   6262      NA        NA           NA         NA
+51    8209788    70142    189      NA        NA           NA         NA
+52    8209788    70142    195      NA        NA           NA         NA
+53    8211378   747579    634      NA        NA           NA         NA
+54    8211378  1109855   3906      NA        NA           NA         NA
+55    8211378  1163962   4452      NA        NA           NA         NA
+56         NA       NA     NA      NA        NA           NA         NA
+57         NA       NA     NA      NA        NA           NA         NA
+58    8209788    70142    106      NA        NA           NA         NA
+59    8209788    70142    195      NA        NA           NA         NA
+60    8211378   747579    666      NA        NA           NA         NA
+61   97100561  1946443   8548      NA        NA           NA         NA
+62   97100561  1946443   8558      NA        NA           NA         NA
+63   97100561  2097473   8692      NA        NA           NA         NA
+64   97100561  2097520   8855      NA        NA           NA         NA
+65   97100561  2328540   9270      NA        NA           NA         NA
+66         NA       NA     NA      NA        NA           NA         NA
+67         NA       NA     NA      NA        NA           NA         NA
+68         NA       NA     NA      NA        NA           NA         NA
+69         NA       NA     NA      NA        NA           NA         NA
+70         NA       NA     NA      NA        NA           NA         NA
+71         NA       NA     NA      NA        NA           NA         NA
+72         NA       NA     NA      NA        NA           NA         NA
+73         NA       NA     NA      NA        NA           NA         NA
+74         NA       NA     NA      NA        NA           NA         NA
+75         NA       NA     NA      NA        NA           NA         NA
+76   24923358   903053   1534      NA        NA           NA         NA
+77   24923358   903053   1758      NA        NA           NA         NA
+78   24923358   903053   1822      NA        NA           NA         NA
+79   24923358   903053   1844      NA        NA           NA         NA
+80   24923358  3202051   1887      NA        NA           NA         NA
+81         NA       NA     NA      NA        NA           NA         NA
+82         NA       NA     NA      NA        NA           NA         NA
+83         NA       NA     NA      NA        NA           NA         NA
+84         NA       NA     NA      NA        NA           NA         NA
+85         NA       NA     NA      NA        NA           NA         NA
+86         NA       NA     NA      NA        NA           NA         NA
+87         NA       NA     NA      NA        NA           NA         NA
+88         NA       NA     NA      NA        NA           NA         NA
+89   24923358   553907    604      NA        NA           NA         NA
+90   24923358   903053   1456      NA        NA           NA         NA
+91   97100561  2354337   9762      NA        NA           NA         NA
+92   97100561  2363379   9857      NA        NA           NA         NA
+93   97100561  2363379   9876      NA        NA           NA         NA
+94   97100561  2363379   9918      NA        NA           NA         NA
+95   97100561  2363379   9973      NA        NA           NA         NA
+96   97100102  1343904   1763      NA        NA           NA         NA
+97   97100561  1566700   2238      NA        NA           NA         NA
+98   97100561  1675354   3279      NA        NA           NA         NA
+99   97100561  1676484   4489      NA        NA           NA         NA
+100  97100561  1865673   5694      NA        NA           NA         NA
+101  96913720     1483      2      NA        NA           NA         NA
+102  96927969    15732     37      NA        NA           NA         NA
+103  97021675   215571    272      NA        NA           NA         NA
+104  97024457   887509    627      NA        NA           NA         NA
+105  97044322   920133   1017      NA        NA           NA         NA
+106        NA       NA     NA      NA        NA           NA         NA
+107        NA       NA     NA      NA        NA           NA         NA
+108        NA       NA     NA      NA        NA           NA         NA
+109        NA       NA     NA      NA        NA           NA         NA
+110  96245935   821858    431      NA        NA           NA         NA
+111        NA       NA     NA      NA        NA           NA         NA
+112        NA       NA     NA      NA        NA           NA         NA
+113        NA       NA     NA      NA        NA           NA         NA
+114  96245935   821858    879      NA        NA           NA         NA
+115  97019113  1595036   2506      NA        NA           NA         NA
+116        NA       NA     NA      NA        NA           NA         NA
+117        NA       NA     NA      NA        NA           NA         NA
+118  83885241        1      1      NA        NA           NA         NA
+119  83885241        1      1      NA        NA           NA         NA
+120  83885241        1      1      NA        NA           NA         NA
+121        NA       NA     NA      NA        NA           NA         NA
+122        NA       NA     NA      NA        NA           NA         NA
+123        NA       NA     NA      NA        NA           NA         NA
+124        NA       NA     NA      NA        NA           NA         NA
+125 155857398    57117      4      NA        NA           NA         NA
+126        NA       NA     NA      NA        NA           NA         NA
+127        NA       NA     NA      NA        NA           NA         NA
+128        NA       NA     NA      NA        NA           NA         NA
+129  77669072    49746      4      NA        NA           NA         NA
+130  77669314   112469     15      NA        NA           NA         NA
+131        NA       NA     NA      NA        NA           NA         NA
+132        NA       NA     NA      NA        NA           NA         NA
+133        NA       NA     NA      NA        NA           NA         NA
+134        NA       NA     NA      NA        NA           NA         NA
+135        NA       NA     NA      NA        NA           NA         NA
+136        NA       NA     NA      NA        NA           NA         NA
+137        NA       NA     NA      NA        NA           NA         NA
+138        NA       NA     NA      NA        NA           NA         NA
+139 113416127    20531     85      NA        NA           NA         NA
+140 113435947    43934    276      NA        NA           NA         NA
+141        NA       NA     NA      NA        NA           NA         NA
+142        NA       NA     NA      NA        NA           NA         NA
+143  83885241        1      1      NA        NA           NA         NA
+144  83885241        1      1      NA        NA           NA         NA
+145  83885241        1      1      NA        NA           NA         NA
+146        NA       NA     NA      NA        NA           NA         NA
+147        NA       NA     NA      NA        NA           NA         NA
+148        NA       NA     NA      NA        NA           NA         NA
+149        NA       NA     NA      NA        NA           NA         NA
+150        NA       NA     NA      NA        NA           NA         NA
+151  80793986     4896      3      NA        NA           NA         NA
+152  80905518   116428      4      NA        NA           NA         NA
+153  80905518   544245    139      NA        NA           NA         NA
+154  81977086  1686696    167      NA        NA           NA         NA
+155  81986058  2653988    456      NA        NA           NA         NA
+156  81977086  1686696    171      NA        NA           NA         NA
+157  81986058  2649159    280      NA        NA           NA         NA
+158  82041271  2709201    682      NA        NA           NA         NA
+159  82072241  2740171   1406      NA        NA           NA         NA
+160  82072241  2740171   1435      NA        NA           NA         NA
+161        NA       NA     NA      NA        NA           NA         NA
+162        NA       NA     NA      NA        NA           NA         NA
+163        NA       NA     NA      NA        NA           NA         NA
+164        NA       NA     NA      NA        NA           NA         NA
+165        NA       NA     NA      NA        NA           NA         NA
+166        NA       NA     NA      NA        NA           NA         NA
+167        NA       NA     NA      NA        NA           NA         NA
+168        NA       NA     NA      NA        NA           NA         NA
+169        NA       NA     NA      NA        NA           NA         NA
+170        NA       NA     NA      NA        NA           NA         NA
+171        NA       NA     NA      NA        NA           NA         NA
+172        NA       NA     NA      NA        NA           NA         NA
+173        NA       NA     NA      NA        NA           NA         NA
+174  91735575    14591     32      NA        NA           NA         NA
+175  91847530   126546    103      NA        NA           NA         NA
+176        NA       NA     NA      NA        NA           NA         NA
+177        NA       NA     NA      NA        NA           NA         NA
+178        NA       NA     NA      NA        NA           NA         NA
+179        NA       NA     NA      NA        NA           NA         NA
+180        NA       NA     NA      NA        NA           NA         NA
+181        NA       NA     NA      NA        NA           NA         NA
+182        NA       NA     NA      NA        NA           NA         NA
+183        NA       NA     NA      NA        NA           NA         NA
+184        NA       NA     NA      NA        NA           NA         NA
+185        NA       NA     NA      NA        NA           NA         NA
+186  12108816   736560   1625      NA        NA           NA         NA
+187  12110974   738718   1627      NA        NA           NA         NA
+188  12517351  1145095   1633      NA        NA           NA         NA
+189  12517351  1145095   1755      NA        NA           NA         NA
+190  12517351  1145095   1875      NA        NA           NA         NA
+191        NA       NA     NA      NA        NA           NA         NA
+192        NA       NA     NA      NA        NA           NA         NA
+193        NA       NA     NA      NA        NA           NA         NA
+194        NA       NA     NA      NA        NA           NA         NA
+195        NA       NA     NA      NA        NA           NA         NA
+196 147025758        1      1      NA        NA           NA         NA
+197 147025758        1      1      NA        NA           NA         NA
+198 147025758        1      1      NA        NA           NA         NA
+199 147044948    55723     69      NA        NA           NA         NA
+200 147045013   152936    168      NA        NA           NA         NA
+201 147045013   152936    171      NA        NA           NA         NA
+202 147350217   458140    177      NA        NA           NA         NA
+203 147370077   481425    490      NA        NA           NA         NA
+204 147781644   897395    579      NA        NA           NA         NA
+205 147819912  1019543    676      NA        NA           NA         NA
+206  83408713   316495   1090      NA        NA           NA         NA
+207  83408713  1997337   1095      NA        NA           NA         NA
+208  83436670  2025294   3117      NA        NA           NA         NA
+209  85054834  4013278   9265      NA        NA           NA         NA
+210  85054834  4258223  13140      NA        NA           NA         NA
+211  83408713   264423    578      NA        NA           NA         NA
+212  83408713   316495   1090      NA        NA           NA         NA
+213  83434324  2022948   1097      NA        NA           NA         NA
+214  83459733  2415645   5266      NA        NA           NA         NA
+215  85054834  4013278   9239      NA        NA           NA         NA
+216  85054834  4013278   9479      NA        NA           NA         NA
+217  85054834  4258223  13260      NA        NA           NA         NA
+218  85054834  4595638  15792      NA        NA           NA         NA
+219  85054834  4596406  18759      NA        NA           NA         NA
+220  85054834  4598525  19205      NA        NA           NA         NA
+221        NA       NA     NA      NA        NA           NA         NA
+222        NA       NA     NA      NA        NA           NA         NA
+223        NA       NA     NA      NA        NA           NA         NA
+224        NA       NA     NA      NA        NA           NA         NA
+225  34241675   185386     79      NA        NA           NA         NA
+226        NA       NA     NA      NA        NA           NA         NA
+227        NA       NA     NA      NA        NA           NA         NA
+228        NA       NA     NA      NA        NA           NA         NA
+229        NA       NA     NA      NA        NA           NA         NA
+230        NA       NA     NA      NA        NA           NA         NA
+    fine.width.bp fine.n.snps fine.CI.logP fine.CI.bp fine.CI.from.bp
+1              NA          NA           NA         NA              NA
+2              NA          NA           NA         NA              NA
+3              NA          NA           NA         NA              NA
+4              NA          NA           NA         NA              NA
+5              NA          NA           NA         NA              NA
+6              NA          NA           NA         NA              NA
+7              NA          NA           NA         NA              NA
+8              NA          NA           NA         NA              NA
+9              NA          NA           NA         NA              NA
+10             NA          NA           NA         NA              NA
+11             NA          NA           NA         NA              NA
+12             NA          NA           NA         NA              NA
+13             NA          NA           NA         NA              NA
+14             NA          NA           NA         NA              NA
+15             NA          NA           NA         NA              NA
+16             NA          NA           NA         NA              NA
+17             NA          NA           NA         NA              NA
+18             NA          NA           NA         NA              NA
+19             NA          NA           NA         NA              NA
+20             NA          NA           NA         NA              NA
+21             NA          NA           NA         NA              NA
+22             NA          NA           NA         NA              NA
+23             NA          NA           NA         NA              NA
+24             NA          NA           NA         NA              NA
+25             NA          NA           NA         NA              NA
+26             NA          NA           NA         NA              NA
+27             NA          NA           NA         NA              NA
+28             NA          NA           NA         NA              NA
+29             NA          NA           NA         NA              NA
+30             NA          NA           NA         NA              NA
+31             NA          NA           NA         NA              NA
+32             NA          NA           NA         NA              NA
+33             NA          NA           NA         NA              NA
+34             NA          NA           NA         NA              NA
+35             NA          NA           NA         NA              NA
+36             NA          NA           NA         NA              NA
+37             NA          NA           NA         NA              NA
+38             NA          NA           NA         NA              NA
+39             NA          NA           NA         NA              NA
+40             NA          NA           NA         NA              NA
+41             NA          NA           NA         NA              NA
+42             NA          NA           NA         NA              NA
+43             NA          NA           NA         NA              NA
+44             NA          NA           NA         NA              NA
+45             NA          NA           NA         NA              NA
+46             NA          NA           NA         NA              NA
+47             NA          NA           NA         NA              NA
+48             NA          NA           NA         NA              NA
+49             NA          NA           NA         NA              NA
+50             NA          NA           NA         NA              NA
+51             NA          NA           NA         NA              NA
+52             NA          NA           NA         NA              NA
+53             NA          NA           NA         NA              NA
+54             NA          NA           NA         NA              NA
+55             NA          NA           NA         NA              NA
+56             NA          NA           NA         NA              NA
+57             NA          NA           NA         NA              NA
+58             NA          NA           NA         NA              NA
+59             NA          NA           NA         NA              NA
+60             NA          NA           NA         NA              NA
+61             NA          NA           NA         NA              NA
+62             NA          NA           NA         NA              NA
+63             NA          NA           NA         NA              NA
+64             NA          NA           NA         NA              NA
+65             NA          NA           NA         NA              NA
+66             NA          NA           NA         NA              NA
+67             NA          NA           NA         NA              NA
+68             NA          NA           NA         NA              NA
+69             NA          NA           NA         NA              NA
+70             NA          NA           NA         NA              NA
+71             NA          NA           NA         NA              NA
+72             NA          NA           NA         NA              NA
+73             NA          NA           NA         NA              NA
+74             NA          NA           NA         NA              NA
+75             NA          NA           NA         NA              NA
+76             NA          NA           NA         NA              NA
+77             NA          NA           NA         NA              NA
+78             NA          NA           NA         NA              NA
+79             NA          NA           NA         NA              NA
+80             NA          NA           NA         NA              NA
+81             NA          NA           NA         NA              NA
+82             NA          NA           NA         NA              NA
+83             NA          NA           NA         NA              NA
+84             NA          NA           NA         NA              NA
+85             NA          NA           NA         NA              NA
+86             NA          NA           NA         NA              NA
+87             NA          NA           NA         NA              NA
+88             NA          NA           NA         NA              NA
+89             NA          NA           NA         NA              NA
+90             NA          NA           NA         NA              NA
+91             NA          NA           NA         NA              NA
+92             NA          NA           NA         NA              NA
+93             NA          NA           NA         NA              NA
+94             NA          NA           NA         NA              NA
+95             NA          NA           NA         NA              NA
+96             NA          NA           NA         NA              NA
+97             NA          NA           NA         NA              NA
+98             NA          NA           NA         NA              NA
+99             NA          NA           NA         NA              NA
+100            NA          NA           NA         NA              NA
+101            NA          NA           NA         NA              NA
+102            NA          NA           NA         NA              NA
+103            NA          NA           NA         NA              NA
+104            NA          NA           NA         NA              NA
+105            NA          NA           NA         NA              NA
+106            NA          NA           NA         NA              NA
+107            NA          NA           NA         NA              NA
+108            NA          NA           NA         NA              NA
+109            NA          NA           NA         NA              NA
+110            NA          NA           NA         NA              NA
+111            NA          NA           NA         NA              NA
+112            NA          NA           NA         NA              NA
+113            NA          NA           NA         NA              NA
+114            NA          NA           NA         NA              NA
+115            NA          NA           NA         NA              NA
+116            NA          NA           NA         NA              NA
+117            NA          NA           NA         NA              NA
+118            NA          NA           NA         NA              NA
+119            NA          NA           NA         NA              NA
+120            NA          NA           NA         NA              NA
+121            NA          NA           NA         NA              NA
+122            NA          NA           NA         NA              NA
+123            NA          NA           NA         NA              NA
+124            NA          NA           NA         NA              NA
+125            NA          NA           NA         NA              NA
+126            NA          NA           NA         NA              NA
+127            NA          NA           NA         NA              NA
+128            NA          NA           NA         NA              NA
+129            NA          NA           NA         NA              NA
+130            NA          NA           NA         NA              NA
+131            NA          NA           NA         NA              NA
+132            NA          NA           NA         NA              NA
+133            NA          NA           NA         NA              NA
+134            NA          NA           NA         NA              NA
+135            NA          NA           NA         NA              NA
+136            NA          NA           NA         NA              NA
+137            NA          NA           NA         NA              NA
+138            NA          NA           NA         NA              NA
+139            NA          NA           NA         NA              NA
+140            NA          NA           NA         NA              NA
+141            NA          NA           NA         NA              NA
+142            NA          NA           NA         NA              NA
+143            NA          NA           NA         NA              NA
+144            NA          NA           NA         NA              NA
+145            NA          NA           NA         NA              NA
+146            NA          NA           NA         NA              NA
+147            NA          NA           NA         NA              NA
+148            NA          NA           NA         NA              NA
+149            NA          NA           NA         NA              NA
+150            NA          NA           NA         NA              NA
+151            NA          NA           NA         NA              NA
+152            NA          NA           NA         NA              NA
+153            NA          NA           NA         NA              NA
+154            NA          NA           NA         NA              NA
+155            NA          NA           NA         NA              NA
+156            NA          NA           NA         NA              NA
+157            NA          NA           NA         NA              NA
+158            NA          NA           NA         NA              NA
+159            NA          NA           NA         NA              NA
+160            NA          NA           NA         NA              NA
+161            NA          NA           NA         NA              NA
+162            NA          NA           NA         NA              NA
+163            NA          NA           NA         NA              NA
+164            NA          NA           NA         NA              NA
+165            NA          NA           NA         NA              NA
+166            NA          NA           NA         NA              NA
+167            NA          NA           NA         NA              NA
+168            NA          NA           NA         NA              NA
+169            NA          NA           NA         NA              NA
+170            NA          NA           NA         NA              NA
+171            NA          NA           NA         NA              NA
+172            NA          NA           NA         NA              NA
+173            NA          NA           NA         NA              NA
+174            NA          NA           NA         NA              NA
+175            NA          NA           NA         NA              NA
+176            NA          NA           NA         NA              NA
+177            NA          NA           NA         NA              NA
+178            NA          NA           NA         NA              NA
+179            NA          NA           NA         NA              NA
+180            NA          NA           NA         NA              NA
+181            NA          NA           NA         NA              NA
+182            NA          NA           NA         NA              NA
+183            NA          NA           NA         NA              NA
+184            NA          NA           NA         NA              NA
+185            NA          NA           NA         NA              NA
+186            NA          NA           NA         NA              NA
+187            NA          NA           NA         NA              NA
+188            NA          NA           NA         NA              NA
+189            NA          NA           NA         NA              NA
+190            NA          NA           NA         NA              NA
+191            NA          NA           NA         NA              NA
+192            NA          NA           NA         NA              NA
+193            NA          NA           NA         NA              NA
+194            NA          NA           NA         NA              NA
+195            NA          NA           NA         NA              NA
+196            NA          NA           NA         NA              NA
+197            NA          NA           NA         NA              NA
+198            NA          NA           NA         NA              NA
+199            NA          NA           NA         NA              NA
+200            NA          NA           NA         NA              NA
+201            NA          NA           NA         NA              NA
+202            NA          NA           NA         NA              NA
+203            NA          NA           NA         NA              NA
+204            NA          NA           NA         NA              NA
+205            NA          NA           NA         NA              NA
+206            NA          NA           NA         NA              NA
+207            NA          NA           NA         NA              NA
+208            NA          NA           NA         NA              NA
+209            NA          NA           NA         NA              NA
+210            NA          NA           NA         NA              NA
+211            NA          NA           NA         NA              NA
+212            NA          NA           NA         NA              NA
+213            NA          NA           NA         NA              NA
+214            NA          NA           NA         NA              NA
+215            NA          NA           NA         NA              NA
+216            NA          NA           NA         NA              NA
+217            NA          NA           NA         NA              NA
+218            NA          NA           NA         NA              NA
+219            NA          NA           NA         NA              NA
+220            NA          NA           NA         NA              NA
+221            NA          NA           NA         NA              NA
+222            NA          NA           NA         NA              NA
+223            NA          NA           NA         NA              NA
+224            NA          NA           NA         NA              NA
+225            NA          NA           NA         NA              NA
+226            NA          NA           NA         NA              NA
+227            NA          NA           NA         NA              NA
+228            NA          NA           NA         NA              NA
+229            NA          NA           NA         NA              NA
+230            NA          NA           NA         NA              NA
+    fine.CI.to.bp
+1              NA
+2              NA
+3              NA
+4              NA
+5              NA
+6              NA
+7              NA
+8              NA
+9              NA
+10             NA
+11             NA
+12             NA
+13             NA
+14             NA
+15             NA
+16             NA
+17             NA
+18             NA
+19             NA
+20             NA
+21             NA
+22             NA
+23             NA
+24             NA
+25             NA
+26             NA
+27             NA
+28             NA
+29             NA
+30             NA
+31             NA
+32             NA
+33             NA
+34             NA
+35             NA
+36             NA
+37             NA
+38             NA
+39             NA
+40             NA
+41             NA
+42             NA
+43             NA
+44             NA
+45             NA
+46             NA
+47             NA
+48             NA
+49             NA
+50             NA
+51             NA
+52             NA
+53             NA
+54             NA
+55             NA
+56             NA
+57             NA
+58             NA
+59             NA
+60             NA
+61             NA
+62             NA
+63             NA
+64             NA
+65             NA
+66             NA
+67             NA
+68             NA
+69             NA
+70             NA
+71             NA
+72             NA
+73             NA
+74             NA
+75             NA
+76             NA
+77             NA
+78             NA
+79             NA
+80             NA
+81             NA
+82             NA
+83             NA
+84             NA
+85             NA
+86             NA
+87             NA
+88             NA
+89             NA
+90             NA
+91             NA
+92             NA
+93             NA
+94             NA
+95             NA
+96             NA
+97             NA
+98             NA
+99             NA
+100            NA
+101            NA
+102            NA
+103            NA
+104            NA
+105            NA
+106            NA
+107            NA
+108            NA
+109            NA
+110            NA
+111            NA
+112            NA
+113            NA
+114            NA
+115            NA
+116            NA
+117            NA
+118            NA
+119            NA
+120            NA
+121            NA
+122            NA
+123            NA
+124            NA
+125            NA
+126            NA
+127            NA
+128            NA
+129            NA
+130            NA
+131            NA
+132            NA
+133            NA
+134            NA
+135            NA
+136            NA
+137            NA
+138            NA
+139            NA
+140            NA
+141            NA
+142            NA
+143            NA
+144            NA
+145            NA
+146            NA
+147            NA
+148            NA
+149            NA
+150            NA
+151            NA
+152            NA
+153            NA
+154            NA
+155            NA
+156            NA
+157            NA
+158            NA
+159            NA
+160            NA
+161            NA
+162            NA
+163            NA
+164            NA
+165            NA
+166            NA
+167            NA
+168            NA
+169            NA
+170            NA
+171            NA
+172            NA
+173            NA
+174            NA
+175            NA
+176            NA
+177            NA
+178            NA
+179            NA
+180            NA
+181            NA
+182            NA
+183            NA
+184            NA
+185            NA
+186            NA
+187            NA
+188            NA
+189            NA
+190            NA
+191            NA
+192            NA
+193            NA
+194            NA
+195            NA
+196            NA
+197            NA
+198            NA
+199            NA
+200            NA
+201            NA
+202            NA
+203            NA
+204            NA
+205            NA
+206            NA
+207            NA
+208            NA
+209            NA
+210            NA
+211            NA
+212            NA
+213            NA
+214            NA
+215            NA
+216            NA
+217            NA
+218            NA
+219            NA
+220            NA
+221            NA
+222            NA
+223            NA
+224            NA
+225            NA
+226            NA
+227            NA
+228            NA
+229            NA
+230            NA

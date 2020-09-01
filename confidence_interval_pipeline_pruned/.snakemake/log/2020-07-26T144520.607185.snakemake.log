@@ -1,0 +1,575 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cluster nodes: 100
+Job counts:
+	count	jobs
+	1	all
+	45	locus_zoom_input
+	46
+
+[Sun Jul 26 14:45:23 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/activity30.13.8139647_r2.txt
+    jobid: 115
+    wildcards: q=activity30.13.8139647
+
+Submitted job 115 with external jobid 'Your job 3866186 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:24 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.12.91722613_r2.txt
+    jobid: 136
+    wildcards: q=tibia.12.91722613
+
+Submitted job 136 with external jobid 'Your job 3866187 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:25 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/activity.middle.13.7101524_r2.txt
+    jobid: 109
+    wildcards: q=activity.middle.13.7101524
+
+Submitted job 109 with external jobid 'Your job 3866188 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:26 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/activity.middle.13.8800578_r2.txt
+    jobid: 111
+    wildcards: q=activity.middle.13.8800578
+
+Submitted job 111 with external jobid 'Your job 3866189 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:27 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/bmd.5.21721308_r2.txt
+    jobid: 124
+    wildcards: q=bmd.5.21721308
+
+Submitted job 124 with external jobid 'Your job 3866191 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:28 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/activity.total.13.8144012_r2.txt
+    jobid: 113
+    wildcards: q=activity.total.13.8144012
+
+Submitted job 113 with external jobid 'Your job 3866192 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:29 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/activity.end.13.7101524_r2.txt
+    jobid: 107
+    wildcards: q=activity.end.13.7101524
+
+Submitted job 107 with external jobid 'Your job 3866193 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:30 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/bmd.11.96912238_r2.txt
+    jobid: 123
+    wildcards: q=bmd.11.96912238
+
+Submitted job 123 with external jobid 'Your job 3866194 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:31 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/activity.total.13.8800578_r2.txt
+    jobid: 114
+    wildcards: q=activity.total.13.8800578
+
+Submitted job 114 with external jobid 'Your job 3866195 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:32 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/activity.begin.13.8153523_r2.txt
+    jobid: 106
+    wildcards: q=activity.begin.13.8153523
+
+Submitted job 106 with external jobid 'Your job 3866196 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:33 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.6.147721449_r2.txt
+    jobid: 140
+    wildcards: q=tibia.6.147721449
+
+Submitted job 140 with external jobid 'Your job 3866197 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:34 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/activity.middle.13.8209788_r2.txt
+    jobid: 110
+    wildcards: q=activity.middle.13.8209788
+
+Submitted job 110 with external jobid 'Your job 3866198 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:35 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/bmd.5.24922475_r2.txt
+    jobid: 126
+    wildcards: q=bmd.5.24922475
+
+Submitted job 126 with external jobid 'Your job 3866199 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:36 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/basal.activity.13.7101524_r2.txt
+    jobid: 116
+    wildcards: q=basal.activity.13.7101524
+
+Submitted job 116 with external jobid 'Your job 3866200 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:37 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.11.96952835_r2.txt
+    jobid: 133
+    wildcards: q=tibia.11.96952835
+
+Submitted job 133 with external jobid 'Your job 3866202 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:38 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/activity.total.13.7101524_r2.txt
+    jobid: 112
+    wildcards: q=activity.total.13.7101524
+
+Submitted job 112 with external jobid 'Your job 3866203 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:39 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.12.91175287_r2.txt
+    jobid: 135
+    wildcards: q=tibia.12.91175287
+
+Submitted job 135 with external jobid 'Your job 3866204 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:40 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.9.83150389_r2.txt
+    jobid: 143
+    wildcards: q=tibia.9.83150389
+
+Submitted job 143 with external jobid 'Your job 3866205 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:41 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.6.148328439_r2.txt
+    jobid: 141
+    wildcards: q=tibia.6.148328439
+
+Submitted job 141 with external jobid 'Your job 3866206 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:42 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/bmd.11.95761488_r2.txt
+    jobid: 122
+    wildcards: q=bmd.11.95761488
+
+Submitted job 122 with external jobid 'Your job 3866207 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:43 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.12.83514944_r2.txt
+    jobid: 134
+    wildcards: q=tibia.12.83514944
+
+Submitted job 134 with external jobid 'Your job 3866208 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:44 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/bmd.5.23814155_r2.txt
+    jobid: 125
+    wildcards: q=bmd.5.23814155
+
+Submitted job 125 with external jobid 'Your job 3866209 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:45 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.9.81411377_r2.txt
+    jobid: 142
+    wildcards: q=tibia.9.81411377
+
+Submitted job 142 with external jobid 'Your job 3866210 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:46 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/weight.17.34013000_r2.txt
+    jobid: 146
+    wildcards: q=weight.17.34013000
+
+Submitted job 146 with external jobid 'Your job 3866211 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:47 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/bmd.a.11.94758993_r2.txt
+    jobid: 118
+    wildcards: q=bmd.a.11.94758993
+
+Submitted job 118 with external jobid 'Your job 3866212 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:48 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/bmd.n.11.95582360_r2.txt
+    jobid: 127
+    wildcards: q=bmd.n.11.95582360
+
+Submitted job 127 with external jobid 'Your job 3866213 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:49 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tail.length.8.80905518_r2.txt
+    jobid: 131
+    wildcards: q=tail.length.8.80905518
+
+Submitted job 131 with external jobid 'Your job 3866214 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:50 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.6.147027848_r2.txt
+    jobid: 139
+    wildcards: q=tibia.6.147027848
+
+Submitted job 139 with external jobid 'Your job 3866215 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:51 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/bmd.a.11.96913720_r2.txt
+    jobid: 120
+    wildcards: q=bmd.a.11.96913720
+
+Submitted job 120 with external jobid 'Your job 3866216 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:52 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.15.11500538_r2.txt
+    jobid: 137
+    wildcards: q=tibia.15.11500538
+
+Submitted job 137 with external jobid 'Your job 3866217 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:53 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/TA.2.155819633_r2.txt
+    jobid: 105
+    wildcards: q=TA.2.155819633
+
+Submitted job 105 with external jobid 'Your job 3866218 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:54 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/EDL.2.77669072_r2.txt
+    jobid: 103
+    wildcards: q=EDL.2.77669072
+
+Submitted job 103 with external jobid 'Your job 3866219 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:55 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/EDL.2.155780222_r2.txt
+    jobid: 102
+    wildcards: q=EDL.2.155780222
+
+Submitted job 102 with external jobid 'Your job 3866220 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:56 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/basal.activity.13.8209788_r2.txt
+    jobid: 117
+    wildcards: q=basal.activity.13.8209788
+
+Submitted job 117 with external jobid 'Your job 3866221 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:57 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/bmd.11.94772022_r2.txt
+    jobid: 121
+    wildcards: q=bmd.11.94772022
+
+Submitted job 121 with external jobid 'Your job 3866222 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:58 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/bmd.n.11.96918212_r2.txt
+    jobid: 128
+    wildcards: q=bmd.n.11.96918212
+
+Submitted job 128 with external jobid 'Your job 3866223 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:45:59 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/bmd.a.11.95761488_r2.txt
+    jobid: 119
+    wildcards: q=bmd.a.11.95761488
+
+Submitted job 119 with external jobid 'Your job 3866224 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:46:00 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/activity.end.13.8209788_r2.txt
+    jobid: 108
+    wildcards: q=activity.end.13.8209788
+
+Submitted job 108 with external jobid 'Your job 3866225 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:46:01 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/soleus.13.114802392_r2.txt
+    jobid: 130
+    wildcards: q=soleus.13.114802392
+
+Submitted job 130 with external jobid 'Your job 3866226 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:46:02 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/weight.bmi.tibia.17.34013675_r2.txt
+    jobid: 145
+    wildcards: q=weight.bmi.tibia.17.34013675
+
+Submitted job 145 with external jobid 'Your job 3866227 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:46:03 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.15.12517342_r2.txt
+    jobid: 138
+    wildcards: q=tibia.15.12517342
+
+Submitted job 138 with external jobid 'Your job 3866228 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:46:04 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.9.85054834_r2.txt
+    jobid: 144
+    wildcards: q=tibia.9.85054834
+
+Submitted job 144 with external jobid 'Your job 3866229 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:46:05 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/soleus.13.113404971_r2.txt
+    jobid: 129
+    wildcards: q=soleus.13.113404971
+
+Submitted job 129 with external jobid 'Your job 3866230 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:46:06 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/TA.12.83514944_r2.txt
+    jobid: 104
+    wildcards: q=TA.12.83514944
+
+Submitted job 104 with external jobid 'Your job 3866231 ("locus_zoom_input") has been submitted'.
+
+[Sun Jul 26 14:46:07 2020]
+rule locus_zoom_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tail.length.8.81878779_r2.txt
+    jobid: 132
+    wildcards: q=tail.length.8.81878779
+
+Submitted job 132 with external jobid 'Your job 3866232 ("locus_zoom_input") has been submitted'.
+[Sun Jul 26 14:47:05 2020]
+Error in rule locus_zoom_input:
+    jobid: 135
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.12.91175287_r2.txt
+    cluster_jobid: Your job 3866204 ("locus_zoom_input") has been submitted
+
+Error executing rule locus_zoom_input on cluster (jobid: 135, external: Your job 3866204 ("locus_zoom_input") has been submitted, jobscript: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/.snakemake/tmp.a2t3fc3d/snakejob.locus_zoom_input.135.sh). For error details see the cluster log and the log files of the involved rule(s).
+[Sun Jul 26 14:47:05 2020]
+Error in rule locus_zoom_input:
+    jobid: 146
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/weight.17.34013000_r2.txt
+    cluster_jobid: Your job 3866211 ("locus_zoom_input") has been submitted
+
+Error executing rule locus_zoom_input on cluster (jobid: 146, external: Your job 3866211 ("locus_zoom_input") has been submitted, jobscript: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/.snakemake/tmp.a2t3fc3d/snakejob.locus_zoom_input.146.sh). For error details see the cluster log and the log files of the involved rule(s).
+[Sun Jul 26 14:47:06 2020]
+Finished job 131.
+1 of 46 steps (2%) done
+[Sun Jul 26 14:47:17 2020]
+Error in rule locus_zoom_input:
+    jobid: 104
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/TA.12.83514944_r2.txt
+    cluster_jobid: Your job 3866231 ("locus_zoom_input") has been submitted
+
+Error executing rule locus_zoom_input on cluster (jobid: 104, external: Your job 3866231 ("locus_zoom_input") has been submitted, jobscript: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/.snakemake/tmp.a2t3fc3d/snakejob.locus_zoom_input.104.sh). For error details see the cluster log and the log files of the involved rule(s).
+[Sun Jul 26 14:47:17 2020]
+Finished job 136.
+2 of 46 steps (4%) done
+[Sun Jul 26 14:47:17 2020]
+Finished job 111.
+3 of 46 steps (7%) done
+[Sun Jul 26 14:47:17 2020]
+Finished job 124.
+4 of 46 steps (9%) done
+[Sun Jul 26 14:47:18 2020]
+Finished job 113.
+5 of 46 steps (11%) done
+[Sun Jul 26 14:47:18 2020]
+Finished job 106.
+6 of 46 steps (13%) done
+[Sun Jul 26 14:47:18 2020]
+Error in rule locus_zoom_input:
+    jobid: 140
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.6.147721449_r2.txt
+    cluster_jobid: Your job 3866197 ("locus_zoom_input") has been submitted
+
+Error executing rule locus_zoom_input on cluster (jobid: 140, external: Your job 3866197 ("locus_zoom_input") has been submitted, jobscript: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/.snakemake/tmp.a2t3fc3d/snakejob.locus_zoom_input.140.sh). For error details see the cluster log and the log files of the involved rule(s).
+[Sun Jul 26 14:47:18 2020]
+Finished job 110.
+7 of 46 steps (15%) done
+[Sun Jul 26 14:47:18 2020]
+Finished job 133.
+8 of 46 steps (17%) done
+[Sun Jul 26 14:47:31 2020]
+Finished job 132.
+9 of 46 steps (20%) done
+[Sun Jul 26 14:47:31 2020]
+Finished job 115.
+10 of 46 steps (22%) done
+[Sun Jul 26 14:47:31 2020]
+Finished job 114.
+11 of 46 steps (24%) done
+[Sun Jul 26 14:47:31 2020]
+Finished job 126.
+12 of 46 steps (26%) done
+[Sun Jul 26 14:47:32 2020]
+Error in rule locus_zoom_input:
+    jobid: 141
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/tibia.6.148328439_r2.txt
+    cluster_jobid: Your job 3866206 ("locus_zoom_input") has been submitted
+
+Error executing rule locus_zoom_input on cluster (jobid: 141, external: Your job 3866206 ("locus_zoom_input") has been submitted, jobscript: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/.snakemake/tmp.a2t3fc3d/snakejob.locus_zoom_input.141.sh). For error details see the cluster log and the log files of the involved rule(s).
+[Sun Jul 26 14:47:32 2020]
+Finished job 134.
+13 of 46 steps (28%) done
+[Sun Jul 26 14:47:32 2020]
+Finished job 118.
+14 of 46 steps (30%) done
+[Sun Jul 26 14:47:32 2020]
+Finished job 127.
+15 of 46 steps (33%) done
+[Sun Jul 26 14:47:34 2020]
+Finished job 138.
+16 of 46 steps (35%) done
+[Sun Jul 26 14:47:44 2020]
+Finished job 103.
+17 of 46 steps (37%) done
+[Sun Jul 26 14:47:44 2020]
+Finished job 107.
+18 of 46 steps (39%) done
+[Sun Jul 26 14:47:44 2020]
+Finished job 125.
+19 of 46 steps (41%) done
+[Sun Jul 26 14:47:45 2020]
+Finished job 142.
+20 of 46 steps (43%) done
+[Sun Jul 26 14:47:45 2020]
+Finished job 120.
+21 of 46 steps (46%) done
+[Sun Jul 26 14:47:56 2020]
+Finished job 116.
+22 of 46 steps (48%) done
+[Sun Jul 26 14:47:56 2020]
+Finished job 112.
+23 of 46 steps (50%) done
+[Sun Jul 26 14:47:57 2020]
+Finished job 137.
+24 of 46 steps (52%) done
+[Sun Jul 26 14:47:58 2020]
+Error in rule locus_zoom_input:
+    jobid: 130
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/locuszoom/soleus.13.114802392_r2.txt
+    cluster_jobid: Your job 3866226 ("locus_zoom_input") has been submitted
+
+Error executing rule locus_zoom_input on cluster (jobid: 130, external: Your job 3866226 ("locus_zoom_input") has been submitted, jobscript: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/.snakemake/tmp.a2t3fc3d/snakejob.locus_zoom_input.130.sh). For error details see the cluster log and the log files of the involved rule(s).
+[Sun Jul 26 14:48:08 2020]
+Finished job 109.
+25 of 46 steps (54%) done
+[Sun Jul 26 14:48:08 2020]
+Finished job 143.
+26 of 46 steps (57%) done
+[Sun Jul 26 14:48:08 2020]
+Finished job 102.
+27 of 46 steps (59%) done
+[Sun Jul 26 14:48:19 2020]
+Finished job 117.
+28 of 46 steps (61%) done
+[Sun Jul 26 14:48:20 2020]
+Finished job 108.
+29 of 46 steps (63%) done
+[Sun Jul 26 14:48:20 2020]
+Finished job 144.
+30 of 46 steps (65%) done
+[Sun Jul 26 14:48:30 2020]
+Finished job 139.
+31 of 46 steps (67%) done
+[Sun Jul 26 14:48:30 2020]
+Finished job 128.
+32 of 46 steps (70%) done
+[Sun Jul 26 14:48:40 2020]
+Finished job 123.
+33 of 46 steps (72%) done
+[Sun Jul 26 14:48:40 2020]
+Finished job 121.
+34 of 46 steps (74%) done
+[Sun Jul 26 14:48:40 2020]
+Finished job 119.
+35 of 46 steps (76%) done
+[Sun Jul 26 14:49:20 2020]
+Finished job 122.
+36 of 46 steps (78%) done
+[Sun Jul 26 14:49:20 2020]
+Finished job 145.
+37 of 46 steps (80%) done
+[Sun Jul 26 14:51:01 2020]
+Finished job 105.
+38 of 46 steps (83%) done
+[Sun Jul 26 14:52:41 2020]
+Finished job 129.
+39 of 46 steps (85%) done
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/.snakemake/log/2020-07-26T144520.607185.snakemake.log

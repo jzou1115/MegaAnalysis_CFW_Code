@@ -1,0 +1,19 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	annovar_input
+	1
+
+[Sat Aug 29 11:25:24 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/basal.activity.13.6154389_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/basal.activity.13.6154389_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/basal.activity.13.6154389_annovar_input.txt
+    jobid: 0
+    wildcards: q=basal.activity.13.6154389
+
+[Sat Aug 29 11:26:28 2020]
+Finished job 0.
+1 of 1 steps (100%) done

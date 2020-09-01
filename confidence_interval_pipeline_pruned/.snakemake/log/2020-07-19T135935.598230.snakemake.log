@@ -1,0 +1,17 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	susier_input
+	2
+
+[Sun Jul 19 13:59:37 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/EDL.12.83885241_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/EDL.12.83885241_pruned_sorted.ld
+    jobid: 101
+    wildcards: q=EDL.12.83885241
+

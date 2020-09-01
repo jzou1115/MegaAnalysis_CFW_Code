@@ -1,0 +1,30 @@
+[1] 35
+loading /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/chr12.oxinfo90.Rdata 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.12.91175287.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+[1] 110
+loading /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/chr12.oxinfo90.Rdata 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/mm/emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.12.91175287.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."
+[1] 110
+loading /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/chr12.oxinfo90.Rdata 
+/u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/mm/emma.tibia.RData 
+attempting  /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/tibia.12.91175287.CI.RData 
+[1] "simulate.qtl.confidence.interval"
+Using per.chromosome
+NULL
+[1] "Selecting 1000 snps..."
+[1] "Apply simulation to 1000 snps..."
+[1] "concat results..."

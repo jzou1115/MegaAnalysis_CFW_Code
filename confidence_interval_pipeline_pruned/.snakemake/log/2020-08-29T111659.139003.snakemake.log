@@ -1,0 +1,728 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cluster nodes: 200
+Job counts:
+	count	jobs
+	1	all
+	132	annovar_input
+	133
+
+[Sat Aug 29 11:17:09 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.begin.11.94772022_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.begin.11.94772022_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.begin.11.94772022_annovar_input.txt
+    jobid: 154
+    wildcards: q=activity.begin.11.94772022
+
+Submitted job 154 with external jobid 'Your job 4236516 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:10 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.13.5954638_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.13.5954638_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.13.5954638_annovar_input.txt
+    jobid: 183
+    wildcards: q=activity.total.13.5954638
+
+Submitted job 183 with external jobid 'Your job 4236517 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:12 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/basal.activity.11.96816215_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/basal.activity.11.96816215_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/basal.activity.11.96816215_annovar_input.txt
+    jobid: 195
+    wildcards: q=basal.activity.11.96816215
+
+Submitted job 195 with external jobid 'Your job 4236518 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:13 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/gastroc.2.155856984_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/gastroc.2.155856984_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/gastroc.2.155856984_annovar_input.txt
+    jobid: 222
+    wildcards: q=gastroc.2.155856984
+
+Submitted job 222 with external jobid 'Your job 4236519 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:14 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.6.147027848_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.6.147027848_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.6.147027848_annovar_input.txt
+    jobid: 251
+    wildcards: q=tibia.6.147027848
+
+Submitted job 251 with external jobid 'Your job 4236520 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:15 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/soleus.6.18123198_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/soleus.6.18123198_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/soleus.6.18123198_annovar_input.txt
+    jobid: 235
+    wildcards: q=soleus.6.18123198
+
+Submitted job 235 with external jobid 'Your job 4236521 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:17 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.9.81882866_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.9.81882866_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.9.81882866_annovar_input.txt
+    jobid: 188
+    wildcards: q=activity.total.9.81882866
+
+Submitted job 188 with external jobid 'Your job 4236522 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:18 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.77669072_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.77669072_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.77669072_annovar_input.txt
+    jobid: 139
+    wildcards: q=EDL.2.77669072
+
+Submitted job 139 with external jobid 'Your job 4236523 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:20 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.6.148328439_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.6.148328439_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.6.148328439_annovar_input.txt
+    jobid: 253
+    wildcards: q=tibia.6.148328439
+
+Submitted job 253 with external jobid 'Your job 4236524 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:21 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/TA.11.88973232_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/TA.11.88973232_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/TA.11.88973232_annovar_input.txt
+    jobid: 148
+    wildcards: q=TA.11.88973232
+
+Submitted job 148 with external jobid 'Your job 4236525 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:23 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.2.152116228_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.2.152116228_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.2.152116228_annovar_input.txt
+    jobid: 175
+    wildcards: q=activity.middle.2.152116228
+
+Submitted job 175 with external jobid 'Your job 4236526 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:24 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.a.11.95761488_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.a.11.95761488_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.a.11.95761488_annovar_input.txt
+    jobid: 201
+    wildcards: q=bmd.a.11.95761488
+
+Submitted job 201 with external jobid 'Your job 4236527 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:25 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.11.93469819_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.11.93469819_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.11.93469819_annovar_input.txt
+    jobid: 204
+    wildcards: q=bmd.11.93469819
+
+Submitted job 204 with external jobid 'Your job 4236528 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:27 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.13.113025220_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.13.113025220_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.13.113025220_annovar_input.txt
+    jobid: 136
+    wildcards: q=EDL.13.113025220
+
+Submitted job 136 with external jobid 'Your job 4236529 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:29 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tail.length.8.80905518_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tail.length.8.80905518_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tail.length.8.80905518_annovar_input.txt
+    jobid: 237
+    wildcards: q=tail.length.8.80905518
+
+Submitted job 237 with external jobid 'Your job 4236530 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:30 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.13.7101524_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.13.7101524_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.13.7101524_annovar_input.txt
+    jobid: 172
+    wildcards: q=activity.middle.13.7101524
+
+Submitted job 172 with external jobid 'Your job 4236531 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:32 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.13.114188942_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.13.114188942_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.13.114188942_annovar_input.txt
+    jobid: 137
+    wildcards: q=EDL.13.114188942
+
+Submitted job 137 with external jobid 'Your job 4236532 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:33 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.9.81411377_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.9.81411377_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.9.81411377_annovar_input.txt
+    jobid: 255
+    wildcards: q=tibia.9.81411377
+
+Submitted job 255 with external jobid 'Your job 4236533 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:35 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/plantaris.2.155812908_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/plantaris.2.155812908_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/plantaris.2.155812908_annovar_input.txt
+    jobid: 226
+    wildcards: q=plantaris.2.155812908
+
+Submitted job 226 with external jobid 'Your job 4236534 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:35 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/TA.11.18398304_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/TA.11.18398304_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/TA.11.18398304_annovar_input.txt
+    jobid: 146
+    wildcards: q=TA.11.18398304
+
+Submitted job 146 with external jobid 'Your job 4236535 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:37 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.11.96952835_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.11.96952835_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.11.96952835_annovar_input.txt
+    jobid: 242
+    wildcards: q=tibia.11.96952835
+
+Submitted job 242 with external jobid 'Your job 4236536 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:38 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.12.91175287_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.12.91175287_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.12.91175287_annovar_input.txt
+    jobid: 244
+    wildcards: q=tibia.12.91175287
+
+Submitted job 244 with external jobid 'Your job 4236537 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:39 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.n.11.95582360_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.n.11.95582360_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.n.11.95582360_annovar_input.txt
+    jobid: 214
+    wildcards: q=bmd.n.11.95582360
+
+Submitted job 214 with external jobid 'Your job 4236538 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:41 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.11.95761488_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.11.95761488_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.11.95761488_annovar_input.txt
+    jobid: 206
+    wildcards: q=bmd.11.95761488
+
+Submitted job 206 with external jobid 'Your job 4236539 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:42 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/gastroc.11.79954876_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/gastroc.11.79954876_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/gastroc.11.79954876_annovar_input.txt
+    jobid: 219
+    wildcards: q=gastroc.11.79954876
+
+Submitted job 219 with external jobid 'Your job 4236540 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:44 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.5.39698535_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.5.39698535_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.5.39698535_annovar_input.txt
+    jobid: 248
+    wildcards: q=tibia.5.39698535
+
+Submitted job 248 with external jobid 'Your job 4236541 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:45 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.11.33440009_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.11.33440009_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.11.33440009_annovar_input.txt
+    jobid: 240
+    wildcards: q=tibia.11.33440009
+
+Submitted job 240 with external jobid 'Your job 4236542 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:46 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.85453160_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.85453160_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.85453160_annovar_input.txt
+    jobid: 144
+    wildcards: q=EDL.2.85453160
+
+Submitted job 144 with external jobid 'Your job 4236543 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:48 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.11.96653605_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.11.96653605_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.11.96653605_annovar_input.txt
+    jobid: 181
+    wildcards: q=activity.total.11.96653605
+
+Submitted job 181 with external jobid 'Your job 4236544 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:49 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.a.11.96913720_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.a.11.96913720_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.a.11.96913720_annovar_input.txt
+    jobid: 202
+    wildcards: q=bmd.a.11.96913720
+
+Submitted job 202 with external jobid 'Your job 4236545 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:50 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/soleus.13.9242435_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/soleus.13.9242435_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/soleus.13.9242435_annovar_input.txt
+    jobid: 231
+    wildcards: q=soleus.13.9242435
+
+Submitted job 231 with external jobid 'Your job 4236546 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:52 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.15.12517342_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.15.12517342_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.15.12517342_annovar_input.txt
+    jobid: 247
+    wildcards: q=tibia.15.12517342
+
+[Sat Aug 29 11:17:52 2020]
+Error in rule annovar_input:
+    jobid: 154
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.begin.11.94772022_annovar_input.txt
+    cluster_jobid: Your job 4236516 ("annovar_input") has been submitted
+
+Error executing rule annovar_input on cluster (jobid: 154, external: Your job 4236516 ("annovar_input") has been submitted, jobscript: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/tmp.q_fxjqco/snakejob.annovar_input.154.sh). For error details see the cluster log and the log files of the involved rule(s).
+[Sat Aug 29 11:17:53 2020]
+Error in rule annovar_input:
+    jobid: 175
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.2.152116228_annovar_input.txt
+    cluster_jobid: Your job 4236526 ("annovar_input") has been submitted
+
+Error executing rule annovar_input on cluster (jobid: 175, external: Your job 4236526 ("annovar_input") has been submitted, jobscript: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/tmp.q_fxjqco/snakejob.annovar_input.175.sh). For error details see the cluster log and the log files of the involved rule(s).
+Submitted job 247 with external jobid 'Your job 4236547 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:53 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.9.83150389_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.9.83150389_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.9.83150389_annovar_input.txt
+    jobid: 256
+    wildcards: q=tibia.9.83150389
+
+Submitted job 256 with external jobid 'Your job 4236548 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:55 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/weight.bmi.tibia.13.5655594_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.bmi.tibia.13.5655594_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/weight.bmi.tibia.13.5655594_annovar_input.txt
+    jobid: 259
+    wildcards: q=weight.bmi.tibia.13.5655594
+
+Submitted job 259 with external jobid 'Your job 4236549 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:56 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.80039850_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.80039850_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.80039850_annovar_input.txt
+    jobid: 141
+    wildcards: q=EDL.2.80039850
+
+Submitted job 141 with external jobid 'Your job 4236550 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:57 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.begin.11.96964818_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.begin.11.96964818_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.begin.11.96964818_annovar_input.txt
+    jobid: 155
+    wildcards: q=activity.begin.11.96964818
+
+Submitted job 155 with external jobid 'Your job 4236551 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:58 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.2.89914086_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.2.89914086_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.2.89914086_annovar_input.txt
+    jobid: 187
+    wildcards: q=activity.total.2.89914086
+
+Submitted job 187 with external jobid 'Your job 4236552 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:17:59 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.78722881_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.78722881_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.78722881_annovar_input.txt
+    jobid: 140
+    wildcards: q=EDL.2.78722881
+
+Submitted job 140 with external jobid 'Your job 4236553 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:00 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.n.5.23815043_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.n.5.23815043_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.n.5.23815043_annovar_input.txt
+    jobid: 217
+    wildcards: q=bmd.n.5.23815043
+
+Submitted job 217 with external jobid 'Your job 4236554 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:02 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/glucose.1.152192170_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/glucose.1.152192170_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/glucose.1.152192170_annovar_input.txt
+    jobid: 223
+    wildcards: q=glucose.1.152192170
+
+Submitted job 223 with external jobid 'Your job 4236555 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:03 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.13.8800578_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.13.8800578_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.13.8800578_annovar_input.txt
+    jobid: 186
+    wildcards: q=activity.total.13.8800578
+
+Submitted job 186 with external jobid 'Your job 4236556 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:05 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.end.13.6323352_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.end.13.6323352_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.end.13.6323352_annovar_input.txt
+    jobid: 164
+    wildcards: q=activity.end.13.6323352
+
+Submitted job 164 with external jobid 'Your job 4236557 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:06 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.13.10144490_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.13.10144490_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.13.10144490_annovar_input.txt
+    jobid: 182
+    wildcards: q=activity.total.13.10144490
+
+Submitted job 182 with external jobid 'Your job 4236558 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:07 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/weight.bmi.tibia.2.153707637_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.bmi.tibia.2.153707637_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/weight.bmi.tibia.2.153707637_annovar_input.txt
+    jobid: 263
+    wildcards: q=weight.bmi.tibia.2.153707637
+
+Submitted job 263 with external jobid 'Your job 4236559 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:08 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/soleus.2.155505679_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/soleus.2.155505679_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/soleus.2.155505679_annovar_input.txt
+    jobid: 232
+    wildcards: q=soleus.2.155505679
+
+Submitted job 232 with external jobid 'Your job 4236560 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:10 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.11.93418612_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.11.93418612_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.11.93418612_annovar_input.txt
+    jobid: 179
+    wildcards: q=activity.total.11.93418612
+
+Submitted job 179 with external jobid 'Your job 4236561 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:11 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.2.89917236_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.2.89917236_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.2.89917236_annovar_input.txt
+    jobid: 177
+    wildcards: q=activity.middle.2.89917236
+
+Submitted job 177 with external jobid 'Your job 4236562 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:13 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.11.94772022_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.11.94772022_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.11.94772022_annovar_input.txt
+    jobid: 205
+    wildcards: q=bmd.11.94772022
+
+Submitted job 205 with external jobid 'Your job 4236563 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:14 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.5.27366822_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/bmd.5.27366822_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/bmd.5.27366822_annovar_input.txt
+    jobid: 213
+    wildcards: q=bmd.5.27366822
+
+Submitted job 213 with external jobid 'Your job 4236564 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:15 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/weight.bmi.tibia.17.34822977_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.bmi.tibia.17.34822977_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/weight.bmi.tibia.17.34822977_annovar_input.txt
+    jobid: 262
+    wildcards: q=weight.bmi.tibia.17.34822977
+
+Submitted job 262 with external jobid 'Your job 4236565 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:17 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.end.11.96653605_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.end.11.96653605_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.end.11.96653605_annovar_input.txt
+    jobid: 162
+    wildcards: q=activity.end.11.96653605
+
+Submitted job 162 with external jobid 'Your job 4236566 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:18 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.9.80408302_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.9.80408302_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.9.80408302_annovar_input.txt
+    jobid: 254
+    wildcards: q=tibia.9.80408302
+
+Submitted job 254 with external jobid 'Your job 4236567 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:19 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.15.11500538_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.15.11500538_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.15.11500538_annovar_input.txt
+    jobid: 246
+    wildcards: q=tibia.15.11500538
+
+[Sat Aug 29 11:18:20 2020]
+Error in rule annovar_input:
+    jobid: 240
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.11.33440009_annovar_input.txt
+    cluster_jobid: Your job 4236542 ("annovar_input") has been submitted
+
+Error executing rule annovar_input on cluster (jobid: 240, external: Your job 4236542 ("annovar_input") has been submitted, jobscript: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/tmp.q_fxjqco/snakejob.annovar_input.240.sh). For error details see the cluster log and the log files of the involved rule(s).
+Submitted job 246 with external jobid 'Your job 4236568 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:20 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.12.83514944_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.12.83514944_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.12.83514944_annovar_input.txt
+    jobid: 243
+    wildcards: q=tibia.12.83514944
+
+[Sat Aug 29 11:18:21 2020]
+Error in rule annovar_input:
+    jobid: 181
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.11.96653605_annovar_input.txt
+    cluster_jobid: Your job 4236544 ("annovar_input") has been submitted
+
+Error executing rule annovar_input on cluster (jobid: 181, external: Your job 4236544 ("annovar_input") has been submitted, jobscript: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/tmp.q_fxjqco/snakejob.annovar_input.181.sh). For error details see the cluster log and the log files of the involved rule(s).
+[Sat Aug 29 11:18:21 2020]
+Error in rule annovar_input:
+    jobid: 259
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/weight.bmi.tibia.13.5655594_annovar_input.txt
+    cluster_jobid: Your job 4236549 ("annovar_input") has been submitted
+
+Error executing rule annovar_input on cluster (jobid: 259, external: Your job 4236549 ("annovar_input") has been submitted, jobscript: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/tmp.q_fxjqco/snakejob.annovar_input.259.sh). For error details see the cluster log and the log files of the involved rule(s).
+[Sat Aug 29 11:18:21 2020]
+Error in rule annovar_input:
+    jobid: 141
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.80039850_annovar_input.txt
+    cluster_jobid: Your job 4236550 ("annovar_input") has been submitted
+
+Error executing rule annovar_input on cluster (jobid: 141, external: Your job 4236550 ("annovar_input") has been submitted, jobscript: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/tmp.q_fxjqco/snakejob.annovar_input.141.sh). For error details see the cluster log and the log files of the involved rule(s).
+Submitted job 243 with external jobid 'Your job 4236569 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:21 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.11.95761488_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.11.95761488_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.11.95761488_annovar_input.txt
+    jobid: 241
+    wildcards: q=tibia.11.95761488
+
+Submitted job 241 with external jobid 'Your job 4236570 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:23 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.11.32268598_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.11.32268598_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.11.32268598_annovar_input.txt
+    jobid: 239
+    wildcards: q=tibia.11.32268598
+
+Submitted job 239 with external jobid 'Your job 4236571 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:24 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/weight.bmi.tibia.13.8924722_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/weight.bmi.tibia.13.8924722_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/weight.bmi.tibia.13.8924722_annovar_input.txt
+    jobid: 260
+    wildcards: q=weight.bmi.tibia.13.8924722
+
+Submitted job 260 with external jobid 'Your job 4236572 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:26 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.13.7101524_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.total.13.7101524_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.total.13.7101524_annovar_input.txt
+    jobid: 184
+    wildcards: q=activity.total.13.7101524
+
+Submitted job 184 with external jobid 'Your job 4236573 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:27 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.83000091_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.83000091_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.83000091_annovar_input.txt
+    jobid: 142
+    wildcards: q=EDL.2.83000091
+
+Submitted job 142 with external jobid 'Your job 4236574 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:28 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.6.147721449_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tibia.6.147721449_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tibia.6.147721449_annovar_input.txt
+    jobid: 252
+    wildcards: q=tibia.6.147721449
+
+Submitted job 252 with external jobid 'Your job 4236575 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:29 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tail.length.8.81878779_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/tail.length.8.81878779_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/tail.length.8.81878779_annovar_input.txt
+    jobid: 238
+    wildcards: q=tail.length.8.81878779
+
+Submitted job 238 with external jobid 'Your job 4236576 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:31 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.13.10150339_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.13.10150339_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.13.10150339_annovar_input.txt
+    jobid: 171
+    wildcards: q=activity.middle.13.10150339
+
+Submitted job 171 with external jobid 'Your job 4236577 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:32 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.begin.11.93418612_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.begin.11.93418612_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.begin.11.93418612_annovar_input.txt
+    jobid: 153
+    wildcards: q=activity.begin.11.93418612
+
+Waiting at most 600 seconds for missing files.
+Submitted job 153 with external jobid 'Your job 4236578 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:33 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.13.8209788_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.13.8209788_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.13.8209788_annovar_input.txt
+    jobid: 173
+    wildcards: q=activity.middle.13.8209788
+
+Submitted job 173 with external jobid 'Your job 4236579 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:35 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/TA.12.83514944_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/TA.12.83514944_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/TA.12.83514944_annovar_input.txt
+    jobid: 149
+    wildcards: q=TA.12.83514944
+
+Submitted job 149 with external jobid 'Your job 4236580 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:36 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity30.13.7101524_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity30.13.7101524_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity30.13.7101524_annovar_input.txt
+    jobid: 191
+    wildcards: q=activity30.13.7101524
+
+Submitted job 191 with external jobid 'Your job 4236581 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:37 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.end.13.10150339_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.end.13.10150339_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.end.13.10150339_annovar_input.txt
+    jobid: 163
+    wildcards: q=activity.end.13.10150339
+
+Submitted job 163 with external jobid 'Your job 4236582 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:39 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.end.13.8209788_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.end.13.8209788_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.end.13.8209788_annovar_input.txt
+    jobid: 166
+    wildcards: q=activity.end.13.8209788
+
+Submitted job 166 with external jobid 'Your job 4236583 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:40 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/TA.2.154645131_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/TA.2.154645131_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/TA.2.154645131_annovar_input.txt
+    jobid: 151
+    wildcards: q=TA.2.154645131
+
+Submitted job 151 with external jobid 'Your job 4236584 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:41 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.2.153760436_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.2.153760436_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.2.153760436_annovar_input.txt
+    jobid: 176
+    wildcards: q=activity.middle.2.153760436
+
+Submitted job 176 with external jobid 'Your job 4236585 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:43 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.155780222_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.2.155780222_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/EDL.2.155780222_annovar_input.txt
+    jobid: 138
+    wildcards: q=EDL.2.155780222
+
+Submitted job 138 with external jobid 'Your job 4236586 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:44 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/basal.activity.13.10150339_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/basal.activity.13.10150339_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/basal.activity.13.10150339_annovar_input.txt
+    jobid: 196
+    wildcards: q=basal.activity.13.10150339
+
+Submitted job 196 with external jobid 'Your job 4236587 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:45 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.11.96852500_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.11.96852500_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.11.96852500_annovar_input.txt
+    jobid: 170
+    wildcards: q=activity.middle.11.96852500
+
+Submitted job 170 with external jobid 'Your job 4236588 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:46 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.13.8800578_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity.middle.13.8800578_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity.middle.13.8800578_annovar_input.txt
+    jobid: 174
+    wildcards: q=activity.middle.13.8800578
+
+Submitted job 174 with external jobid 'Your job 4236589 ("annovar_input") has been submitted'.
+
+[Sat Aug 29 11:18:48 2020]
+rule annovar_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity30.13.10150339_snps.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/activity30.13.10150339_r2.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/activity30.13.10150339_annovar_input.txt
+    jobid: 189
+    wildcards: q=activity30.13.10150339
+
+Terminating processes on user request, this might take some time.
+Will exit after finishing currently running jobs.
+Cancelling snakemake on user request.

@@ -1,0 +1,30 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cluster nodes: 200
+Job counts:
+	count	jobs
+	1	all
+	1	plot_ci
+	2
+
+[Sun Aug 23 10:13:52 2020]
+rule plot_ci:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019_Summary_Statistics/COMBINED, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/locuszoom/EDL.13.113025220_r2.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/CI_pruned.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.13.113025220.png
+    jobid: 2
+    wildcards: q=EDL.13.113025220
+
+Submitted job 2 with external jobid 'Your job 4171550 ("plot_ci") has been submitted'.
+[Sun Aug 23 10:15:22 2020]
+Finished job 2.
+1 of 2 steps (50%) done
+
+[Sun Aug 23 10:15:22 2020]
+localrule all:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/kinship_matrices.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/confidence_intervals/plots/EDL.13.113025220.png, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/finemapping/output/annovar_input_snps.txt
+    jobid: 0
+
+[Sun Aug 23 10:15:22 2020]
+Finished job 0.
+2 of 2 steps (100%) done
+Complete log: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/log/2020-08-23T101343.659688.snakemake.log

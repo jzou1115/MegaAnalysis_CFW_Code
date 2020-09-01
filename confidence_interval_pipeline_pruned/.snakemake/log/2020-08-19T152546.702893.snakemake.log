@@ -1,0 +1,2 @@
+SyntaxError in line 40 of /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/Snakefile:
+Unexpected keyword os in rule definition (Snakefile, line 40)

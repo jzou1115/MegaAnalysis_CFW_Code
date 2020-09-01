@@ -1,0 +1,558 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cluster nodes: 100
+Job counts:
+	count	jobs
+	1	all
+	45	susier_input
+	46
+
+[Sun Jul 19 14:14:31 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.total.13.7101524_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.total.13.7101524_pruned_sorted.ld
+    jobid: 112
+    wildcards: q=activity.total.13.7101524
+
+Submitted job 112 with external jobid 'Your job 3801862 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:32 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.a.11.96913720_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.a.11.96913720_pruned_sorted.ld
+    jobid: 120
+    wildcards: q=bmd.a.11.96913720
+
+Submitted job 120 with external jobid 'Your job 3801863 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:33 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.5.24922475_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.5.24922475_pruned_sorted.ld
+    jobid: 126
+    wildcards: q=bmd.5.24922475
+
+Submitted job 126 with external jobid 'Your job 3801864 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:33 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.15.11500538_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.15.11500538_pruned_sorted.ld
+    jobid: 137
+    wildcards: q=tibia.15.11500538
+
+Submitted job 137 with external jobid 'Your job 3801865 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:34 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.11.96912238_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.11.96912238_pruned_sorted.ld
+    jobid: 123
+    wildcards: q=bmd.11.96912238
+
+Submitted job 123 with external jobid 'Your job 3801866 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:35 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.11.96952835_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.11.96952835_pruned_sorted.ld
+    jobid: 133
+    wildcards: q=tibia.11.96952835
+
+Submitted job 133 with external jobid 'Your job 3801867 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:36 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.9.85054834_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.9.85054834_pruned_sorted.ld
+    jobid: 144
+    wildcards: q=tibia.9.85054834
+
+Submitted job 144 with external jobid 'Your job 3801868 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:37 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tail.length.8.81878779_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tail.length.8.81878779_pruned_sorted.ld
+    jobid: 132
+    wildcards: q=tail.length.8.81878779
+
+Submitted job 132 with external jobid 'Your job 3801869 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:37 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.middle.13.8209788_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.middle.13.8209788_pruned_sorted.ld
+    jobid: 110
+    wildcards: q=activity.middle.13.8209788
+
+Submitted job 110 with external jobid 'Your job 3801870 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:39 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.n.11.96918212_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.n.11.96918212_pruned_sorted.ld
+    jobid: 128
+    wildcards: q=bmd.n.11.96918212
+
+Submitted job 128 with external jobid 'Your job 3801871 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:42 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.12.91722613_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.12.91722613_pruned_sorted.ld
+    jobid: 136
+    wildcards: q=tibia.12.91722613
+
+Submitted job 136 with external jobid 'Your job 3801872 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:43 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.end.13.7101524_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.end.13.7101524_pruned_sorted.ld
+    jobid: 107
+    wildcards: q=activity.end.13.7101524
+
+Submitted job 107 with external jobid 'Your job 3801873 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:43 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.5.23814155_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.5.23814155_pruned_sorted.ld
+    jobid: 125
+    wildcards: q=bmd.5.23814155
+
+Submitted job 125 with external jobid 'Your job 3801874 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:44 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/EDL.2.77669072_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/EDL.2.77669072_pruned_sorted.ld
+    jobid: 103
+    wildcards: q=EDL.2.77669072
+
+Submitted job 103 with external jobid 'Your job 3801875 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:45 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.9.83150389_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.9.83150389_pruned_sorted.ld
+    jobid: 143
+    wildcards: q=tibia.9.83150389
+
+Submitted job 143 with external jobid 'Your job 3801876 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:46 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/TA.2.155819633_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/TA.2.155819633_pruned_sorted.ld
+    jobid: 105
+    wildcards: q=TA.2.155819633
+
+Submitted job 105 with external jobid 'Your job 3801877 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:47 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.begin.13.8153523_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.begin.13.8153523_pruned_sorted.ld
+    jobid: 106
+    wildcards: q=activity.begin.13.8153523
+
+Submitted job 106 with external jobid 'Your job 3801878 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:48 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.6.147721449_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.6.147721449_pruned_sorted.ld
+    jobid: 140
+    wildcards: q=tibia.6.147721449
+
+Submitted job 140 with external jobid 'Your job 3801879 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:48 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.total.13.8800578_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.total.13.8800578_pruned_sorted.ld
+    jobid: 114
+    wildcards: q=activity.total.13.8800578
+
+Submitted job 114 with external jobid 'Your job 3801880 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:49 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/basal.activity.13.8209788_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/basal.activity.13.8209788_pruned_sorted.ld
+    jobid: 117
+    wildcards: q=basal.activity.13.8209788
+
+Submitted job 117 with external jobid 'Your job 3801881 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:50 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.n.11.95582360_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.n.11.95582360_pruned_sorted.ld
+    jobid: 127
+    wildcards: q=bmd.n.11.95582360
+
+Submitted job 127 with external jobid 'Your job 3801882 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:51 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/weight.bmi.tibia.17.34013675_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/weight.bmi.tibia.17.34013675_pruned_sorted.ld
+    jobid: 145
+    wildcards: q=weight.bmi.tibia.17.34013675
+
+Submitted job 145 with external jobid 'Your job 3801883 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:52 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/weight.17.34013000_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/weight.17.34013000_pruned_sorted.ld
+    jobid: 146
+    wildcards: q=weight.17.34013000
+
+Submitted job 146 with external jobid 'Your job 3801884 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:52 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.9.81411377_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.9.81411377_pruned_sorted.ld
+    jobid: 142
+    wildcards: q=tibia.9.81411377
+
+Submitted job 142 with external jobid 'Your job 3801885 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:53 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/soleus.13.114802392_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/soleus.13.114802392_pruned_sorted.ld
+    jobid: 130
+    wildcards: q=soleus.13.114802392
+
+Submitted job 130 with external jobid 'Your job 3801886 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:54 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.11.95761488_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.11.95761488_pruned_sorted.ld
+    jobid: 122
+    wildcards: q=bmd.11.95761488
+
+Submitted job 122 with external jobid 'Your job 3801887 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:55 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/TA.12.83514944_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/TA.12.83514944_pruned_sorted.ld
+    jobid: 104
+    wildcards: q=TA.12.83514944
+
+Submitted job 104 with external jobid 'Your job 3801888 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:56 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.total.13.8144012_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.total.13.8144012_pruned_sorted.ld
+    jobid: 113
+    wildcards: q=activity.total.13.8144012
+
+Submitted job 113 with external jobid 'Your job 3801889 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:56 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.a.11.95761488_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.a.11.95761488_pruned_sorted.ld
+    jobid: 119
+    wildcards: q=bmd.a.11.95761488
+
+Submitted job 119 with external jobid 'Your job 3801890 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:57 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.15.12517342_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.15.12517342_pruned_sorted.ld
+    jobid: 138
+    wildcards: q=tibia.15.12517342
+
+Submitted job 138 with external jobid 'Your job 3801891 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:58 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.middle.13.8800578_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.middle.13.8800578_pruned_sorted.ld
+    jobid: 111
+    wildcards: q=activity.middle.13.8800578
+
+Submitted job 111 with external jobid 'Your job 3801892 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:14:59 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/EDL.2.155780222_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/EDL.2.155780222_pruned_sorted.ld
+    jobid: 102
+    wildcards: q=EDL.2.155780222
+
+Submitted job 102 with external jobid 'Your job 3801893 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:00 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.end.13.8209788_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.end.13.8209788_pruned_sorted.ld
+    jobid: 108
+    wildcards: q=activity.end.13.8209788
+
+Submitted job 108 with external jobid 'Your job 3801894 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:00 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.a.11.94758993_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.a.11.94758993_pruned_sorted.ld
+    jobid: 118
+    wildcards: q=bmd.a.11.94758993
+
+Submitted job 118 with external jobid 'Your job 3801895 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:01 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity30.13.8139647_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity30.13.8139647_pruned_sorted.ld
+    jobid: 115
+    wildcards: q=activity30.13.8139647
+
+Submitted job 115 with external jobid 'Your job 3801896 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:02 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.middle.13.7101524_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.middle.13.7101524_pruned_sorted.ld
+    jobid: 109
+    wildcards: q=activity.middle.13.7101524
+
+Submitted job 109 with external jobid 'Your job 3801897 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:03 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/soleus.13.113404971_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/soleus.13.113404971_pruned_sorted.ld
+    jobid: 129
+    wildcards: q=soleus.13.113404971
+
+Submitted job 129 with external jobid 'Your job 3801898 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:04 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tail.length.8.80905518_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tail.length.8.80905518_pruned_sorted.ld
+    jobid: 131
+    wildcards: q=tail.length.8.80905518
+
+Submitted job 131 with external jobid 'Your job 3801899 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:05 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.6.147027848_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.6.147027848_pruned_sorted.ld
+    jobid: 139
+    wildcards: q=tibia.6.147027848
+
+Submitted job 139 with external jobid 'Your job 3801900 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:06 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.12.83514944_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.12.83514944_pruned_sorted.ld
+    jobid: 134
+    wildcards: q=tibia.12.83514944
+
+Submitted job 134 with external jobid 'Your job 3801901 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:06 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.12.91175287_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.12.91175287_pruned_sorted.ld
+    jobid: 135
+    wildcards: q=tibia.12.91175287
+
+Submitted job 135 with external jobid 'Your job 3801902 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:07 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/basal.activity.13.7101524_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/basal.activity.13.7101524_pruned_sorted.ld
+    jobid: 116
+    wildcards: q=basal.activity.13.7101524
+
+Submitted job 116 with external jobid 'Your job 3801903 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:08 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.5.21721308_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.5.21721308_pruned_sorted.ld
+    jobid: 124
+    wildcards: q=bmd.5.21721308
+
+Submitted job 124 with external jobid 'Your job 3801904 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:09 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.6.148328439_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.6.148328439_pruned_sorted.ld
+    jobid: 141
+    wildcards: q=tibia.6.148328439
+
+Submitted job 141 with external jobid 'Your job 3801905 ("susier_input") has been submitted'.
+
+[Sun Jul 19 14:15:10 2020]
+rule susier_input:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_decorrelatedThresholds_q95_genes.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.11.94772022_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.11.94772022_pruned_sorted.ld
+    jobid: 121
+    wildcards: q=bmd.11.94772022
+
+Submitted job 121 with external jobid 'Your job 3801906 ("susier_input") has been submitted'.
+[Sun Jul 19 14:18:18 2020]
+Finished job 112.
+1 of 46 steps (2%) done
+[Sun Jul 19 14:18:18 2020]
+Finished job 120.
+2 of 46 steps (4%) done
+[Sun Jul 19 14:18:18 2020]
+Finished job 126.
+3 of 46 steps (7%) done
+[Sun Jul 19 14:18:18 2020]
+Finished job 137.
+4 of 46 steps (9%) done
+[Sun Jul 19 14:18:19 2020]
+Finished job 133.
+5 of 46 steps (11%) done
+[Sun Jul 19 14:18:19 2020]
+Finished job 144.
+6 of 46 steps (13%) done
+[Sun Jul 19 14:18:19 2020]
+Finished job 132.
+7 of 46 steps (15%) done
+[Sun Jul 19 14:18:19 2020]
+Finished job 128.
+8 of 46 steps (17%) done
+[Sun Jul 19 14:18:19 2020]
+Finished job 125.
+9 of 46 steps (20%) done
+[Sun Jul 19 14:18:20 2020]
+Finished job 143.
+10 of 46 steps (22%) done
+[Sun Jul 19 14:18:20 2020]
+Finished job 140.
+11 of 46 steps (24%) done
+[Sun Jul 19 14:19:11 2020]
+Finished job 146.
+12 of 46 steps (26%) done
+[Sun Jul 19 14:19:11 2020]
+Finished job 136.
+13 of 46 steps (28%) done
+[Sun Jul 19 14:19:11 2020]
+Finished job 107.
+14 of 46 steps (30%) done
+[Sun Jul 19 14:19:12 2020]
+Finished job 103.
+15 of 46 steps (33%) done
+[Sun Jul 19 14:19:12 2020]
+Finished job 106.
+16 of 46 steps (35%) done
+[Sun Jul 19 14:19:24 2020]
+Finished job 117.
+17 of 46 steps (37%) done
+[Sun Jul 19 14:19:36 2020]
+Finished job 123.
+18 of 46 steps (39%) done
+[Sun Jul 19 14:19:36 2020]
+Finished job 127.
+19 of 46 steps (41%) done
+[Sun Jul 19 14:19:48 2020]
+Finished job 130.
+20 of 46 steps (43%) done
+[Sun Jul 19 14:19:49 2020]
+Finished job 138.
+21 of 46 steps (46%) done
+[Sun Jul 19 14:20:00 2020]
+Finished job 105.
+22 of 46 steps (48%) done
+[Sun Jul 19 14:20:00 2020]
+Finished job 114.
+23 of 46 steps (50%) done
+[Sun Jul 19 14:20:00 2020]
+Finished job 142.
+24 of 46 steps (52%) done
+[Sun Jul 19 14:20:12 2020]
+Finished job 145.
+25 of 46 steps (54%) done
+[Sun Jul 19 14:20:24 2020]
+Finished job 104.
+26 of 46 steps (57%) done
+[Sun Jul 19 14:20:25 2020]
+Finished job 108.
+27 of 46 steps (59%) done
+[Sun Jul 19 14:20:37 2020]
+Finished job 109.
+28 of 46 steps (61%) done
+[Sun Jul 19 14:20:37 2020]
+Finished job 113.
+29 of 46 steps (63%) done
+[Sun Jul 19 14:20:37 2020]
+Finished job 119.
+30 of 46 steps (65%) done
+[Sun Jul 19 14:20:37 2020]
+Finished job 111.
+31 of 46 steps (67%) done
+[Sun Jul 19 14:20:38 2020]
+Finished job 118.
+32 of 46 steps (70%) done
+[Sun Jul 19 14:20:48 2020]
+Finished job 110.
+33 of 46 steps (72%) done
+[Sun Jul 19 14:20:59 2020]
+Finished job 122.
+34 of 46 steps (74%) done
+[Sun Jul 19 14:21:10 2020]
+Finished job 124.
+35 of 46 steps (76%) done
+[Sun Jul 19 14:21:21 2020]
+Finished job 131.
+36 of 46 steps (78%) done
+[Sun Jul 19 14:21:32 2020]
+Finished job 134.
+37 of 46 steps (80%) done
+[Sun Jul 19 14:21:32 2020]
+Finished job 141.
+38 of 46 steps (83%) done
+[Sun Jul 19 14:21:42 2020]
+Finished job 139.
+39 of 46 steps (85%) done
+[Sun Jul 19 14:21:42 2020]
+Finished job 116.
+40 of 46 steps (87%) done
+[Sun Jul 19 14:21:52 2020]
+Finished job 121.
+41 of 46 steps (89%) done
+[Sun Jul 19 14:22:22 2020]
+Finished job 115.
+42 of 46 steps (91%) done
+[Sun Jul 19 14:23:02 2020]
+Finished job 129.
+43 of 46 steps (93%) done
+[Sun Jul 19 14:23:02 2020]
+Finished job 102.
+44 of 46 steps (96%) done
+[Sun Jul 19 14:23:02 2020]
+Finished job 135.
+45 of 46 steps (98%) done
+
+[Sun Jul 19 14:23:02 2020]
+localrule all:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr1.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr2.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr3.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr4.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr5.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr6.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr7.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr8.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr9.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr10.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr11.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr12.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr13.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr14.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr15.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr16.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr17.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr18.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/chr19.oxinfo90.Rdata, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.1.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.2.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.3.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.4.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.5.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.6.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.7.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.8.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.9.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.10.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.11.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.12.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.13.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.14.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.15.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.16.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.17.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.18.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity30.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity5.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.begin.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.end.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.middle.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/activity.total.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/basal.activity.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.a.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.n.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/bmd.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/decay.activity.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/EDL.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.baseline.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.corr.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.context.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.baseline.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.corr.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.cue.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.corr.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/fc.uncond.freeze.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/gastroc.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/glucose.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.diff.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/habit.ratio.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/plantaris.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp12.ppi.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/pp6.ppi.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/soleus.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/startle.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tail.length.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/TA.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/tibia.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.bmi.tibia.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/output2/scans/weight.19.permute.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/EDL.12.83885241.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/EDL.2.155780222.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/EDL.2.77669072.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/TA.12.83514944.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/TA.2.155819633.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/activity.begin.13.8153523.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/activity.end.13.7101524.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/activity.end.13.8209788.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/activity.middle.13.7101524.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/activity.middle.13.8209788.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/activity.middle.13.8800578.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/activity.total.13.7101524.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/activity.total.13.8144012.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/activity.total.13.8800578.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/activity30.13.8139647.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/basal.activity.13.7101524.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/basal.activity.13.8209788.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/bmd.a.11.94758993.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/bmd.a.11.95761488.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/bmd.a.11.96913720.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/bmd.11.94772022.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/bmd.11.95761488.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/bmd.11.96912238.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/bmd.5.21721308.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/bmd.5.23814155.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/bmd.5.24922475.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/bmd.n.11.95582360.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/bmd.n.11.96918212.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/soleus.13.113404971.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/soleus.13.114802392.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tail.length.8.80905518.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tail.length.8.81878779.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tibia.11.96952835.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tibia.12.83514944.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tibia.12.91175287.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tibia.12.91722613.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tibia.15.11500538.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tibia.15.12517342.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tibia.6.147027848.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tibia.6.147721449.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tibia.6.148328439.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tibia.9.81411377.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tibia.9.83150389.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/tibia.9.85054834.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/weight.bmi.tibia.17.34013675.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/weight.17.34013000.CI.RData, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out/confidence_intervals/CI_pruned.txt, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/EDL.12.83885241_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/EDL.2.155780222_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/EDL.2.77669072_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/TA.12.83514944_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/TA.2.155819633_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.begin.13.8153523_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.end.13.7101524_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.end.13.8209788_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.middle.13.7101524_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.middle.13.8209788_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.middle.13.8800578_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.total.13.7101524_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.total.13.8144012_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity.total.13.8800578_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/activity30.13.8139647_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/basal.activity.13.7101524_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/basal.activity.13.8209788_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.a.11.94758993_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.a.11.95761488_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.a.11.96913720_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.11.94772022_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.11.95761488_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.11.96912238_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.5.21721308_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.5.23814155_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.5.24922475_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.n.11.95582360_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/bmd.n.11.96918212_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/soleus.13.113404971_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/soleus.13.114802392_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tail.length.8.80905518_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tail.length.8.81878779_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.11.96952835_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.12.83514944_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.12.91175287_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.12.91722613_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.15.11500538_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.15.12517342_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.6.147027848_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.6.147721449_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.6.148328439_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.9.81411377_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.9.83150389_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/tibia.9.85054834_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/weight.bmi.tibia.17.34013675_pruned_sorted.z, /u/home/j/jzou1115/project-zarlab/CFW/Finemapping_Analysis_decorrelated/input/weight.17.34013000_pruned_sorted.z
+    jobid: 0
+
+[Sun Jul 19 14:23:02 2020]
+Finished job 0.
+46 of 46 steps (100%) done
+Complete log: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/.snakemake/log/2020-07-19T141428.947872.snakemake.log

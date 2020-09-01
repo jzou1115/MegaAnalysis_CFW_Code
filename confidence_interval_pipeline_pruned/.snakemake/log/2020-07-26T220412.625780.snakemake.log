@@ -1,0 +1,36 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	19	subsetPrunedSNPs
+	20
+
+[Sun Jul 26 22:04:13 2020]
+rule subsetPrunedSNPs:
+    input: /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr2.oxinfo90.dosages.gz, /u/home/j/jzou1115/project-zarlab/CFW/MegaAnalysis_CFW_2019/genotypes/oxinfo90/combined.chr2.oxinfo90.annot, /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr2.oxinfo90.txt, /u/home/j/jzou1115/project-zarlab/CFW/confidence_intervals/data/phenotypes/pheno.combined.txt
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr2.oxinfo90.Rdata
+    jobid: 21
+    wildcards: chr=2
+
+[Sun Jul 26 22:04:13 2020]
+Error in rule subsetPrunedSNPs:
+    jobid: 21
+    output: /u/home/j/jzou1115/project-zarlab/CFW/confidence_interval_pipeline_out_pruned/genotypes/combined.chr2.oxinfo90.Rdata
+
+RuleException:
+URLError in line 84 of /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/Snakefile:
+<urlopen error [Errno 2] No such file or directory: '/u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/scripts/subset_pruned_snps.Rscripts/makeKinshipRDataFiles.R'>
+  File "/u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/Snakefile", line 84, in __rule_subsetPrunedSNPs
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/urllib/request.py", line 222, in urlopen
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/urllib/request.py", line 525, in open
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/urllib/request.py", line 543, in _open
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/urllib/request.py", line 503, in _call_chain
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/urllib/request.py", line 1453, in file_open
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/urllib/request.py", line 1492, in open_local_file
+  File "/u/home/j/jzou1115/project-ernst/software/anaconda3/lib/python3.7/concurrent/futures/thread.py", line 57, in run
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline_pruned/.snakemake/log/2020-07-26T220412.625780.snakemake.log

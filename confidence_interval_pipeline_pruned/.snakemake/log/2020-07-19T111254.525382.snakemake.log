@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 23 of /u/project/zarlab/jzou1115/CFW/MegaAnalysis_CFW_Code/confidence_interval_pipeline/Snakefile:
+Missing input files for rule all:
+/CI_decorrelatedThresholds.txt
